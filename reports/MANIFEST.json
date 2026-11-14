@@ -31,8 +31,8 @@
   },
   {
     "path": "MIGRATION_REPORT.md",
-    "bytes": 2551,
-    "sha256": "a25793f38032de8ad09e38732d3a7fd48adf015174999690af513232fe66c07d"
+    "bytes": 3820,
+    "sha256": "1c93326644ce435da3fd8a2282854eb141546c3fd3b736129f451be2be94744c"
   },
   {
     "path": "README.md",
@@ -106,8 +106,8 @@
   },
   {
     "path": "docs/DECISIONS.md",
-    "bytes": 1216,
-    "sha256": "a41349650bbf55d3ecec9e79b6d9b2db9f13f7aa23e2f5924a561a80caeb003e"
+    "bytes": 1237,
+    "sha256": "df578ee47aa8dc719c05a8474cc74a647f7e1e4c640dc8044ef238c116550b6c"
   },
   {
     "path": "docs/RESEARCH.md",
@@ -116,8 +116,8 @@
   },
   {
     "path": "docs/RESOURCE_SYNC.md",
-    "bytes": 3114,
-    "sha256": "11be85777da5f5902ecc09b07e67006af74c2b5f14b711c8eb6d8b21674cc270"
+    "bytes": 3104,
+    "sha256": "77c3d4903dea6f054491fe5ae16129e39e15d43852dc285e6342f764cea31ad3"
   },
   {
     "path": "docs/REVIEW_HANDOFF.md",
@@ -180,9 +180,19 @@
     "sha256": "8fcaa5b7c5663ca25cf01eff42faf9a0d025281e87faa426e969ab1fa5fdd049"
   },
   {
+    "path": "reports/MIGRATION_CHECKS.json",
+    "bytes": 527,
+    "sha256": "851af7fcd0fe705de808f720ae4d6c705e7eaf081940cb4ede7af2a910fdae15"
+  },
+  {
     "path": "reports/REDACTION_MAP.json",
     "bytes": 1935,
     "sha256": "027abbf739005b707bcc3971494f700ff1b88190f11830cfe7646997d18fab7e"
+  },
+  {
+    "path": "reports/REMOTE_VERIFICATION.json",
+    "bytes": 2456,
+    "sha256": "007cd94023a690b5117be806d70a5ec35cad1fd0b0cd6dad6995d3a22002bf3c"
   },
   {
     "path": "reports/STAGE0_ORIGINAL_MANIFEST.json",
@@ -247,7 +257,17 @@
   {
     "path": "reports/migration/privacy_scan.json",
     "bytes": 93,
-    "sha256": "8d6d6febd1ff043262fce11fdae881c39e96fa624d0b5f7a009b620a00be5449"
+    "sha256": "b5c160d9324a69ae3cbcddc6f4d9c47661dd47ee2f6aa692e2859e5966d6e7a8"
+  },
+  {
+    "path": "reports/migration/rebuild_clone_pdf_fixed.log",
+    "bytes": 3616,
+    "sha256": "4e79dd61f1e25926d865806317c68620bee6f732134c300192c17113c439e1a3"
+  },
+  {
+    "path": "reports/migration/rebuild_pdf_fixed.log",
+    "bytes": 3616,
+    "sha256": "4e79dd61f1e25926d865806317c68620bee6f732134c300192c17113c439e1a3"
   },
   {
     "path": "reports/pdf_results.json",
@@ -366,8 +386,8 @@
   },
   {
     "path": "scripts/pdf_diagnostic.py",
-    "bytes": 913,
-    "sha256": "c7f88fe75c9385570f420d3d8c0441e7d9ba209cb9274c55c95040d7160a8bb0"
+    "bytes": 970,
+    "sha256": "deb031e26e2201e4a2738b47631f5af1c25d8ff3cdc4d531b649d01f9227f843"
   },
   {
     "path": "scripts/pixel_check.py",
@@ -422,7 +442,7 @@
   {
     "path": "tests/svg/raster_diagnostic.pdf",
     "bytes": 27903,
-    "sha256": "9bbc05bf17bc14ea2a53e047691bd535b29153c5b02d14399a54151bea421471"
+    "sha256": "ed4485d09202c7d0491f76d7e357a49ff1a79c4b674ae298aa647e2d2a4aec62"
   },
   {
     "path": "tests/svg/state_01.svg",

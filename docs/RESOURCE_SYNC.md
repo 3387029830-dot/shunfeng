@@ -8,7 +8,7 @@
 - dev：Codex日常工作分支；阶段任务可从dev派生分支。未经授权不向main直接提交/推送、不开自动合并、不强推。
 - PR审批不等于下一阶段批准；是否进入Stage1必须单独明确。
 
-本仓库有本地pre-push防误推hook，运行 `git config --local core.hooksPath .githooks` 后拦截main的普通git push。连接器API不会运行本地hook；服务器保护未配置/未验证时，必须依靠AGENTS/审查流程，不声称技术强制。克隆不会自动安装hook，需要每个工作副本明确启用。
+本仓库有本地pre-push防误推hook，运行 `git config --local core.hooksPath .githooks` 后拦截main的普通git push。连接器API不会运行本地hook；服务器保护未启用时，必须依靠AGENTS/审查流程，不声称技术强制。克隆不会自动安装hook，需要每个工作副本明确启用。
 
 ## 文件规则
 

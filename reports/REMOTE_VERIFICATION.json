@@ -1,0 +1,83 @@
+{
+  "verified_commit": "82ca75637b4446ed02b3a5930048adbc3445fc05",
+  "tree_sha": "db93cb4f47d7ab5730189b3ca6e8d1fd1f6d666c",
+  "remote_files": 91,
+  "all_paths_modes_blob_shas_match_local": true,
+  "main": "82ca75637b4446ed02b3a5930048adbc3445fc05",
+  "dev": "82ca75637b4446ed02b3a5930048adbc3445fc05",
+  "server_branch_protection": false,
+  "file_reads": [
+    {
+      "file": "README.md",
+      "sha": "fe8940140623bee8458b660370f15c1cf3fd3051",
+      "read": true
+    },
+    {
+      "file": "WORKFLOW_AUDIT.md",
+      "sha": "21c13469e324891980fddba411ec1f21a9de9f20",
+      "read": true
+    },
+    {
+      "file": "TOOL_COMPARISON.md",
+      "sha": "4cd6aab13eeeeb427c3af24405983a387af64424",
+      "read": true
+    },
+    {
+      "file": "WORKFLOW_ARCHITECTURE.md",
+      "sha": "fe47c98297f0444e2015b62dc9c2350394f09f7a",
+      "read": true
+    },
+    {
+      "file": "TEST_REPORT.md",
+      "sha": "6af496179cb5a330f2e1f3a62716215126307530",
+      "read": true
+    },
+    {
+      "file": "AGENTS.md",
+      "sha": "086bc771d01dea1f0e2010ad9de8fdf45bed7125",
+      "read": true
+    },
+    {
+      "file": "ROADMAP.md",
+      "sha": "52e14097c697025b03a1343e01c0148bbe1d133c",
+      "read": true
+    },
+    {
+      "file": "BLOCKERS.md",
+      "sha": "5ac9e25aa5553fad872849dbb7394ebf46b5a924",
+      "read": true
+    },
+    {
+      "file": "REVIEW_HANDOFF.md",
+      "sha": "6f79d3b3f34d9e2ab1c46fabefb75f96c1668508",
+      "read": true
+    },
+    {
+      "file": "neutral.svg",
+      "sha": "9ed8df84bbb9e26a088ce1c26b066ccabb116bcb",
+      "read": true
+    }
+  ],
+  "transport": "authenticated GitHub connector Git Data API; not CLI git push",
+  "isolated_clone_rebuild": {
+    "initial_issue": "PDF internal image names varied by absolute source path; all graphic tests passed",
+    "fix": "ReportLab ImageReader hashes image content instead of filename",
+    "cross_directory_pdf_and_preview_byte_equal_after_fix": true,
+    "fixed_rebuild_logs": [
+      "reports/migration/rebuild_pdf_fixed.log",
+      "reports/migration/rebuild_clone_pdf_fixed.log"
+    ],
+    "final_commit_clean_clone_test": "to verify after committing fix"
+  },
+  "binary_preview_read": {
+    "path": "previews/geometry_contact.png",
+    "blob_sha": "136d1c9a2a519f23623accdb5d7e9ae8bc7c25fb",
+    "base64_read_success": true
+  },
+  "local_hook": {
+    "main_push_test_exit": 1,
+    "main_push_blocked": true,
+    "enabled_locally": true,
+    "api_enforcement": false
+  }
+}

@@ -11,4 +11,4 @@
 
 ## GitHub迁移授权与偏差
 
-用户明确授权仅迁移与协作机制建设，不批准Stage1。用户自行创建并提供私有仓库3387029830-dot/shunfeng，故使用该仓库而不重复创建SF-City-Advertising。原始工程保留，迁移副本脱敏。系统Git无可用GitHub凭证，GitHub连接器有admin/push权限，使用连接器Git Data/Contents API传输，不能宣称本机git push认证已建立。服务器分支保护暂未配置，文档制度与本地hook不能代替服务器保护。
+用户明确授权仅迁移与协作机制建设，不批准Stage1。用户自行创建并提供私有仓库3387029830-dot/shunfeng，故使用该仓库而不重复创建SF-City-Advertising。原始工程保留，迁移副本脱敏。系统Git无可用GitHub凭证，GitHub连接器有admin/push权限，使用连接器Git Data/Contents API传输，不能宣称本机git push认证已建立。服务器分支保护经分支元数据确认未启用，文档制度与本地hook不能代替服务器保护。
