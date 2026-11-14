@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "purpose": "stage0_neutral_geometry_only",
+  "canvas": [
+    640,
+    480
+  ],
+  "center": [
+    320,
+    280
+  ],
+  "angles_convention": "degrees clockwise from +x, SVG y-down",
+  "lengths": [
+    170,
+    125
+  ],
+  "fixed_angle": 25,
+  "states": {
+    "state_01": -165,
+    "state_02": -125,
+    "state_03": -85
+  }
+}

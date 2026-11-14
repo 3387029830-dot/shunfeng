@@ -1,0 +1,4 @@
+# Already available diagnostic runtime; do not install automatically.
+Pillow==13.0.0
+reportlab==4.4.9
+pypdf==6.21.4

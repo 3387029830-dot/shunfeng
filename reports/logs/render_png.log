@@ -1,0 +1,44 @@
+[
+  {
+    "input": "neutral.svg",
+    "output": "neutral.png",
+    "width": 853,
+    "height": 640,
+    "status": "PASS"
+  },
+  {
+    "input": "neutral_patched.svg",
+    "output": "neutral_patched.png",
+    "width": 853,
+    "height": 640,
+    "status": "PASS"
+  },
+  {
+    "input": "state_01.svg",
+    "output": "state_01.png",
+    "width": 853,
+    "height": 640,
+    "status": "PASS"
+  },
+  {
+    "input": "state_02.svg",
+    "output": "state_02.png",
+    "width": 853,
+    "height": 640,
+    "status": "PASS"
+  },
+  {
+    "input": "state_02_plus7.svg",
+    "output": "state_02_plus7.png",
+    "width": 853,
+    "height": 640,
+    "status": "PASS"
+  },
+  {
+    "input": "state_03.svg",
+    "output": "state_03.png",
+    "width": 853,
+    "height": 640,
+    "status": "PASS"
+  }
+]

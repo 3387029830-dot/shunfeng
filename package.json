@@ -1,0 +1,9 @@
+{
+  "name": "sf-city-advertising-stage0",
+  "private": true,
+  "version": "0.0.0",
+  "description": "Neutral Stage 0 diagnostics only; no automatic installation",
+  "dependencies": {
+    "sharp": "0.35.5"
+  }
+}

@@ -1,0 +1,41 @@
+# Local metadata and caches
+.DS_Store
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+node_modules/
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+work/
+tmp/
+cache/
+reports/fontcache/
+reports/environment_current.json
+reports/local_handoff.json
+*.log.tmp
+*.blend[0-9]*
+*.autosave
+*.afbackup
+*.tmp
+*.zip
+# Selected previews only; add new approved previews explicitly here.
+previews/*
+!previews/neutral.png
+!previews/neutral_patched.png
+!previews/state_01.png
+!previews/state_02.png
+!previews/state_02_plus7.png
+!previews/state_03.png
+!previews/geometry_contact.png
+!previews/pdf_check.png
+# Native binaries require explicit size/LFS review before adding.
+*.af
+*.afdesign
+*.afphoto
+*.afpub
+*.blend

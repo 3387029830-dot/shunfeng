@@ -1,0 +1,83 @@
+{
+  "client_date": "2026-11-14",
+  "timezone": "Asia/Shanghai",
+  "scope": "local host via shell; standard application folders, max depth 4; not every mounted disk/custom folder",
+  "commands": [
+    {
+      "command": [
+        "uname",
+        "-m"
+      ],
+      "exit": 0,
+      "stdout": "arm64\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "sw_vers"
+      ],
+      "exit": 0,
+      "stdout": "ProductName:\t\tmacOS\nProductVersion:\t\t26.6\nBuildVersion:\t\t25G72\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "sysctl",
+        "-n",
+        "hw.memsize"
+      ],
+      "exit": 1,
+      "stdout": "",
+      "stderr": "sysctl: sysctl fmt -1 1024 1: Operation not permitted\n"
+    },
+    {
+      "command": [
+        "python3",
+        "--version"
+      ],
+      "exit": 0,
+      "stdout": "Python 3.9.6\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "git",
+        "--version"
+      ],
+      "exit": 0,
+      "stdout": "git version 2.54.0 (Apple Git-157)\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "/usr/libexec/PlistBuddy",
+        "-c",
+        "Print :CFBundleShortVersionString",
+        "/Applications/Google Chrome.app/Contents/Info.plist"
+      ],
+      "exit": 0,
+      "stdout": "157.0.8103.79\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "system_profiler",
+        "SPHardwareDataType",
+        "(filtered)"
+      ],
+      "exit": 0,
+      "stdout": "      Model Name: MacBook Air\n      Model Identifier: Mac17,3\n      Chip: Apple M5\n      Memory: 16 GB",
+      "stderr": "2026-11-14 18:48:07.695 system_profiler[49259:26236898] Error fetching hw.cpufamily: -1\n"
+    }
+  ],
+  "target_apps": [],
+  "searched_roots": [
+    "/Applications",
+    "/System/Applications",
+    "${USER_HOME}/Applications"
+  ],
+  "path_executables": {
+    "inkscape": null,
+    "blender": null
+  }
+}

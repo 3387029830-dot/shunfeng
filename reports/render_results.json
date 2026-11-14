@@ -1,0 +1,78 @@
+{
+  "engine": "sharp/libvips SVG loader, not Inkscape",
+  "versions": {
+    "aom": "3.15.1",
+    "archive": "3.8.9",
+    "cairo": "1.18.6",
+    "cgif": "0.5.4",
+    "exif": "0.6.26",
+    "expat": "2.8.5",
+    "ffi": "3.8.0",
+    "fontconfig": "2.18.3",
+    "freetype": "2.14.3",
+    "fribidi": "1.0.17",
+    "glib": "2.90.0",
+    "harfbuzz": "14.5.0",
+    "heif": "1.23.5",
+    "highway": "1.4.0",
+    "imagequant": "2.4.1",
+    "lcms": "2.19.1",
+    "mozjpeg": "0826579",
+    "pango": "1.58.2",
+    "pixman": "0.46.4",
+    "png": "1.6.58",
+    "proxy-libintl": "0.5",
+    "rsvg": "2.63.2",
+    "tiff": "4.7.2",
+    "uhdr": "2.0.2",
+    "vips": "8.18.7",
+    "webp": "1.6.0",
+    "xml2": "2.15.4",
+    "zlib-ng": "2.3.3",
+    "sharp": "0.35.5"
+  },
+  "results": [
+    {
+      "input": "neutral.svg",
+      "output": "neutral.png",
+      "width": 853,
+      "height": 640,
+      "status": "PASS"
+    },
+    {
+      "input": "neutral_patched.svg",
+      "output": "neutral_patched.png",
+      "width": 853,
+      "height": 640,
+      "status": "PASS"
+    },
+    {
+      "input": "state_01.svg",
+      "output": "state_01.png",
+      "width": 853,
+      "height": 640,
+      "status": "PASS"
+    },
+    {
+      "input": "state_02.svg",
+      "output": "state_02.png",
+      "width": 853,
+      "height": 640,
+      "status": "PASS"
+    },
+    {
+      "input": "state_02_plus7.svg",
+      "output": "state_02_plus7.png",
+      "width": 853,
+      "height": 640,
+      "status": "PASS"
+    },
+    {
+      "input": "state_03.svg",
+      "output": "state_03.png",
+      "width": 853,
+      "height": 640,
+      "status": "PASS"
+    }
+  ]
+}

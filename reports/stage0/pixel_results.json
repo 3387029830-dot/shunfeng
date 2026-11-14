@@ -1,0 +1,29 @@
+{
+  "neutral_patch_pixel_bbox": [
+    76,
+    423,
+    469,
+    486
+  ],
+  "scope": "Only curve region changed visually; bbox in rendered pixels",
+  "opacity_sample_rgb": [
+    227,
+    185,
+    161
+  ],
+  "clip_outside_rgb": [
+    244,
+    241,
+    234
+  ],
+  "background_rgb": [
+    244,
+    241,
+    234
+  ],
+  "png_size": [
+    853,
+    640
+  ],
+  "visual_review": "Chinese text legible; circle/rectangle/Bezier/clipping/opacity visible. Human-clock readability NOT evaluated."
+}

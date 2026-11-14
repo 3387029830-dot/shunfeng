@@ -1,0 +1,25 @@
+{
+  "status": "concept_only_no_artwork",
+  "root": "Pelvis",
+  "hierarchy": {
+    "Pelvis": [
+      "Torso",
+      "LeftLeg",
+      "RightLeg"
+    ],
+    "Torso": [
+      "Neck",
+      "LeftArm",
+      "RightArm"
+    ],
+    "Neck": [
+      "Head"
+    ]
+  },
+  "shared_proportions": true,
+  "segment_lengths": null,
+  "joint_angle_limits": null,
+  "head_direction_per_pose": null,
+  "arms_independent": true,
+  "correction_paths_per_pose": true
+}

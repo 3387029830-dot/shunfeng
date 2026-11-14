@@ -1,0 +1,13 @@
+{
+  "status": "PASS (raster transport only)",
+  "pages": 1,
+  "page_pt": [
+    0,
+    0,
+    640,
+    520
+  ],
+  "image_count": 1,
+  "text": "RASTER DIAGNOSTIC ONLY - not vector / not print-ready\n",
+  "limitations": "SVG paths, editable Chinese text, PDF/X, ICC and print reliability NOT tested"
+}

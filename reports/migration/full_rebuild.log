@@ -1,0 +1,160 @@
+[
+  {
+    "test": "unique_ids",
+    "status": "PASS",
+    "detail": [
+      "clip",
+      "layer-base",
+      "layer-shapes",
+      "level-2",
+      "level-3",
+      "circle",
+      "rectangle",
+      "bezier",
+      "clipped",
+      "layer-text",
+      "chinese"
+    ]
+  },
+  {
+    "test": "svg_structure",
+    "status": "PASS",
+    "detail": "ElementTree parse + feature presence; not full SVG schema validation"
+  },
+  {
+    "test": "three_nested_groups",
+    "status": "PASS",
+    "detail": "g/g/g"
+  },
+  {
+    "test": "chinese_source",
+    "status": "PASS",
+    "detail": "Unicode text retained; not glyph rendering proof"
+  },
+  {
+    "test": "shared_background",
+    "status": "PASS",
+    "detail": "3596c7484d44b0102495b6e0dfad82767adf6d54d0ca0c7deb520098947f067a"
+  },
+  {
+    "test": "shared_center",
+    "status": "PASS",
+    "detail": "320,280 for every state"
+  },
+  {
+    "test": "isolated_parameter_update",
+    "status": "PASS",
+    "detail": [
+      "state_02"
+    ]
+  },
+  {
+    "test": "isolated_path_edit",
+    "status": "PASS",
+    "detail": [
+      "bezier"
+    ]
+  },
+  {
+    "test": "deterministic_rebuild",
+    "status": "PASS",
+    "detail": {
+      "state_01": "54d820da51096d9c4ee8d58e59f3e586311c5a1757370c86aca0607331b28a48",
+      "state_02": "10ee34df31dbf488a7d4222dfe44878bea2ae3cba313b9eb3fe989b70291a218",
+      "state_03": "f2e04c898b6bd50fc3e7dfb0a223b1bbc0588a44cfc14c853b6b0e2b003f2567"
+    }
+  },
+  {
+    "test": "targeted_export_no_other_write",
+    "status": "PASS",
+    "detail": "Content-aware writer; unchanged files keep mtime"
+  },
+  {
+    "test": "xml_well_formed:neutral.svg",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "test": "xml_well_formed:neutral_patched.svg",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "test": "xml_well_formed:state_01.svg",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "test": "xml_well_formed:state_02.svg",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "test": "xml_well_formed:state_02_plus7.svg",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "test": "xml_well_formed:state_03.svg",
+    "status": "PASS",
+    "detail": ""
+  }
+]
+[
+  {
+    "input": "neutral.svg",
+    "output": "neutral.png",
+    "width": 853,
+    "height": 640,
+    "status": "PASS"
+  },
+  {
+    "input": "neutral_patched.svg",
+    "output": "neutral_patched.png",
+    "width": 853,
+    "height": 640,
+    "status": "PASS"
+  },
+  {
+    "input": "state_01.svg",
+    "output": "state_01.png",
+    "width": 853,
+    "height": 640,
+    "status": "PASS"
+  },
+  {
+    "input": "state_02.svg",
+    "output": "state_02.png",
+    "width": 853,
+    "height": 640,
+    "status": "PASS"
+  },
+  {
+    "input": "state_02_plus7.svg",
+    "output": "state_02_plus7.png",
+    "width": 853,
+    "height": 640,
+    "status": "PASS"
+  },
+  {
+    "input": "state_03.svg",
+    "output": "state_03.png",
+    "width": 853,
+    "height": 640,
+    "status": "PASS"
+  }
+]
+{
+  "status": "PASS (raster transport only)",
+  "pages": 1,
+  "page_pt": [
+    0,
+    0,
+    640,
+    520
+  ],
+  "image_count": 1,
+  "text": "RASTER DIAGNOSTIC ONLY - not vector / not print-ready\n",
+  "limitations": "SVG paths, editable Chinese text, PDF/X, ICC and print reliability NOT tested"
+}
+{'neutral_patch_pixel_bbox': (76, 423, 469, 486), 'scope': 'Only curve region changed visually; bbox in rendered pixels', 'opacity_sample_rgb': (227, 185, 161), 'clip_outside_rgb': (244, 241, 234), 'background_rgb': (244, 241, 234), 'png_size': [853, 640], 'visual_review': 'Chinese text legible; circle/rectangle/Bezier/clipping/opacity visible. Human-clock readability NOT evaluated.'}

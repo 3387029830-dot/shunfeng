@@ -1,0 +1,14 @@
+{
+  "status": "proposal_unapproved",
+  "center": null,
+  "parts": [
+    "Center",
+    "TickMarks",
+    "PartialArc",
+    "RedProgressArc",
+    "TorsoDirection",
+    "LegDirection"
+  ],
+  "specific_time_labels": false,
+  "primary_visual": "human_silhouette"
+}

@@ -1,0 +1,20 @@
+{
+  "original_stage0_unchanged": true,
+  "core_rebuild_exit": 0,
+  "full_rebuild_exit": 0,
+  "structure_assertions": 16,
+  "svg_png_exports": 6,
+  "private_path_scan": "PASS",
+  "secret_pattern_scan": "PASS (heuristic; filenames/categories only)",
+  "lfs_system_path": false,
+  "bundled_lfs_version": "3.7.1",
+  "lfs_enabled": false,
+  "server_branch_protection": "not configured or verified",
+  "cli_git_auth": "not available",
+  "connector_permissions": [
+    "admin",
+    "push",
+    "pull"
+  ],
+  "stage1_started": false
+}

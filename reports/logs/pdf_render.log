@@ -1,0 +1,8 @@
+First Poppler run exited 0 and produced PNG, but emitted repeated fontconfig warnings.
+Original bytes: 2376282; SHA256: 6881823937b36b324ee01439a0afafbac3f40066aa188b9063a5bf46d2666942
+Warning line samples (deduplicated):
+Fontconfig error: Cannot load default config file: File not found
+
+Fontconfig error: No writable cache directories
+	${BUILD_HOME}/work/codex-native-deps/019e749a-1b9d-4d7d-9e1e-26f1c533bed8/poppler/prefix/var/cache/fontconfig
+	${USER_HOME}/.cache/fontconfig

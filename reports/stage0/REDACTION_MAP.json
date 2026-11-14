@@ -1,0 +1,44 @@
+[
+  {
+    "path": "README.md",
+    "source_sha256": "c4b33abe956001816ee5325f1e81320c66f5912a1ff4c18ad1da37f4fd8f8210",
+    "sanitized_sha256": "548edcc30e409f4276e7b5e6e5f6822276d79d7e0ac3a5c44c85a3671dc46d26",
+    "change": "home-directory pseudonymization"
+  },
+  {
+    "path": "WORKFLOW_AUDIT.md",
+    "source_sha256": "6e930456723702a9c6086ccea4a34dbdf0562f95c4426e59fc1c5066e60cbede",
+    "sanitized_sha256": "68d172c07edcf30c1ce70d8c79d5e115b846d61840ac92de7b47e2bf8279fd4e",
+    "change": "home-directory pseudonymization"
+  },
+  {
+    "path": "scripts/render_pdf_check.sh",
+    "source_sha256": "b5dea8436cded8c521028410c75c05cee26a8a540d951560e1e2759bd910cca9",
+    "sanitized_sha256": "28994554de73165031b6a3a6cd550332abe90554cc22734b5771afd29048bd46",
+    "change": "home-directory pseudonymization"
+  },
+  {
+    "path": "scripts/render_png.cjs",
+    "source_sha256": "38e7f271321ba8a1b260fd87278b93af5f6ff5be45560d01b580e398fab3aa33",
+    "sanitized_sha256": "716aed5c1623214af5a616079a447bc109dd43d3dff3b6e080a7f2fb92481741",
+    "change": "home-directory pseudonymization"
+  },
+  {
+    "path": "scripts/audit_environment.py",
+    "source_sha256": "f040edadc635303bc97637a2ccd825618c199cb8e3e219f62f865e4b6617bae2",
+    "sanitized_sha256": "15d587a765ebccd75f9ca0571d0fa26201027a9a2faed9b8832cf68f076979eb",
+    "change": "home-directory pseudonymization"
+  },
+  {
+    "path": "reports/environment.json",
+    "source_sha256": "c927bed36859e7adbba2bd11277b4e83ae1b1f985cb85aef1447c6cc494ec5b6",
+    "sanitized_sha256": "a3dcd9deb614c77e2953fc13c1032ea014ece9d13ac7d29558f5edff9caebb8a",
+    "change": "home-directory pseudonymization"
+  },
+  {
+    "path": "reports/logs/pdf_render.log",
+    "source_sha256": "b17d24f707925ed28c20820d09d595b9419c94ac5c2cafbcd82a120344bd2713",
+    "sanitized_sha256": "5c96a680e3efb8131702a678bcb134889b78e1b31a7278f640d758671b31ecd1",
+    "change": "home-directory pseudonymization"
+  }
+]
