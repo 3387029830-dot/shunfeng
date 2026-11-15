@@ -1,0 +1,9 @@
+{
+  "command": [
+    "/Applications/Inkscape.app/Contents/MacOS/inkscape",
+    "--version"
+  ],
+  "exit": 0,
+  "stdout": "Inkscape 1.4.4 (dcaf3e7, 2026-05-05)\n",
+  "stderr": ""
+}

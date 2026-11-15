@@ -1,0 +1,11 @@
+{
+  "command": [
+    "/Applications/Inkscape.app/Contents/MacOS/inkscape",
+    "tests/stage05/inputs/state_02.svg",
+    "--export-area-page",
+    "--export-filename=tests/stage05/inkscape/state_02.png"
+  ],
+  "exit": 0,
+  "stdout": "",
+  "stderr": ""
+}

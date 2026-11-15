@@ -1,0 +1,11 @@
+{
+  "command": [
+    "/Applications/Inkscape.app/Contents/MacOS/inkscape",
+    "tests/stage05/iteration/three_boards_after.svg",
+    "--export-page=all",
+    "--export-filename=tests/stage05/iteration/three_boards_after.pdf"
+  ],
+  "exit": 0,
+  "stdout": "",
+  "stderr": ""
+}

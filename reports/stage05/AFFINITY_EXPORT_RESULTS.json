@@ -1,0 +1,97 @@
+{
+  "pdfs": {
+    "neutral-import.pdf": [
+      {
+        "page_pt": [
+          640.0,
+          480.0
+        ],
+        "vector_path_operators_including_forms": 506,
+        "raster_images": 0,
+        "extracted_text": ""
+      }
+    ],
+    "three_boards_before.pdf": [
+      {
+        "page_pt": [
+          640.0,
+          478.0
+        ],
+        "vector_path_operators_including_forms": 17,
+        "raster_images": 0,
+        "extracted_text": ""
+      },
+      {
+        "page_pt": [
+          640.0,
+          480.0
+        ],
+        "vector_path_operators_including_forms": 17,
+        "raster_images": 0,
+        "extracted_text": ""
+      },
+      {
+        "page_pt": [
+          638.0,
+          480.0
+        ],
+        "vector_path_operators_including_forms": 17,
+        "raster_images": 0,
+        "extracted_text": ""
+      }
+    ],
+    "three_boards_after.pdf": [
+      {
+        "page_pt": [
+          640.0,
+          478.0
+        ],
+        "vector_path_operators_including_forms": 17,
+        "raster_images": 0,
+        "extracted_text": ""
+      },
+      {
+        "page_pt": [
+          640.0,
+          480.0
+        ],
+        "vector_path_operators_including_forms": 17,
+        "raster_images": 0,
+        "extracted_text": ""
+      },
+      {
+        "page_pt": [
+          638.0,
+          480.0
+        ],
+        "vector_path_operators_including_forms": 17,
+        "raster_images": 0,
+        "extracted_text": ""
+      }
+    ]
+  },
+  "affinity_png_pixels": [
+    1998,
+    480
+  ],
+  "render_comparison": {
+    "renderer": "PDFium at 72 DPI, RGB",
+    "before_after_difference_boxes": [
+      null,
+      [
+        216,
+        123,
+        323,
+        279
+      ],
+      null
+    ],
+    "boards_1_and_3_pixel_equal": true,
+    "board_2_changes_inside_pose_area": true,
+    "native_qa_rectangle_outside_difference": true
+  },
+  "linked_sources_sha256": {
+    "background.svg": "0deb2d2f5c3fcce3cf34acd68cc895a64f84073066e3a27e1ed1408a9823c68d",
+    "state_02.svg": "e0e27ecdd6918c8e1dd1c786d281f7b3affc4f2aef65ac54980e1d1a5e7794b3"
+  }
+}

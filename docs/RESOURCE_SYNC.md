@@ -19,7 +19,7 @@
 | PDF | 仅有价值且经过检查的诊断/交付文件；本轮PDF仅光栅诊断 |
 | 日志/测试证据 | 保留命令、exit、错误类别和结果；私人路径用${USER_HOME}/${BUILD_HOME}替代；历史证据放reports/stage0 |
 | 缓存/临时/认证 | 不提交__pycache__、fontcache、node_modules、.venv、.env、密钥、备份和压缩包 |
-| Affinity/Blender原生文件 | 当前无此类文件，默认忽略，先评估大小/变化频率/LFS配额再有意识纳入 |
+| Affinity/Blender原生文件 | 默认忽略。Stage 0.5 的三个小型 `.af` 样本已单独列入白名单。正式原生文件先评估大小、变化频率与 LFS 配额 |
 
 ## LFS与配额
 
@@ -29,6 +29,6 @@
 
 ## 双向同步边界
 
-普通git命令需要本机GitHub认证；本轮GitHub连接器认证与Keychain凭证不同。连接器上传时逐文件校验blob SHA，tree与commit必须同本地对象一致；ref更新前读取当前头，使用expected_sha防止覆盖别人提交。发现远程已变更则停止、取回差异、正常合并，不强推。
+Stage 0.5 已获用户许可配置本机 HTTPS 认证。GitHub CLI 凭证留在 macOS 钥匙串，助手仅在此仓库配置。推送前 fetch 并核对远程目标头，普通非强制推送到派生分支。发现远程已变更则先取回差异。历史连接器迁移仍以原日志为证。
 
 私人凭证只通过用户配置的认证渠道，不能贴到聊天/README/remote URL。私有仓库只对已授权账户可读，需确认ChatGPT审查连接器的仓库权限。原始未脱敏日志继续留本机，不上传到issues或外部附件。

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="640"
+   height="480"
+   viewBox="0 0 640 480"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="neutral.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <clipPath
+       id="clip">
+      <circle
+         cx="490"
+         cy="260"
+         r="65"
+         id="circle1" />
+    </clipPath>
+  </defs>
+  <g
+     id="layer-base"
+     inkscape:groupmode="layer"
+     inkscape:label="01 Base">
+    <rect
+       x="0"
+       y="0"
+       width="640"
+       height="480"
+       fill="#f4f1ea"
+       id="rect1" />
+  </g>
+  <g
+     id="layer-shapes"
+     inkscape:groupmode="layer"
+     inkscape:label="02 Shapes">
+    <g
+       id="level-2">
+      <g
+         id="level-3">
+        <circle
+           id="circle"
+           cx="120"
+           cy="200"
+           r="58"
+           fill="#467b87" />
+        <rect
+           id="rectangle"
+           x="215"
+           y="140"
+           width="120"
+           height="120"
+           fill="#d58b65"
+           opacity="0.55" />
+        <path
+           id="bezier"
+           d="M 60 360 C 180 270 230 420 350 330"
+           fill="none"
+           stroke="#353c46"
+           stroke-width="8" />
+        <rect
+           id="clipped"
+           x="420"
+           y="180"
+           width="150"
+           height="160"
+           fill="#467b87"
+           clip-path="url(#clip)" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="layer-text"
+     inkscape:groupmode="layer"
+     inkscape:label="03 Text">
+    <text
+       id="chinese"
+       x="38"
+       y="68"
+       fill="#353c46"
+       font-family="Heiti SC, sans-serif"
+       font-size="28">中文测试：圆形、曲线、透明</text>
+  </g>
+</svg>

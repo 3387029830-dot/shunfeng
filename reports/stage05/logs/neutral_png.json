@@ -1,0 +1,11 @@
+{
+  "command": [
+    "/Applications/Inkscape.app/Contents/MacOS/inkscape",
+    "tests/stage05/inputs/neutral.svg",
+    "--export-area-page",
+    "--export-filename=tests/stage05/inkscape/neutral.png"
+  ],
+  "exit": 0,
+  "stdout": "",
+  "stderr": ""
+}

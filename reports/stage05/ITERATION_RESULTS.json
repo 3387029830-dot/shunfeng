@@ -1,0 +1,18 @@
+{
+  "shared_background_sha256": "0deb2d2f5c3fcce3cf34acd68cc895a64f84073066e3a27e1ed1408a9823c68d",
+  "before_hashes": {
+    "state_01": "7c79ef0db56ad3d16a8a84e8709bbc2b3fd3b4c7ff54d14ec58d9166c008053c",
+    "state_02": "308fe306b6b70aa032ee6a26137e06f9f166afd8defa48ca104843f233fad4f1",
+    "state_03": "182fc16dc253d24d74b5da22e34f288faae293cc7720d1d472d62f925463f487"
+  },
+  "after_hashes": {
+    "state_01": "7c79ef0db56ad3d16a8a84e8709bbc2b3fd3b4c7ff54d14ec58d9166c008053c",
+    "state_02": "e0e27ecdd6918c8e1dd1c786d281f7b3affc4f2aef65ac54980e1d1a5e7794b3",
+    "state_03": "182fc16dc253d24d74b5da22e34f288faae293cc7720d1d472d62f925463f487"
+  },
+  "state01_and_03_unchanged": true,
+  "state02_changed": true,
+  "background_unchanged": true,
+  "board01_and_03_subtrees_unchanged": true,
+  "scope": "parameter → separate SVG state → Inkscape multi-page PNG and PDF; Affinity evidence in reports/stage05/REVIEW.md"
+}

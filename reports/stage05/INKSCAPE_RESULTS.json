@@ -1,0 +1,161 @@
+{
+  "inkscape": "Inkscape 1.4.4 (dcaf3e7, 2026-05-05)",
+  "tests": [
+    {
+      "test": "import_groups",
+      "status": "PASS",
+      "detail": "SVG groups and IDs retained after Inkscape parse/export"
+    },
+    {
+      "test": "nested_groups",
+      "status": "PASS",
+      "detail": "three nested g elements"
+    },
+    {
+      "test": "live_chinese_svg",
+      "status": "PASS",
+      "detail": "editable text node retained"
+    },
+    {
+      "test": "opacity",
+      "status": "PASS",
+      "detail": "55% opacity"
+    },
+    {
+      "test": "clip",
+      "status": "PASS",
+      "detail": "clip relation retained"
+    },
+    {
+      "test": "path_control_point_edit",
+      "status": "PASS",
+      "detail": "Bezier first control point y:270→250 using Inkscape object action"
+    },
+    {
+      "test": "isolated_element_edit",
+      "status": "PASS",
+      "detail": "other named primitives and text unchanged after node edit"
+    },
+    {
+      "test": "repeat_png_stable",
+      "status": "PASS",
+      "detail": "SHA256 equal"
+    },
+    {
+      "test": "vector_pdf",
+      "status": "PASS",
+      "detail": {
+        "pages": 1,
+        "page_pt": [
+          0.0,
+          0.0,
+          480.0,
+          360.0
+        ],
+        "images": 0,
+        "path_operations": 16,
+        "clip_operations": 2,
+        "text": "中⽂测试：圆形、曲线、透明",
+        "fonts": [
+          {
+            "name": "/QYNIZK+STHeitiSC-Medium",
+            "subtype": "/Type0"
+          }
+        ],
+        "content_sha256": "1159adf42e912094c27c46affb80ace45dafc7ba958d87ebc034cd8fc88eae03"
+      }
+    },
+    {
+      "test": "chinese_live_pdf_exact_unicode",
+      "status": "FAIL",
+      "detail": {
+        "raw_text": "中⽂测试：圆形、曲线、透明",
+        "issue": "font ToUnicode maps 文 to Kangxi radical ⽂; retain this exact extraction failure"
+      }
+    },
+    {
+      "test": "chinese_live_pdf_nfkc",
+      "status": "PASS",
+      "detail": "中文测试:圆形、曲线、透明"
+    },
+    {
+      "test": "outlined_vector_pdf",
+      "status": "PASS",
+      "detail": {
+        "pages": 1,
+        "page_pt": [
+          0.0,
+          0.0,
+          480.0,
+          360.0
+        ],
+        "images": 0,
+        "path_operations": 973,
+        "clip_operations": 2,
+        "text": "",
+        "fonts": [],
+        "content_sha256": "b0d5298efae5051399af43bbd8fc9012d50d30fbd023028eddc90240ed30da4f"
+      }
+    },
+    {
+      "test": "repeat_pdf_page_content_stable",
+      "status": "PASS",
+      "detail": "page content hash, excludes volatile PDF metadata"
+    },
+    {
+      "test": "batch_export",
+      "status": "PASS",
+      "detail": "3 states × PNG/PDF"
+    },
+    {
+      "test": "input_unchanged",
+      "status": "PASS",
+      "detail": "a97814a3a534ffa021346782659379a79ed41aedbcb5ca7776b196a96474cc87"
+    },
+    {
+      "test": "shared_asset_isolation",
+      "status": "PASS",
+      "detail": {
+        "before_hashes": {
+          "state_01": "7c79ef0db56ad3d16a8a84e8709bbc2b3fd3b4c7ff54d14ec58d9166c008053c",
+          "state_02": "308fe306b6b70aa032ee6a26137e06f9f166afd8defa48ca104843f233fad4f1",
+          "state_03": "182fc16dc253d24d74b5da22e34f288faae293cc7720d1d472d62f925463f487"
+        },
+        "background_hash": "0deb2d2f5c3fcce3cf34acd68cc895a64f84073066e3a27e1ed1408a9823c68d",
+        "after_state02_hash": "e0e27ecdd6918c8e1dd1c786d281f7b3affc4f2aef65ac54980e1d1a5e7794b3",
+        "only_state02_changes": true,
+        "update_pending_gui": true
+      }
+    }
+  ],
+  "logs": [
+    "version",
+    "neutral_inkscape_svg",
+    "node_edit",
+    "neutral_png",
+    "neutral_repeat_png",
+    "neutral_live_pdf",
+    "neutral_live_repeat_pdf",
+    "neutral_outlined_pdf",
+    "state_01_png",
+    "state_01_pdf",
+    "state_02_png",
+    "state_02_pdf",
+    "state_03_png",
+    "state_03_pdf",
+    "version_final"
+  ],
+  "pdf_metadata_bytes_equal": true,
+  "iteration": {
+    "before_hashes": {
+      "state_01": "7c79ef0db56ad3d16a8a84e8709bbc2b3fd3b4c7ff54d14ec58d9166c008053c",
+      "state_02": "308fe306b6b70aa032ee6a26137e06f9f166afd8defa48ca104843f233fad4f1",
+      "state_03": "182fc16dc253d24d74b5da22e34f288faae293cc7720d1d472d62f925463f487"
+    },
+    "background_hash": "0deb2d2f5c3fcce3cf34acd68cc895a64f84073066e3a27e1ed1408a9823c68d",
+    "after_state02_hash": "e0e27ecdd6918c8e1dd1c786d281f7b3affc4f2aef65ac54980e1d1a5e7794b3",
+    "only_state02_changes": true,
+    "update_pending_gui": true
+  },
+  "scope": "CLI/import/parse/export proof; GUI/manual edit and Affinity assessed separately"
+}

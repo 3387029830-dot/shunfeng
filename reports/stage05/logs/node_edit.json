@@ -1,0 +1,11 @@
+{
+  "command": [
+    "/Applications/Inkscape.app/Contents/MacOS/inkscape",
+    "tests/stage05/inkscape/neutral_inkscape.svg",
+    "--select=bezier",
+    "--actions=object-set-attribute:d,M 60 360 C 180 250 230 420 350 330;export-filename:tests/stage05/inkscape/neutral_node_modified.svg;export-do"
+  ],
+  "exit": 0,
+  "stdout": "",
+  "stderr": ""
+}

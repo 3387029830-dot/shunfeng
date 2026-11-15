@@ -39,3 +39,9 @@ previews/*
 *.afphoto
 *.afpub
 *.blend
+
+# Stage 0.5 reviewed neutral Affinity evidence
+*.af~lock~
+!/tests/stage05/affinity/neutral-import.af
+!/tests/stage05/affinity/three_boards_before.af
+!/tests/stage05/affinity/three_boards_after.af
