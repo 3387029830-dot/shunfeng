@@ -17,3 +17,7 @@
 ## Stage 0.5 验收（2026-11-16）
 
 用户与规划层批准 Stage 0 及固定迁移基线，用户授权安装 Inkscape、Affinity、配置 Git HTTPS。中性三画板验证通过，使用三个背景链接、画板 2 独立状态链接和独立精修层。三个小型原生样本进入派生分支供复核。报告记录字体、画幅和印刷交付剩余风险。Stage 1 等待单独审批。
+
+## Stage 1 黑白构图授权
+
+2026-11-16。用户在本会话明确要求执行 [Issue #1](https://github.com/3387029830-dot/shunfeng/issues/1)，该 Issue 记录规划层已通过 Stage 0.5。技术基线 `fd530bfbe923db5e21f073551d5fc600be49db09`，仅推送 `stage1/human-clock-geometry`。允许更改 Stage 1 的配置、可编辑源、生成脚本、预览、报告和本授权记录。交审范围为中性黑白人体体块、三姿态与时钟识别。Stage 2 需单独批准。

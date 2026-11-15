@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="700" height="990" viewBox="0 0 700 990" version="1.1">
+  <rect id="paper" x="0" y="0" width="700" height="990" fill="#ffffff" />
+  <g id="clock" inkscape:groupmode="layer" inkscape:label="时钟辅助 C">
+    <g id="clock_ticks">
+      <path id="tick-0" d="M 155.549 487.798 L 144.674 482.726" fill="none" stroke="#a1a1a1" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" />
+      <path id="tick-1" d="M 232.077 396.595 L 225.195 386.765" fill="none" stroke="#a1a1a1" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" />
+      <path id="tick-2" d="M 343.954 355.875 L 342.908 343.921" fill="none" stroke="#a1a1a1" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" />
+      <path id="tick-3" d="M 586.163 644.528 L 597.754 647.634" fill="none" stroke="#a1a1a1" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" />
+    </g>
+  </g>
+  <g id="setting" inkscape:groupmode="layer" inkscape:label="共享沙发">
+    <g id="sofa" stroke-linejoin="round" stroke-linecap="round">
+      <path id="sofa-back" d="M 118,477 Q 96,481 99,508 L 111,604 Q 114,625 142,629 L 325,626 L 331,605 C 316,593 298,587 283,580 C 256,566 246,557 220,544 C 185,527 156,494 133,480 Q 123,474 118,477 Z" fill="#d8d8d8" stroke="#a3a3a3" stroke-width="2" />
+      <path id="back-seam" d="M 119,490 C 153,499 181,535 218,552 Q 240,564 253,575" fill="none" stroke="#bcbcbc" stroke-width="1.5" />
+      <path id="sofa-base" d="M 119,627 L 540,627 L 539,660 Q 539,679 521,681 L 141,681 Q 123,678 121,665 Z" fill="#e2e2e2" stroke="#a3a3a3" stroke-width="2" />
+      <path id="seat" d="M 121,601 Q 161,595 250,600 Q 317,604 336,607 Q 364,617 392,607 Q 421,601 529,600 Q 548,601 548,616 L 545,633 Q 542,642 529,642 L 138,642 Q 123,640 120,627 Z" fill="#eeeeee" stroke="#aaaaaa" stroke-width="2" />
+      <path id="seat-seam" d="M 131,628 Q 196,633 274,632 M 418,632 Q 478,632 537,628" fill="none" stroke="#bdbdbd" stroke-width="1.4" />
+    </g>
+  </g>
+  <g id="figure" inkscape:groupmode="layer" inkscape:label="人体粗轮廓">
+    <g id="far-leg">
+      <g id="far-foot" transform="translate(569.525 616.399) rotate(10)">
+        <path id="far-sock" d="M -14 -2 Q -10 -11 4 -10 Q 12 -2 24 -1 Q 38 -2 40 7 Q 40 14 27 17 L -3 19 Q -15 18 -16 10 Z" fill="#747474" stroke="#383838" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round" />
+      </g>
+      <path id="far-leg-outline" d="M 381.006 609.606 Q 339.337 583.807 370.994 546.394 L 466.232 540.422 Q 491.599 538.025 513.119 553.384 L 576.235 606.450 Q 572.012 618.076 562.815 626.347 L 489.968 587.706 Q 481.643 582.934 473.428 585.856 Z" fill="#5a5a5a" stroke="#282828" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" />
+    </g>
+    <g id="far-arm">
+      <g id="far-hand" transform="translate(445.044 530.404) rotate(93.000)">
+        <path id="far-hand-outline" d="M -8 3 C -11 -3 -9 -9 -6 -12 L -4 -18 Q -1 -21 1 -16 L 1 -13 Q 6 -18 9 -17 C 14 -15 16 -8 15 -4 C 13 2 6 4 0 6 Q -5 6 -8 3 Z" fill="#b5b5b5" stroke="#343434" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" />
+      </g>
+      <path id="far-arm-outline" d="M 345.517 474.786 Q 355.874 445.960 382.860 460.452 L 393.168 506.839 Q 394.765 516.851 405.711 516.626 L 445.463 522.415 Q 448.040 530.561 444.626 538.393 L 404.487 539.994 Q 379.483 537.885 368.895 516.156 Z" fill="#b5b5b5" stroke="#343434" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round" />
+      <path id="far-sleeve" d="M 342.716 475.861 Q 357.594 450.441 385.661 459.377 L 390.810 489.534 Q 376.280 499.118 359.068 501.719 Z" fill="#767676" stroke="#323232" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+    </g>
+    <ellipse id="pelvis" cx="364.000" cy="585.000" rx="38" ry="34" fill="#313131" stroke="#252525" stroke-width="1.7" />
+    <g id="near-leg">
+      <g id="near-foot" transform="translate(558.069 627.270) rotate(10)">
+        <path id="near-sock" d="M -14 -2 Q -10 -11 4 -10 Q 12 -2 24 -1 Q 38 -2 40 7 Q 40 14 27 17 L -3 19 Q -15 18 -16 10 Z" fill="#555555" stroke="#383838" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round" />
+      </g>
+      <path id="near-leg-outline" d="M 367.900 616.761 Q 327.157 589.524 360.100 553.239 L 455.489 550.594 Q 480.534 548.986 501.663 564.255 L 564.779 617.321 Q 560.556 628.948 551.359 637.218 L 478.513 598.577 Q 469.796 593.715 461.095 596.251 Z" fill="#292929" stroke="#282828" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" />
+      <path id="near-knee-fold" d="M 476.262 580.284 Q 477.150 571.107 459.316 585.128" fill="none" stroke="#626262" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+    </g>
+    <g id="upper-body" transform="translate(364.000 585.000) rotate(-6)">
+      <path id="neck" d="M -19 -104 Q -15 -119 -16 -135 L 13 -142 L 21 -113 L 15 -100 Z" fill="#d6d6d6" stroke="#343434" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" />
+      <path id="torso" d="M -31 4 C -38 -9 -32 -34 -29 -51 C -28 -68 -35 -86 -28 -104 C -24 -117 -13 -125 1 -122 C 15 -123 29 -109 33 -96 C 35 -79 30 -68 27 -51 C 23 -36 29 -18 24 -7 C 18 4 -17 12 -31 4 Z" fill="#414141" stroke="#292929" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />
+      <path id="torso-hem" d="M -28 -6 C -13 -1 11 1 23 -8" fill="none" stroke="#646464" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+      <path id="torso-fold" d="M -21 -55 Q -13 -42 -14 -25 M 23 -63 Q 20 -48 16 -39" fill="none" stroke="#616161" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+    </g>
+    <g id="head" transform="translate(350.307 454.718) rotate(-2)">
+      <path id="head-profile" d="M -17 -4 C -18 -13 -20 -20 -24 -28 C -31 -38 -34 -54 -29 -65 C -24 -77 -13 -82 1 -81 C 16 -83 27 -73 29 -61 Q 31 -54 29 -49 L 37 -38 Q 40 -34 33 -32 L 28 -31 Q 28 -27 29 -23 Q 27 -20 27 -17 C 27 -7 17 -5 8 -8 L 5 2 Q -7 5 -17 -4 Z" fill="#d6d6d6" stroke="#363636" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round" />
+      <path id="hair" d="M -24 -26 C -35 -36 -37 -52 -31 -68 C -26 -80 -12 -84 0 -83 Q 15 -85 27 -75 Q 32 -70 30 -61 Q 19 -59 13 -66 C 4 -59 -7 -61 -11 -52 L -13 -44 Q -22 -50 -22 -40 Z" fill="#272727" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+      <path id="face-marks" d="M 17 -51 Q 23 -53 26 -50 M 23 -45 L 25 -45 M 22 -23 Q 25 -23 28 -24 M -13 -39 Q -15 -45 -18 -42 Q -21 -38 -16 -34" fill="none" stroke="#454545" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" />
+    </g>
+    <g id="near-arm">
+      <g id="near-hand" transform="translate(422.578 507.491) rotate(63.000)">
+        <path id="near-hand-outline" d="M -8 3 C -11 -3 -9 -9 -6 -12 L -4 -18 Q -1 -21 1 -16 L 1 -13 Q 6 -18 9 -17 C 14 -15 16 -8 15 -4 C 13 2 6 4 0 6 Q -5 6 -8 3 Z" fill="#d6d6d6" stroke="#343434" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" />
+      </g>
+      <path id="near-arm-outline" d="M 333.062 478.466 Q 345.405 450.433 371.314 466.772 L 378.362 513.765 Q 375.980 521.856 381.627 515.226 L 418.947 500.363 Q 425.251 506.129 426.210 514.619 L 392.250 536.075 Q 365.821 545.789 353.498 521.366 Z" fill="#d6d6d6" stroke="#343434" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round" />
+      <path id="near-sleeve" d="M 330.193 479.344 Q 346.809 455.023 374.183 465.894 L 377.217 496.338 Q 362.053 504.885 344.702 506.278 Z" fill="#535353" stroke="#323232" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+    </g>
+  </g>
+</svg>

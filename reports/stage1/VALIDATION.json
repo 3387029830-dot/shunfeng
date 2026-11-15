@@ -1,0 +1,181 @@
+{
+  "inkscape": "Inkscape 1.4.4 (dcaf3e7, 2026-05-05)",
+  "svg_count": 20,
+  "pose_geometry": {
+    "P1": {
+      "figure_bounds_svg_units": [
+        187.701,
+        447.495,
+        421.051,
+        202.255
+      ],
+      "leg_axis_deg": 12.2876
+    },
+    "P2": {
+      "figure_bounds_svg_units": [
+        246.571,
+        393.036,
+        362.181,
+        256.714
+      ],
+      "leg_axis_deg": 12.2876
+    },
+    "P3": {
+      "figure_bounds_svg_units": [
+        314.209,
+        371.243,
+        294.543,
+        278.508
+      ],
+      "leg_axis_deg": 12.2876
+    }
+  },
+  "checks": [
+    "unique IDs, grayscale and vector-only SVG",
+    "matching 700x990 viewBox and nontext individual canvases",
+    "identical pelvis, sofa and leg SVGs",
+    "body geometry identical across A/B/C",
+    "subject bounds within stage safety margins",
+    "byte-identical full SVG rebuild",
+    "one shared sofa change propagates to all poses",
+    "P2-only edit leaves P1/P3/sofa and all other files intact",
+    "byte-identical repeat PNG renders for P1/P2/P3 and comparison"
+  ],
+  "isolation_test": {
+    "p2_delta_deg": 6,
+    "changed_svg_files": [
+      "P2.svg",
+      "P2_B.svg",
+      "P2_C.svg",
+      "P2_body.svg",
+      "P2_rig.svg"
+    ],
+    "p1_and_p3_before_sha256": {
+      "P1.svg": "7dc5483fac73b567ff9ba98ac23463578e536959a4b7ed9ed9d75a5daf6f4e94",
+      "P1_B.svg": "d3fb0d091fd9d685de7b41fe3bf7179faad25f88eccba4f5dd9d05834871c84d",
+      "P1_C.svg": "ae54a5c51ffbfc79b87faac876eb49bdddc5476f9e78716b0947f519e0e86b49",
+      "P1_body.svg": "ed5f5321d9d7fcde2a1acd6d02688491a50722d2d7f45ef6f87e30344dd56e23",
+      "P1_rig.svg": "7cf284bfacd984fd21aae919ed5c9c9e9e84980314fad5c6a47ef8658cf29f02",
+      "P3.svg": "d1961ca0ff85f7cf8cbd7e64c9fd4aa403845d08149f0bd539a8d41a29bb1d46",
+      "P3_B.svg": "5fe79e1db14b13be6f6454187af217d2c0c3670cf675d947e7fb4b3b36ec8d0a",
+      "P3_C.svg": "521dd64264016418d1ec563e75a818e91e75412ec4256423b5460e4fa5daec91",
+      "P3_body.svg": "1cde72f94cd1c07134dbd1ae467981a53945f8ef6964b9a74d562d9be2356b64",
+      "P3_rig.svg": "08cdc5e3f2f5a03043dbe38838e0a2ca084018e4d0f1d0fad9edcabc26d5333f"
+    },
+    "p1_and_p3_after_sha256": {
+      "P1.svg": "7dc5483fac73b567ff9ba98ac23463578e536959a4b7ed9ed9d75a5daf6f4e94",
+      "P1_B.svg": "d3fb0d091fd9d685de7b41fe3bf7179faad25f88eccba4f5dd9d05834871c84d",
+      "P1_C.svg": "ae54a5c51ffbfc79b87faac876eb49bdddc5476f9e78716b0947f519e0e86b49",
+      "P1_body.svg": "ed5f5321d9d7fcde2a1acd6d02688491a50722d2d7f45ef6f87e30344dd56e23",
+      "P1_rig.svg": "7cf284bfacd984fd21aae919ed5c9c9e9e84980314fad5c6a47ef8658cf29f02",
+      "P3.svg": "d1961ca0ff85f7cf8cbd7e64c9fd4aa403845d08149f0bd539a8d41a29bb1d46",
+      "P3_B.svg": "5fe79e1db14b13be6f6454187af217d2c0c3670cf675d947e7fb4b3b36ec8d0a",
+      "P3_C.svg": "521dd64264016418d1ec563e75a818e91e75412ec4256423b5460e4fa5daec91",
+      "P3_body.svg": "1cde72f94cd1c07134dbd1ae467981a53945f8ef6964b9a74d562d9be2356b64",
+      "P3_rig.svg": "08cdc5e3f2f5a03043dbe38838e0a2ca084018e4d0f1d0fad9edcabc26d5333f"
+    },
+    "shared_sofa_sha256": "53177b5a2b6374baf07cfe81ab7e39a566b52c38e1a80b5c00bd8c1a83a59ac3",
+    "non_target_files_mtime_preserved": true
+  },
+  "exports": {
+    "previews/stage1/P1.png": {
+      "pixels": [
+        700,
+        990
+      ],
+      "sha256": "a8470243652308edc9e35f5d9cc0678931d5a0a1add87387a52c6becdf9d6080",
+      "source": "source/stage1/generated/P1.svg",
+      "command": "inkscape source/stage1/generated/P1.svg --export-width=700 --export-filename=previews/stage1/P1.png"
+    },
+    "previews/stage1/P1_rig.png": {
+      "pixels": [
+        700,
+        990
+      ],
+      "sha256": "fc9a8b677a07b59bbd28daacd706150f6e51bdd4aa729512bb79191c3b231210",
+      "source": "source/stage1/generated/P1_rig.svg",
+      "command": "inkscape source/stage1/generated/P1_rig.svg --export-width=700 --export-filename=previews/stage1/P1_rig.png"
+    },
+    "previews/stage1/P2.png": {
+      "pixels": [
+        700,
+        990
+      ],
+      "sha256": "82c95e60f75e673b4b3c12c582bf186e2dd5d2d3fe543100e0b743d52660d89f",
+      "source": "source/stage1/generated/P2.svg",
+      "command": "inkscape source/stage1/generated/P2.svg --export-width=700 --export-filename=previews/stage1/P2.png"
+    },
+    "previews/stage1/P2_rig.png": {
+      "pixels": [
+        700,
+        990
+      ],
+      "sha256": "45f701f907e6941f13f9171d4bb2b603d1f7d9ad90e9b4c9f0c9d7c25f1c268f",
+      "source": "source/stage1/generated/P2_rig.svg",
+      "command": "inkscape source/stage1/generated/P2_rig.svg --export-width=700 --export-filename=previews/stage1/P2_rig.png"
+    },
+    "previews/stage1/P3.png": {
+      "pixels": [
+        700,
+        990
+      ],
+      "sha256": "d43e10130a1e2775146c41091e0f91b5cf2e031edbf14f638258ad00be028e5c",
+      "source": "source/stage1/generated/P3.svg",
+      "command": "inkscape source/stage1/generated/P3.svg --export-width=700 --export-filename=previews/stage1/P3.png"
+    },
+    "previews/stage1/P3_rig.png": {
+      "pixels": [
+        700,
+        990
+      ],
+      "sha256": "e1af4882f4a9c6dd03ee2d13d78bc2a5e57466999668287278f8b4ab0b64832a",
+      "source": "source/stage1/generated/P3_rig.svg",
+      "command": "inkscape source/stage1/generated/P3_rig.svg --export-width=700 --export-filename=previews/stage1/P3_rig.png"
+    },
+    "previews/stage1/triptych.png": {
+      "pixels": [
+        1320,
+        725
+      ],
+      "sha256": "3e6c8796a68e3f6dfa87f16f827844940664d75d35240027cd0e4328e711ce06",
+      "source": "source/stage1/generated/triptych.svg",
+      "command": "inkscape source/stage1/generated/triptych.svg --export-width=1320 --export-filename=previews/stage1/triptych.png"
+    },
+    "previews/stage1/body_study.png": {
+      "pixels": [
+        1320,
+        725
+      ],
+      "sha256": "5333f1ffd45811d891b8e105a66f90a62c56dc2bcf3f671d2c49c392aee76712",
+      "source": "source/stage1/generated/body_study.svg",
+      "command": "inkscape source/stage1/generated/body_study.svg --export-width=1320 --export-filename=previews/stage1/body_study.png"
+    },
+    "previews/stage1/clock_comparison.png": {
+      "pixels": [
+        1320,
+        1963
+      ],
+      "sha256": "75c2bb8447fbf0100b8aa529f6b70707ccf6c99b69736967cd6ef9af59e5d492",
+      "source": "source/stage1/generated/clock_comparison.svg",
+      "command": "inkscape source/stage1/generated/clock_comparison.svg --export-width=1320 --export-filename=previews/stage1/clock_comparison.png"
+    },
+    "previews/stage1/pelvis_alignment.png": {
+      "pixels": [
+        700,
+        990
+      ],
+      "sha256": "9721ddcf54b0a660acaffd69805ff628e24ea3dee194a94aa57b18ab58580a54",
+      "source": "source/stage1/generated/pelvis_alignment.svg",
+      "command": "inkscape source/stage1/generated/pelvis_alignment.svg --export-width=700 --export-filename=previews/stage1/pelvis_alignment.png"
+    },
+    "previews/stage1/arm_assist.png": {
+      "pixels": [
+        1320,
+        725
+      ],
+      "sha256": "e575529618e1bfa362c4ed6656f40d4bb95094d899600982cf8db0d70a56e816",
+      "source": "source/stage1/generated/arm_assist.svg",
+      "command": "inkscape source/stage1/generated/arm_assist.svg --export-width=1320 --export-filename=previews/stage1/arm_assist.png"
+    }
+  }
+}

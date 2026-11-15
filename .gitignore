@@ -45,3 +45,8 @@ previews/*
 !/tests/stage05/affinity/neutral-import.af
 !/tests/stage05/affinity/three_boards_before.af
 !/tests/stage05/affinity/three_boards_after.af
+
+# Stage 1 review previews
+!previews/stage1/
+previews/stage1/*
+!previews/stage1/*.png

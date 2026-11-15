@@ -1,0 +1,281 @@
+{
+  "P1": {
+    "candidate_angles_deg": {
+      "torso": -154,
+      "head": -117,
+      "near_arm": [
+        7,
+        25
+      ],
+      "far_arm": [
+        29,
+        5
+      ]
+    },
+    "positions": {
+      "pelvis": [
+        364,
+        585
+      ],
+      "waist": [
+        324.453,
+        565.712
+      ],
+      "shoulder": [
+        262.436,
+        535.464
+      ],
+      "neck": [
+        246.258,
+        527.573
+      ],
+      "head_top": [
+        210.847,
+        458.075
+      ],
+      "near_shoulder": [
+        262.436,
+        535.464
+      ],
+      "near_elbow": [
+        325.959,
+        543.264
+      ],
+      "near_wrist": [
+        378.525,
+        567.776
+      ],
+      "near_hip": [
+        364,
+        585
+      ],
+      "near_knee": [
+        475.165,
+        571.351
+      ],
+      "near_ankle": [
+        558.069,
+        627.27
+      ],
+      "far_shoulder": [
+        274.436,
+        530.464
+      ],
+      "far_elbow": [
+        330.412,
+        561.492
+      ],
+      "far_wrist": [
+        388.191,
+        566.547
+      ],
+      "far_hip": [
+        376,
+        578
+      ],
+      "far_knee": [
+        486.621,
+        560.479
+      ],
+      "far_ankle": [
+        569.525,
+        616.399
+      ]
+    },
+    "effective_directions_deg": {
+      "pelvis_to_head_top": -140.35,
+      "pelvis_to_near_ankle": 12.29
+    },
+    "reach": {
+      "pelvis_to_head_top": 198.91,
+      "pelvis_to_near_ankle": 198.62,
+      "pelvis_to_near_sock_tip": 238.59
+    }
+  },
+  "P2": {
+    "candidate_angles_deg": {
+      "torso": -124,
+      "head": -101,
+      "near_arm": [
+        68,
+        -35
+      ],
+      "far_arm": [
+        62,
+        12
+      ]
+    },
+    "positions": {
+      "pelvis": [
+        364,
+        585
+      ],
+      "waist": [
+        339.396,
+        548.522
+      ],
+      "shoulder": [
+        300.811,
+        491.319
+      ],
+      "neck": [
+        290.746,
+        476.396
+      ],
+      "head_top": [
+        275.863,
+        399.829
+      ],
+      "near_shoulder": [
+        300.811,
+        491.319
+      ],
+      "near_elbow": [
+        324.786,
+        550.659
+      ],
+      "near_wrist": [
+        372.297,
+        517.391
+      ],
+      "near_hip": [
+        364,
+        585
+      ],
+      "near_knee": [
+        475.165,
+        571.351
+      ],
+      "near_ankle": [
+        558.069,
+        627.27
+      ],
+      "far_shoulder": [
+        312.811,
+        486.319
+      ],
+      "far_elbow": [
+        342.857,
+        542.827
+      ],
+      "far_wrist": [
+        399.59,
+        554.886
+      ],
+      "far_hip": [
+        376,
+        578
+      ],
+      "far_knee": [
+        486.621,
+        560.479
+      ],
+      "far_ankle": [
+        569.525,
+        616.399
+      ]
+    },
+    "effective_directions_deg": {
+      "pelvis_to_head_top": -115.45,
+      "pelvis_to_near_ankle": 12.29
+    },
+    "reach": {
+      "pelvis_to_head_top": 205.08,
+      "pelvis_to_near_ankle": 198.62,
+      "pelvis_to_near_sock_tip": 238.59
+    }
+  },
+  "P3": {
+    "candidate_angles_deg": {
+      "torso": -96,
+      "head": -92,
+      "near_arm": [
+        73,
+        -27
+      ],
+      "far_arm": [
+        69,
+        3
+      ]
+    },
+    "positions": {
+      "pelvis": [
+        364,
+        585
+      ],
+      "waist": [
+        359.401,
+        541.241
+      ],
+      "shoulder": [
+        352.188,
+        472.619
+      ],
+      "neck": [
+        350.307,
+        454.718
+      ],
+      "head_top": [
+        347.585,
+        376.765
+      ],
+      "near_shoulder": [
+        352.188,
+        472.619
+      ],
+      "near_elbow": [
+        370.9,
+        533.823
+      ],
+      "near_wrist": [
+        422.578,
+        507.491
+      ],
+      "near_hip": [
+        364,
+        585
+      ],
+      "near_knee": [
+        475.165,
+        571.351
+      ],
+      "near_ankle": [
+        558.069,
+        627.27
+      ],
+      "far_shoulder": [
+        364.188,
+        467.619
+      ],
+      "far_elbow": [
+        387.124,
+        527.368
+      ],
+      "far_wrist": [
+        445.044,
+        530.404
+      ],
+      "far_hip": [
+        376,
+        578
+      ],
+      "far_knee": [
+        486.621,
+        560.479
+      ],
+      "far_ankle": [
+        569.525,
+        616.399
+      ]
+    },
+    "effective_directions_deg": {
+      "pelvis_to_head_top": -94.51,
+      "pelvis_to_near_ankle": 12.29
+    },
+    "reach": {
+      "pelvis_to_head_top": 208.88,
+      "pelvis_to_near_ankle": 198.62,
+      "pelvis_to_near_sock_tip": 238.59
+    }
+  }
+}

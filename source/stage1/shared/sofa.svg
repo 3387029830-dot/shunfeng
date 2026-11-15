@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 990">
+  <g id="sofa" stroke-linejoin="round" stroke-linecap="round">
+    <path id="sofa-back" d="M 118,477 Q 96,481 99,508 L 111,604 Q 114,625 142,629 L 325,626 L 331,605 C 316,593 298,587 283,580 C 256,566 246,557 220,544 C 185,527 156,494 133,480 Q 123,474 118,477 Z" fill="#d8d8d8" stroke="#a3a3a3" stroke-width="2"/>
+    <path id="back-seam" d="M 119,490 C 153,499 181,535 218,552 Q 240,564 253,575" fill="none" stroke="#bcbcbc" stroke-width="1.5"/>
+    <path id="sofa-base" d="M 119,627 L 540,627 L 539,660 Q 539,679 521,681 L 141,681 Q 123,678 121,665 Z" fill="#e2e2e2" stroke="#a3a3a3" stroke-width="2"/>
+    <path id="seat" d="M 121,601 Q 161,595 250,600 Q 317,604 336,607 Q 364,617 392,607 Q 421,601 529,600 Q 548,601 548,616 L 545,633 Q 542,642 529,642 L 138,642 Q 123,640 120,627 Z" fill="#eeeeee" stroke="#aaaaaa" stroke-width="2"/>
+    <path id="seat-seam" d="M 131,628 Q 196,633 274,632 M 418,632 Q 478,632 537,628" fill="none" stroke="#bdbdbd" stroke-width="1.4"/>
+  </g>
+</svg>

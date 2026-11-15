@@ -1,0 +1,40 @@
+{
+  "version": "stage1-v1",
+  "units": "SVG user units",
+  "coordinates": "x right, y down, absolute degrees atan2(dy,dx)",
+  "camera": "fixed orthographic right-facing side view",
+  "viewBox": [0, 0, 700, 990],
+  "safe_y": [155, 825],
+  "pelvis": [364, 585],
+  "segment_lengths": {
+    "pelvis_to_waist": 44,
+    "waist_to_shoulder": 69,
+    "shoulder_to_neck": 18,
+    "neck_to_head_top": 78,
+    "upper_arm": 64,
+    "forearm": 58,
+    "thigh": 112,
+    "shin": 100
+  },
+  "far_hip_offset": [12, -7],
+  "far_shoulder_offset": [12, -5],
+  "leg_angles": {
+    "near": [-7, 34],
+    "far": [-9, 34]
+  },
+  "poses": {
+    "P1": {"torso": -154, "head": -117, "near_arm": [7, 25], "far_arm": [29, 5]},
+    "P2": {"torso": -124, "head": -101, "near_arm": [68, -35], "far_arm": [62, 12]},
+    "P3": {"torso": -96, "head": -92, "near_arm": [73, -27], "far_arm": [69, 3]}
+  },
+  "arm_assist_trial": {
+    "pose": "P2",
+    "near_arm": [-75, -128]
+  },
+  "clock": {
+    "radius": 237,
+    "clock_B_arc": [-171, -76],
+    "clock_B_ticks": [-165, -150, -135, -120, -105, -90, 0, 15],
+    "clock_C_ticks": [-155, -125, -95, 15]
+  }
+}
