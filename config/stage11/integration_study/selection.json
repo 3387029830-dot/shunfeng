@@ -1,0 +1,13 @@
+{
+  "reviewed_local_study": "2b9e6b2ef93441c3bdcc9ac2a7ba930628672c37",
+  "reviewed_original_triptych": "070679473ad245ef53f1cb305604d1683190bbf0",
+  "selected": {"P1": "P1-A", "P2": "P2-B", "P3": "P3-B"},
+  "clock_variant": "B",
+  "p1_support_crop": [188, 438, 130, 140],
+  "head_neck_crop": [-7, 12, 234, 166],
+  "gesture_landmarks": {
+    "P1": {"hair-pad": [207, 529], "upper-back-pad": [243, 550]},
+    "P2": {"pupil": [139.5, 76.3], "screen": [204, 132], "tap": [201, 130], "grip": [214, 151]},
+    "P3": {"pupil": [141.3, 71.8], "mouth": [148, 87], "bite": [155, 90], "grip": [185, 112], "plate": [211, 161]}
+  }
+}

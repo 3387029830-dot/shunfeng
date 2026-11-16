@@ -1,0 +1,249 @@
+{
+  "stage": "Stage 1.1 integration study",
+  "inkscape": "Inkscape 1.4.4 (dcaf3e7, 2026-05-05)",
+  "technical_status": "PASS",
+  "reviewed_local_study": "2b9e6b2ef93441c3bdcc9ac2a7ba930628672c37",
+  "reviewed_original_triptych": "070679473ad245ef53f1cb305604d1683190bbf0",
+  "selected": {
+    "P1": "P1-A",
+    "P2": "P2-B",
+    "P3": "P3-B"
+  },
+  "inputs_sha256": {
+    "config/stage11/integration_study/selection.json": "e844c075348352f506d0024220d29a39bc38aa47ed0d57c378cd0d4d6b529a8b",
+    "source/stage11/head_neck_shoulder_study/refined/contours.svg": "8ccf1067630bb36005944502a198952e94ed0d46a3405201437b808a5c9892c4",
+    "config/stage11/head_neck_shoulder_study/study.json": "e470dc3eddd4e80d68997318315fb74db62e8dcc49efe13538941839eb11cd93",
+    "source/stage11/integration_study/refined/upper_body.svg": "13d89e80a57806ea535b1cbd86f4a80df64123ab8bafc811bc8ca6ff2492d667",
+    "source/stage11/integration_study/refined/p1_support.svg": "e8d4e1d3a74dc49ff62ddb87c81a5d9752565ff284d424d03fdaa6af692a0805",
+    "source/stage11/shared/room.svg": "9b1c11a3f779f16e175e6791b6c335cba4e8ce21d7ef4d6d5326b35a624142fa",
+    "config/stage11/geometry.v1.json": "efcd520f23d88f3b182ae296da61918071f8f1dc016a7036fd6e29a9281f5b16"
+  },
+  "svg_sha256": {
+    "source/stage11/integration_study/generated/P1.svg": "bec091de6708e7d4921b6f4fa7f9364438a4b6b222c1ce2c7be5b59eacb501fb",
+    "source/stage11/integration_study/generated/P1_detail.svg": "7bf65aa3a724a2eaf0092ffb48535c6d14d55ae118c3c953e8bd0ff2b690f7af",
+    "source/stage11/integration_study/generated/P1_silhouette.svg": "0743e54b21aba096caed206432b8776c659f0a8b0b353aca26e87f090b2075b1",
+    "source/stage11/integration_study/generated/P2.svg": "3879f3758c9dc79453d2d4cd7e2c287ec18096682dbfbe9c4a5b9cff31ed7900",
+    "source/stage11/integration_study/generated/P2_detail.svg": "50d8a3322db86f02abd63b5819e4a8314f46cc93e12000192e57525bacc05cac",
+    "source/stage11/integration_study/generated/P2_silhouette.svg": "bb9835dbd5824ad2630279aef4436796a0aca61cc5647b742b19a989115ac4f0",
+    "source/stage11/integration_study/generated/P3.svg": "8ddcebd7436a8dc6e5daab895ce22d063f9d2edd91ba90e79fad20344f9f2e63",
+    "source/stage11/integration_study/generated/P3_detail.svg": "4616645e0259d083050dc7dea80cd54755009cb79f878e8620eae6c5b7f8cb8f",
+    "source/stage11/integration_study/generated/P3_silhouette.svg": "00f95933e0187456add9ed43b4c048bdb695832e1dbe1a36f4c7e1daa4f876b6",
+    "source/stage11/integration_study/generated/gestures.svg": "91df37e5f055bf69f9fd3a8a1268eb6a67393e418485689c9057307a3d9113f2",
+    "source/stage11/integration_study/generated/p1_support.svg": "47deb77e290895a11418d7792341454a30fad6f3d357a93d24decd58bbb82679",
+    "source/stage11/integration_study/generated/triptych_half.svg": "991a9ff71e0996fb318bff656f0db37012c9986fa98a1e147ac24bd7b4d7e3ea"
+  },
+  "exports": {
+    "previews/stage11/integration_study/P1.png": {
+      "pixels": [
+        700,
+        990
+      ],
+      "sha256": "89cd4229711aaf8fbc342f0ea6b2806bc4d76877fbbf3eadc31617586600441b",
+      "repeat_sha256_equal": true
+    },
+    "previews/stage11/integration_study/P1_detail.png": {
+      "pixels": [
+        520,
+        439
+      ],
+      "sha256": "0a14358d19f0ecc7e41bb8d7ef04663c72c002af307f13feb0920a9305ac4c8f",
+      "repeat_sha256_equal": true
+    },
+    "previews/stage11/integration_study/P1_silhouette.png": {
+      "pixels": [
+        700,
+        990
+      ],
+      "sha256": "5b0169e2efa6cfe428b95c378bcacf1ebc740b4a3506c980d5f57ff07b1fb2e2",
+      "repeat_sha256_equal": true
+    },
+    "previews/stage11/integration_study/P2.png": {
+      "pixels": [
+        700,
+        990
+      ],
+      "sha256": "e9b2985370262f8c68bfe42c09a2291e40be3cef2aec17de1dfc1b0183df80f6",
+      "repeat_sha256_equal": true
+    },
+    "previews/stage11/integration_study/P2_detail.png": {
+      "pixels": [
+        520,
+        439
+      ],
+      "sha256": "824a0c11ac67f2f4db96c0fa91766360861a9f204da57232126c5e901bfd66bf",
+      "repeat_sha256_equal": true
+    },
+    "previews/stage11/integration_study/P2_silhouette.png": {
+      "pixels": [
+        700,
+        990
+      ],
+      "sha256": "cf875f9e842c3e87eac5ebb122541d98886e3ebfd63c763509dba09aa8a25c9e",
+      "repeat_sha256_equal": true
+    },
+    "previews/stage11/integration_study/P3.png": {
+      "pixels": [
+        700,
+        990
+      ],
+      "sha256": "43dbe0358dd5b25834204b8956dc2ee8d324d4a10ab0ea609b1fd94aea3a37ff",
+      "repeat_sha256_equal": true
+    },
+    "previews/stage11/integration_study/P3_detail.png": {
+      "pixels": [
+        520,
+        439
+      ],
+      "sha256": "57ba47409915656623b87030eed5363a649009219ccec7eb720592c1b4794a4e",
+      "repeat_sha256_equal": true
+    },
+    "previews/stage11/integration_study/P3_silhouette.png": {
+      "pixels": [
+        700,
+        990
+      ],
+      "sha256": "efc745896814096dccc2fedc553e0ad65a4904bf41256d09bfe8051131796aa6",
+      "repeat_sha256_equal": true
+    },
+    "previews/stage11/integration_study/gestures.png": {
+      "pixels": [
+        692,
+        687
+      ],
+      "sha256": "101a2bf22f80f6ce7d6b0d70cccd5dd41cf171f4ec2fc7754940813272576fa0",
+      "repeat_sha256_equal": true
+    },
+    "previews/stage11/integration_study/p1_support.png": {
+      "pixels": [
+        657,
+        422
+      ],
+      "sha256": "217eecf5d9d8611cbbebe924d31ce63a5b11225c944654c021e67cbbbcd995ef",
+      "repeat_sha256_equal": true
+    },
+    "previews/stage11/integration_study/triptych_half.png": {
+      "pixels": [
+        1142,
+        1137
+      ],
+      "sha256": "05f59502e1874adb798587034223d10eb5e0ca1350275c01febd57d649ae1d39",
+      "repeat_sha256_equal": true
+    }
+  },
+  "commands": [
+    {
+      "command": "inkscape --version",
+      "exit": 0
+    },
+    {
+      "command": "python3 scripts/stage11/integration_study/build.py",
+      "exit": 0
+    },
+    {
+      "command": "python3 scripts/stage11/integration_study/build.py",
+      "exit": 0
+    },
+    {
+      "command": "git diff --name-only 2b9e6b2ef93441c3bdcc9ac2a7ba930628672c37 -- . ':(exclude,glob)**/integration_study/**'",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/integration_study/generated/P1.svg --export-filename=previews/stage11/integration_study/P1.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/integration_study/generated/P1.svg --export-filename=<scratch>/P1.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/integration_study/generated/P1_detail.svg --export-filename=previews/stage11/integration_study/P1_detail.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/integration_study/generated/P1_detail.svg --export-filename=<scratch>/P1_detail.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/integration_study/generated/P1_silhouette.svg --export-filename=previews/stage11/integration_study/P1_silhouette.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/integration_study/generated/P1_silhouette.svg --export-filename=<scratch>/P1_silhouette.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/integration_study/generated/P2.svg --export-filename=previews/stage11/integration_study/P2.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/integration_study/generated/P2.svg --export-filename=<scratch>/P2.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/integration_study/generated/P2_detail.svg --export-filename=previews/stage11/integration_study/P2_detail.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/integration_study/generated/P2_detail.svg --export-filename=<scratch>/P2_detail.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/integration_study/generated/P2_silhouette.svg --export-filename=previews/stage11/integration_study/P2_silhouette.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/integration_study/generated/P2_silhouette.svg --export-filename=<scratch>/P2_silhouette.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/integration_study/generated/P3.svg --export-filename=previews/stage11/integration_study/P3.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/integration_study/generated/P3.svg --export-filename=<scratch>/P3.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/integration_study/generated/P3_detail.svg --export-filename=previews/stage11/integration_study/P3_detail.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/integration_study/generated/P3_detail.svg --export-filename=<scratch>/P3_detail.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/integration_study/generated/P3_silhouette.svg --export-filename=previews/stage11/integration_study/P3_silhouette.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/integration_study/generated/P3_silhouette.svg --export-filename=<scratch>/P3_silhouette.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/integration_study/generated/gestures.svg --export-filename=previews/stage11/integration_study/gestures.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/integration_study/generated/gestures.svg --export-filename=<scratch>/gestures.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/integration_study/generated/p1_support.svg --export-filename=previews/stage11/integration_study/p1_support.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/integration_study/generated/p1_support.svg --export-filename=<scratch>/p1_support.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/integration_study/generated/triptych_half.svg --export-filename=previews/stage11/integration_study/triptych_half.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/integration_study/generated/triptych_half.svg --export-filename=<scratch>/triptych_half.png",
+      "exit": 0
+    }
+  ],
+  "visual_review": "PENDING; production-side observations in REVIEW.md",
+  "blind_test": "NOT TESTED"
+}
