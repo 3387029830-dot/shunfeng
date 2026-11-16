@@ -37,3 +37,7 @@ ChatGPT 负责艺术方向、姿态、品牌、系列审查；Codex 负责管线
 ## Stage 0.5 本轮授权
 
 用户/规划层已批准Stage0与迁移基线dd6f2da5325294cf22507210d143fac7de1cc081，允许Stage0.5软件集成和中性端到端验证。本轮用户明确许可安装Inkscape/Affinity，并随后许可Git认证配置；不再按旧“禁止安装”的Stage0规则重复索要许可。仅从官方渠道安装，不安装其他商业绘图工具。main不得修改，工作限dev派生stage05/toolchain-integration；Stage1未批准。认证令牌不读取、不输出、不提交，登录由用户在官方授权界面完成。
+
+## 当前交审状态（2026-11-16）
+
+Stage 0.5 已由规划层通过。Stage 1 的原方案技术通过、艺术未通过，成果冻结于 `3defbec20df88b3d1151dbb793e810010756a2dd`。本会话对 [Issue #2](https://github.com/3387029830-dot/shunfeng/issues/2) 的授权仅覆盖 [Stage 1.1 任务边界](docs/stage11/CODEX_TASK.md)，在 `stage1/human-clock-stage11` 提交复审。Stage 2 未授权。

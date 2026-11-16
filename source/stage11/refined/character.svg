@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-55 -130 115 165">
+  <g id="shirt">
+    <path id="torso" fill="#707070" d="M -36 7 C -44 -7 -35 -32 -34 -52 C -34 -73 -33 -92 -26 -105 C -23 -112 -15 -117 -8 -119 C -1 -111 10 -108 18 -112 C 26 -108 28 -99 31 -90 C 38 -79 43 -69 42 -57 C 40 -48 32 -43 30 -34 C 29 -20 30 -11 37 1 C 30 10 16 18 0 18 C -15 20 -34 17 -36 7 Z"/>
+    <path id="collar" fill="none" stroke="#acacac" stroke-width="2" stroke-linecap="round" d="M -9 -115 C -5 -104 8 -101 18 -107"/>
+    <path id="shirt-folds" fill="none" stroke="#969696" stroke-width="1.9" stroke-linecap="round" d="M -27 -61 Q -23 -42 -20 -30 M 15 -39 Q 25 -27 24 -13 M -28 5 Q -18 11 -2 10"/>
+  </g>
+  <g id="face-outline">
+    <path id="head-profile" fill="#dedede" stroke="#646464" stroke-width="1" stroke-linejoin="round" d="M -16 5 C -15 -8 -12 -21 -19 -29 C -31 -39 -33 -56 -24 -66 C -18 -74 -8 -77 3 -76 C 14 -75 22 -70 23 -59 C 24 -54 22 -50 24 -46 C 26 -42 31 -38 31 -35 C 31 -32 26 -32 23 -31 C 24 -29 26 -27 24 -24 C 27 -22 24 -18 24 -15 C 22 -8 13 -6 4 -10 C 0 -9 -1 0 0 5 Q -8 9 -16 5 Z"/>
+  </g>
+  <g id="H0-back">
+    <path id="hair-tie-outline" fill="#333333" d="M -26 -42 C -31 -41 -39 -39 -43 -33 C -47 -27 -43 -20 -44 -15 C -45 -11 -47 -8 -48 -7 C -35 -6 -27 -15 -27 -24 C -27 -28 -24 -33 -21 -35 Z"/>
+    <path id="hair-tie" fill="none" stroke="#969696" stroke-width="2.1" d="M -34 -40 Q -29 -38 -26 -33"/>
+    <path id="tail-fold" fill="none" stroke="#5b5b5b" stroke-width="1.2" stroke-linecap="round" d="M -35 -32 Q -41 -24 -40 -19"/>
+  </g>
+  <g id="H1-back">
+    <path id="bob-outline" fill="#333333" d="M -16 -70 C -44 -65 -38 -39 -38 -26 C -39 -13 -44 -5 -49 0 C -33 1 -19 -3 -9 -10 C -5 -18 -16 -26 -10 -36 C -7 -50 -3 -61 -16 -70 Z"/>
+  </g>
+  <g id="fringe">
+    <path id="hair-cap" fill="#333333" d="M -23 -31 C -30 -33 -35 -44 -34 -55 C -33 -70 -21 -79 -6 -80 C 9 -82 21 -76 25 -64 C 26 -60 25 -53 23 -51 C 19 -59 13 -58 9 -63 C 5 -57 -1 -52 -7 -49 Q -6 -54 -8 -55 C -12 -47 -16 -44 -19 -43 C -24 -44 -25 -38 -23 -31 Z"/>
+    <path id="hair-sweep" fill="none" stroke="#5b5b5b" stroke-width="1.5" stroke-linecap="round" d="M -27 -56 Q -20 -72 -2 -74 M -23 -51 Q -19 -61 -11 -66"/>
+    <path id="ear" fill="#dedede" stroke="#797979" stroke-width="1" d="M -18 -39 C -24 -46 -27 -37 -22 -30 Q -18 -25 -16 -32"/>
+    <path id="ear-fold" fill="none" stroke="#9a9a9a" stroke-width="1" d="M -22 -38 Q -19 -40 -18 -35"/>
+  </g>
+</svg>

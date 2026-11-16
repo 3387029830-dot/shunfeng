@@ -1,0 +1,53 @@
+{
+  "version": "stage11-v1",
+  "viewBox": [0, 0, 700, 990],
+  "camera": "orthographic right-facing side view",
+  "pelvis": [364, 585],
+  "character": "adult-woman-01",
+  "segment_lengths": {
+    "pelvis_to_waist": 44,
+    "waist_to_shoulder": 69,
+    "shoulder_to_neck": 18,
+    "neck_to_head_top": 81,
+    "upper_arm": 64,
+    "forearm": 58,
+    "thigh": 112,
+    "shin": 100
+  },
+  "far_hip_offset": [8, -10],
+  "far_shoulder_offset": [8, -7],
+  "leg_trials": {
+    "L0": {"near": [7, 11], "far": [6, 10], "sock_angle": 9},
+    "L1": {"near": [2, 14], "far": [1, 14], "sock_angle": 10}
+  },
+  "selected_leg": "L1",
+  "selected_hair": "H0",
+  "selected_scene": "S0",
+  "poses": {
+    "P1": {"torso": -151, "head": -108, "near_arm": [40, -4], "far_arm": [29, 16]},
+    "P2": {"torso": -123, "head": -74, "near_arm": [72, -17], "far_arm": [53, -18]},
+    "P3": {"torso": -94, "head": -77, "near_arm": [76, -15], "far_arm": [54, -62]}
+  },
+  "palette": {
+    "skin": "#dedede",
+    "skin_far": "#b9b9b9",
+    "skin_edge": "#646464",
+    "top": "#707070",
+    "top_far": "#5d5d5d",
+    "top_edge": "#515151",
+    "top_fold": "#969696",
+    "pants": "#434343",
+    "pants_far": "#606060",
+    "pants_fold": "#676767",
+    "sock": "#9a9a9a",
+    "sock_far": "#838383",
+    "ink": "#393939"
+  },
+  "clock": {
+    "radius": 245,
+    "arc": [-148, -76],
+    "B": [-136, -106, -89, 8],
+    "C": [-136, -106, -89, 8],
+    "foot_tick_radius": 287
+  }
+}
