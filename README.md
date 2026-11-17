@@ -1,25 +1,33 @@
-# SF-City-Advertising
+# 当前项目状态（2026-11-17 重启）
 
-顺丰同城三联广告的专业设计工程。**仅完成 Stage 0，尚未批准 Stage 1。**
+**当前最终交付：一张顺丰同城平面广告海报。** 原人体时钟与三联方案已由用户明确推翻，仅作为历史档案保留。已确认 D｜泛同城即时配送。已选定 G3-B，Gate 4.6 的静物与纸艺两套艺术指导板已交审，等待 ChatGPT 与用户复审。参见[风格板与对比报告](reports/stage4_6/COMPARISON.md)、[单张海报重启总控](docs/design/SINGLE_POSTER_RESET.md)及[项目 Skill 安装审计](docs/design/SKILL_INSTALL_AUDIT.md)。
+
+项目专用 Skill：`$sf-single-poster-art-direction`；配套 `$design-principles`、`$creative-direction`、`$art-direction`、`$collateral-design`。
+
+---
+
+## 历史档案｜原三联项目的 Stage 0 工程
+
+以下为 Stage 0 迁移时的审查入口、工具重建说明和协作记录。
 
 远程仓库：[3387029830-dot/shunfeng](https://github.com/3387029830-dot/shunfeng)（私有）。用户提供的仓库名为 shunfeng；本项目名称仍为 SF-City-Advertising。
 
-## 审查入口
+### 审查入口
 
 [迁移报告](MIGRATION_REPORT.md) · [版本交接](docs/REVIEW_HANDOFF.md) · [资源同步规范](docs/RESOURCE_SYNC.md)
 
 Stage 0 七份必需文档：[环境审计](WORKFLOW_AUDIT.md)、[工具比较](TOOL_COMPARISON.md)、[工作流架构](WORKFLOW_ARCHITECTURE.md)、[测试报告](TEST_REPORT.md)、[执行规范](AGENTS.md)、[路线](ROADMAP.md)、[阻断项](BLOCKERS.md)。另见[研究来源](docs/RESEARCH.md)、[风险登记](docs/RISKS.md)、[原任务书](docs/USER_TASK_V1.md)。
 
-原 Stage 0 报告保留历史结论，其中“未初始化 Git / 未推送”等表述描述迁移前状态。当前 Git 协作规范以本 README、MIGRATION_REPORT、RESOURCE_SYNC 为准。脱敏历史证据冻结于 reports/stage0；原始未脱敏工程仍在用户本机原目录，本仓库只含迁移副本。
+原 Stage 0 报告保留历史结论，其中“未初始化 Git / 未推送”等表述描述迁移前状态。当前 Git 协作规范见 [AGENTS.md](AGENTS.md)、[资源同步规范](docs/RESOURCE_SYNC.md)和[审查交接协议](docs/REVIEW_HANDOFF.md)。脱敏历史证据冻结于 reports/stage0；原始未脱敏工程仍在用户本机原目录，本仓库只含迁移副本。
 
-## 源与预览
+### 源与预览
 
 - 配置：config/*.json；生成器：scripts/geometry.py。
 - 中性 SVG：tests/svg/*.svg；[三状态预览](previews/geometry_contact.png)。
 - 原生 Affinity/Blender 文件：尚无；未安装绘图软件，未进行正式设计。
 - [光栅 PDF 诊断回渲](previews/pdf_check.png)仅验证图像传递，不证明矢量/印刷导出。
 
-## 重建（从仓库根目录执行）
+### 重建（从仓库根目录执行）
 
 最小结构重建只需要 Python 3.9+、xmllint（macOS系统已提供）：
 
@@ -37,7 +45,7 @@ python3 scripts/rebuild.py --full
 
 完整重建写入6张PNG、光栅PDF、PDF回渲与几何对照图；像素可能随字体/渲染库版本改变。中文本机字体请求为Heiti SC，字体文件不在仓库中。已运行版本见 reports/render_results.json，历史结果见 reports/stage0。PDF元数据应避免私人作者、路径和文件附件。
 
-## 分支与同步
+### 分支与同步
 
 main 是稳定审批分支，初始基线例外由本次迁移授权；后续 Codex 工作在 dev 或 dev 派生分支，完成后提交 PR 审查，未经明确批准不合入 main，不强推，不自动合并。提交固定SHA再交接，不能只链接浮动分支。
 

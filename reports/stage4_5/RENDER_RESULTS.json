@@ -1,0 +1,156 @@
+{
+  "engine": "Inkscape 1.4.4 (dcaf3e7, 2026-05-05)",
+  "source_checks": "PASS for all 3",
+  "previews": {
+    "b4-a.png": {
+      "width": 640,
+      "height": 800,
+      "bytes": 74239,
+      "sha256": "fd74ee58ed0fe774f5a130051ed12b143bc4f0c57f2f55cc0e0fab9e8dec62c9"
+    },
+    "b4-a-silhouette.png": {
+      "width": 640,
+      "height": 800,
+      "bytes": 14423,
+      "sha256": "957c28e58065bd3358eee6447c98f3d960e5fe44b85086fd615dd8eee4e3e048"
+    },
+    "b4-a-grayscale.png": {
+      "width": 640,
+      "height": 800,
+      "bytes": 68470,
+      "sha256": "075e685cdb6f8ff77d7c48b37346ac9e384b79c9934b9fcbddb9613ea9799e76"
+    },
+    "b4-a-thumbnail.png": {
+      "width": 128,
+      "height": 160,
+      "bytes": 9744,
+      "sha256": "26926e438543c5b31ad16714f43287e820fdca1f5bfdf3759ab308ae90791e73"
+    },
+    "b4-a-no-headline.png": {
+      "width": 640,
+      "height": 800,
+      "bytes": 52014,
+      "sha256": "66eedf4971765eaad80f323d963c4d2f2733b0408756166b97bda2f438cbdf09"
+    },
+    "b4-a-no-brand.png": {
+      "width": 640,
+      "height": 800,
+      "bytes": 70998,
+      "sha256": "7c680e910c9275a51a5191ccb8b6819f29d496fc97757bddd783d1a3165eb508"
+    },
+    "b4-a-no-delivery.png": {
+      "width": 640,
+      "height": 800,
+      "bytes": 69204,
+      "sha256": "c19a346deb356220339720e2c1735561f5a98c98ff4ffc110dc307a94dc71762"
+    },
+    "b4-a-checks.png": {
+      "width": 748,
+      "height": 675,
+      "bytes": 93625,
+      "sha256": "6a50f75031dcd95a7f1a196bec7b3a4ba480454c5ca370a6f1783a91a8b2ffe6"
+    },
+    "b4-b.png": {
+      "width": 640,
+      "height": 800,
+      "bytes": 73540,
+      "sha256": "963aa67ffa60905737423e19186a0ad3f1833a44e6dbe8589b9a45dc809a3d54"
+    },
+    "b4-b-silhouette.png": {
+      "width": 640,
+      "height": 800,
+      "bytes": 13621,
+      "sha256": "edc70893c8ec89e3dad71851f49c37392d375f35f5f69e261bf832e938a97ef9"
+    },
+    "b4-b-grayscale.png": {
+      "width": 640,
+      "height": 800,
+      "bytes": 67824,
+      "sha256": "f4a15394b1e412525ffaf19785a6e53d55e033d0690da7c86cfd4f7e7b3e8872"
+    },
+    "b4-b-thumbnail.png": {
+      "width": 128,
+      "height": 160,
+      "bytes": 9477,
+      "sha256": "d9995c6c1632398a0293b8f7596ca3e49ff490f9236a163bcc8d97d324ddda18"
+    },
+    "b4-b-no-headline.png": {
+      "width": 640,
+      "height": 800,
+      "bytes": 51483,
+      "sha256": "bddb01271bc7cc46a8c430150ad37dc3dbcc2b99426a6a128e40fbf249b12115"
+    },
+    "b4-b-no-brand.png": {
+      "width": 640,
+      "height": 800,
+      "bytes": 71064,
+      "sha256": "dfdd97433daf994ed6a9a2c902a660925a7cdaebb86efd7ade0b0dfd0576879a"
+    },
+    "b4-b-no-delivery.png": {
+      "width": 640,
+      "height": 800,
+      "bytes": 62666,
+      "sha256": "f66ec64b0d3871c4ab946e7c84b45c363414d5af5fd2a67facff7136e3e10b72"
+    },
+    "b4-b-checks.png": {
+      "width": 748,
+      "height": 675,
+      "bytes": 91547,
+      "sha256": "e5d2005acce9bafd6e15e97a7be4dd49b52c48a8e542db0940f25fd06b7394f3"
+    },
+    "b4-c.png": {
+      "width": 640,
+      "height": 800,
+      "bytes": 77042,
+      "sha256": "71183541244fa6fe7f066fc4b37f172f35136229df0d6fbe81b3ad59f4cf8f3a"
+    },
+    "b4-c-silhouette.png": {
+      "width": 640,
+      "height": 800,
+      "bytes": 15323,
+      "sha256": "1f79a962dd9015a6edaf0eb041035334c3fca8206c8b915d8e5cc95137ab4287"
+    },
+    "b4-c-grayscale.png": {
+      "width": 640,
+      "height": 800,
+      "bytes": 70677,
+      "sha256": "23a34ef03e7b30e0271b5af7ab80759a561a500ee4f624a5afaf706bd173c7bb"
+    },
+    "b4-c-thumbnail.png": {
+      "width": 128,
+      "height": 160,
+      "bytes": 10062,
+      "sha256": "439c92c01bafcba38b6ccba19b5ce25cb03a40132a1e0f3ae252275f6dbbbb06"
+    },
+    "b4-c-no-headline.png": {
+      "width": 640,
+      "height": 800,
+      "bytes": 54702,
+      "sha256": "9a4a7ce924a688339d5edf823423fc27de119f67ce79f9b4629947df17b0c60b"
+    },
+    "b4-c-no-brand.png": {
+      "width": 640,
+      "height": 800,
+      "bytes": 75727,
+      "sha256": "91b078bbfe0ad183adfd0c5a26969ee2f266e3bcff97a424bb4154622ca5553d"
+    },
+    "b4-c-no-delivery.png": {
+      "width": 640,
+      "height": 800,
+      "bytes": 70943,
+      "sha256": "75a7cdc6eacdda37ed30ef8fe7f79b9604ce7ca5f12229fdce2962830d692488"
+    },
+    "b4-c-checks.png": {
+      "width": 748,
+      "height": 675,
+      "bytes": 95634,
+      "sha256": "61db221db7aec01161baa55ebcc44044c7ea807d64c95fbafc0e0343286d017a"
+    },
+    "comparison.png": {
+      "width": 1328,
+      "height": 687,
+      "bytes": 140362,
+      "sha256": "ed3a6f1837b1fa5f547b6443d8ba2b9b90b125d971efeb151d872b825d613e4f"
+    }
+  }
+}

@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+     width="640" height="800" viewBox="0 0 640 800" role="img" aria-labelledby="board-title board-description">
+  <title id="board-title">G3-C｜把城市折近一点</title>
+  <desc id="board-description">一张纸上的两片街块随谷折相遇，包裹落在折点。Gate 3 低保真构图。品牌名称为普通文字占位，官方资产与包装形制待核验。</desc>
+  <g id="paper" inkscape:groupmode="layer" inkscape:label="01 纸面">
+    <rect width="640" height="800" fill="#f8f7f3"/>
+  </g>
+  <g id="scene" inkscape:groupmode="layer" inkscape:label="02 主视觉结构" stroke-linejoin="round" stroke-linecap="round">
+    <g id="continuous-paper" inkscape:label="单张纸的折面和切边" stroke="#2d3737" stroke-width="3">
+      <path d="M63 431 142 286 310 389 360 449 505 331 573 417 424 539 349 605 284 613 220 558Z"
+            fill="#626f6e"/>
+      <path d="M63 431 142 286 310 389 220 543Z" fill="#e1e5de"/>
+      <path d="M310 389 360 449 284 599 220 543Z" fill="#a8b4b2"/>
+      <path d="M360 449 505 331 573 417 424 539 284 599Z" fill="#cdd5ce"/>
+      <path d="M63 431 220 543 284 599 424 539 573 417v14L424 554 284 613 220 558 63 446Z"
+            fill="#657473"/>
+      <path d="M66 438 221 550 284 606 424 547 566 431" fill="none" stroke="#dce4dd" stroke-width="2"/>
+      <path d="M310 389 220 543 M360 449 284 599" fill="none" stroke="#3d4b4b" stroke-width="4"/>
+    </g>
+    <g id="paper-street-left" inkscape:label="左街块的纸面起伏" stroke="#2d3737" stroke-width="2.5">
+      <path d="M115 416 148 357 203 392 168 452Z" fill="#98a5a1"/>
+      <path d="M115 416v-43l33-34 55 33v20l-35 60Z" fill="#c6d0ca"/>
+      <path d="M115 373l33-34 55 33-36 35Z" fill="#f0f1ea"/>
+      <path d="M167 407v45l36-60v-20Z" fill="#788985"/>
+      <path d="M192 459l34-56 39 23-33 58Z" fill="#78908d"/>
+      <path d="M192 459v-19l35-39 38 25-33 42Z" fill="#eef0e9"/>
+    </g>
+    <g id="paper-street-right" inkscape:label="右街块的纸面起伏" stroke="#2d3737" stroke-width="2.5">
+      <path d="M444 452v-48l48-38 39 38v21l-49 45Z" fill="#8b9c98"/>
+      <path d="M444 404l48-38 39 38-51 39Z" fill="#eef0e9"/>
+      <path d="M444 404l36 39 2 27-38-18Z" fill="#b5c2bc"/>
+      <path d="M399 489v-25l26-23 31 26v13l-28 25Z" fill="#91a29d"/>
+      <path d="M399 464l26-23 31 26-28 25Z" fill="#edf0e8"/>
+    </g>
+    <g id="street-approaches" inkscape:label="两条街缘在同一折痕终止" fill="none"
+       stroke="#6d7f7d" stroke-width="6">
+      <path d="M193 491 220 506 289 479"/>
+      <path d="M380 470 418 434 443 427"/>
+    </g>
+    <g id="fold-bearing" inkscape:label="折点卡位和唯一包裹">
+      <path d="M285 474 340 454 384 483 337 526 296 505Z" fill="#536765" stroke="#2d3737" stroke-width="2.5"/>
+      <path d="M284 447 338 426 382 455 330 477Z" fill="#c9dedc" stroke="#2d3737" stroke-width="3"/>
+      <path d="M284 447 330 477v46l-46-33Z" fill="#6a939a" stroke="#2d3737" stroke-width="3"/>
+      <path d="M330 477 382 455v44l-52 24Z" fill="#537b86" stroke="#2d3737" stroke-width="3"/>
+      <path d="M310 437l45 30 15-7-45-29Z" fill="#f0f3ed"/>
+      <path d="M349 468 362 462v9l-13 6Z" fill="#d4e3df"/>
+      <g id="brand-name" inkscape:label="折点包裹上的品牌文字占位">
+        <text transform="translate(297 480) rotate(35)" fill="#172b2f" font-family="PingFang SC, Heiti SC, sans-serif"
+              font-size="10.5" font-weight="700">顺丰同城</text>
+      </g>
+    </g>
+  </g>
+  <g id="headline" inkscape:groupmode="layer" inkscape:label="03 概念文案占位" fill="#202929"
+     font-family="PingFang SC, Heiti SC, sans-serif">
+    <text x="56" y="78" font-size="15" letter-spacing="2">概念文案</text>
+    <text x="54" y="136" font-size="47" font-weight="600">把城市折近一点</text>
+  </g>
+  <g id="auxiliary" inkscape:groupmode="layer" inkscape:label="04 辅助信息占位" fill="#384343"
+     font-family="PingFang SC, Heiti SC, sans-serif">
+    <path d="M56 716H584" fill="none" stroke="#a6acab"/>
+    <text x="56" y="747" font-size="15">辅助信息占位 · 品牌资产待核验</text>
+    <text x="584" y="747" text-anchor="end" font-size="15">G3-C</text>
+  </g>
+</svg>

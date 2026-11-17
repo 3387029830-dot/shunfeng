@@ -33,6 +33,39 @@ previews/*
 !previews/state_03.png
 !previews/geometry_contact.png
 !previews/pdf_check.png
+# Gate 3 comparison, boards, and one diagnostics sheet per board.
+!previews/stage3/
+previews/stage3/*
+!previews/stage3/comparison.png
+!previews/stage3/g3-b.png
+!previews/stage3/g3-c.png
+!previews/stage3/g3-c05.png
+!previews/stage3/g3-b-checks.png
+!previews/stage3/g3-c-checks.png
+!previews/stage3/g3-c05-checks.png
+# Gate 4.5 boards, independent diagnostic PNGs and comparison sheets.
+!previews/stage4_5/
+previews/stage4_5/*
+!previews/stage4_5/comparison.png
+!previews/stage4_5/b4-[abc].png
+!previews/stage4_5/b4-[abc]-checks.png
+!previews/stage4_5/b4-[abc]-silhouette.png
+!previews/stage4_5/b4-[abc]-grayscale.png
+!previews/stage4_5/b4-[abc]-thumbnail.png
+!previews/stage4_5/b4-[abc]-no-headline.png
+!previews/stage4_5/b4-[abc]-no-brand.png
+!previews/stage4_5/b4-[abc]-no-delivery.png
+# Gate 4.6 author-created previsualizations and review boards.
+!previews/stage4_6/
+previews/stage4_6/*
+!previews/stage4_6/comparison.png
+!previews/stage4_6/no-brand-comparison.png
+!previews/stage4_6/style-[ab]-board.png
+!previews/stage4_6/style-[ab]-detail.png
+!previews/stage4_6/style-[ab]-frame.png
+!previews/stage4_6/style-[ab]-grayscale.png
+!previews/stage4_6/style-[ab]-silhouette.png
+!previews/stage4_6/style-[ab]-thumbnail.png
 # Native binaries require explicit size/LFS review before adding.
 *.af
 *.afdesign
