@@ -51,8 +51,8 @@
 
 | Gate | 状态 |
 |---|---|
-| Gate 0 重启任务简报 | 审核完成，等待用户确认配送情境和简报。见 [Gate 0 简报](TASK_BRIEF_GATE0.md)及 [Skill 安装审计](SKILL_INSTALL_AUDIT.md) |
-| Gate 1 参考研究 | 第一轮研究报告完成，等待用户艺术复审；见 [GATE1_REFERENCE_RESEARCH.md](GATE1_REFERENCE_RESEARCH.md)。至少 8 个参考与 4 个具体广告作品已整理 |
+| Gate 0 重启任务简报 | 用户已确认业务情境 D｜泛同城即时配送，并批准 Gate 0 简报进入 Gate 1。见 [Gate 0 简报](TASK_BRIEF_GATE0.md) |
+| Gate 1 参考研究 | 第一轮研究与 Gate 1B 艺术指导补充均已完成，等待用户审查；见 [第一轮报告](GATE1_REFERENCE_RESEARCH.md) 与 [艺术指导补充](GATE1_ART_DIRECTION_ADDENDUM.md) |
 | Gate 2 核心创意发散 | 待执行，至少 8 个隐喻并筛选 |
 | Gate 3 三个概念方向板 | 待执行，三个概念板仅供选择，不是三张最终海报 |
 | Gate 4 用户选定唯一方向 | 未批准 |
