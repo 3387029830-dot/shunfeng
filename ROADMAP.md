@@ -10,10 +10,11 @@
 | 3 概念方向板 | 按用户批准的 B / C / C05 制作三种低保真、同尺寸、可编辑完整构图；品牌元素必须融入结构 | [Gate 3 任务书](docs/design/GATE3_CONCEPT_BOARDS.md) · [三个方向板和比较报告](reports/stage3/REVIEW.md) | 三案已完成艺术复审，用户选择 G3-B |
 | 4 唯一方向批准 | 用户选定一个方向 | 冻结方向简报 | 用户已选择 G3-B「一座城市装进一个包裹」；C05 仅冻结备选，C 冻结 |
 | 4.5 B 方向定向深化 | 针对 G3-B 的交付点、出箱路径、品牌嵌入和同城叙事制作 3 个结构版本 | [Gate 4.5 任务书](docs/design/GATE4_5_B_REFINEMENT.md) · [三版、诊断与报告](reports/stage4_5/REVIEW.md) | B4-A / B4-B / B4-C 已交审，等待 ChatGPT 与用户评审 |
+| 4.6 A/B 风格探索 | 在 G3-B 机制上并列探索高级静物与纸艺雕塑，复核材质、光线、印刷和来源 | [Gate 4.6 任务书](docs/design/GATE4_6_STYLE_EXPLORATION.md) · [风格板与对比报告](reports/stage4_6/COMPARISON.md) | 已交审，等待 ChatGPT 与用户选择 |
 | 5 单张海报制作 | 锁定印刷规格、真实文案、品牌事实和素材授权，制作 SVG 母版、Inkscape 校样及 Affinity 排版 | 一张可编辑海报 | 母版、原生排版和素材台账可审查 |
 | 6 输出与交付 | 检查尺寸、出血、色彩、字体、PDF 及源文件重开 | 一张最终海报及源文件 | 完成印前检查并取得用户批准 |
 
-每个 Gate 完成即停止交审。Gate 4.5 是用户批准的定向深化子阶段；未经明确批准不得进入 Gate 5。正式制作主线仍为 SVG + Inkscape + Affinity；不引入未获批的软件和生成式图像。
+每个 Gate 完成即停止交审。Gate 4.5 和 Gate 4.6 分别完成结构与风格的阶段验证；未经明确批准不得进入 Gate 5。正式制作主线仍为 SVG + Inkscape + Affinity；不引入未获批的软件和生成式图像。
 
 ---
 

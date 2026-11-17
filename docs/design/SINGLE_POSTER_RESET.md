@@ -57,7 +57,7 @@
 | Gate 3 三个概念方向板 | B / C / C05 已提交并完成艺术复审。见 [Gate 3 任务书](GATE3_CONCEPT_BOARDS.md)和[方向板交付](../../reports/stage3/REVIEW.md) |
 | Gate 4 用户选定唯一方向 | **用户已选择 G3-B「一座城市装进一个包裹」；C05 冻结为备选，C 冻结** |
 | Gate 4.5 B 方向定向深化 | **结构验证完成，但用户不认可当前矢量画风，不作为最终风格。** 见 [交付报告](../../reports/stage4_5/REVIEW.md) |
-| Gate 4.6 视觉风格探索 | **用户已批准先探索 A 超现实高级静物与 B 高级纸艺雕塑；C 现代艺术指导平面海报仅保留备选。** 见 [Gate 4.6 任务书](GATE4_6_STYLE_EXPLORATION.md) |
+| Gate 4.6 视觉风格探索 | **A 静物与 B 纸艺的风格板已交审，等待 ChatGPT 与用户评审。** C 留作备选。见 [Gate 4.6 任务书](GATE4_6_STYLE_EXPLORATION.md)和[对比报告](../../reports/stage4_6/COMPARISON.md) |
 | Gate 5 单张海报精细制作 | 未批准 |
 | Gate 6 单张成稿与印刷交付 | 未批准 |
 

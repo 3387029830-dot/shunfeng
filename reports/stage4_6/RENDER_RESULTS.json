@@ -1,0 +1,96 @@
+{
+  "inkscape": "Inkscape 1.4.4 (dcaf3e7, 2026-05-05)",
+  "compiler": "Apple clang version 21.0.0 (clang-2100.3.34.2)",
+  "method": "Original geometry, CPU ray casting, area sampling and ambient occlusion",
+  "samples_per_pixel": 64,
+  "frame_size": [
+    720,
+    900
+  ],
+  "previews": {
+    "style-a-frame.png": {
+      "width": 720,
+      "height": 900,
+      "bytes": 558839,
+      "sha256": "c8468786be991a751d9a86f2b2051e57d8da3ecf1da70c6d7dbe551926c98e4e"
+    },
+    "style-a-grayscale.png": {
+      "width": 720,
+      "height": 900,
+      "bytes": 324408,
+      "sha256": "dca9d3c4f7e4c7f2d317515760d4972ae4ac0e840f29c7fff9f01cb66ef5ea62"
+    },
+    "style-a-thumbnail.png": {
+      "width": 128,
+      "height": 160,
+      "bytes": 20262,
+      "sha256": "cc9762956b8ca74c9470cfe4bdf3f2fb62308bb919e7916aca1419e4a5d0040a"
+    },
+    "style-a-silhouette.png": {
+      "width": 720,
+      "height": 900,
+      "bytes": 17825,
+      "sha256": "c7c5db61c5428b8be3f4842613e75aa80471bab1cbc803476e4ffa2812aac684"
+    },
+    "style-a-detail.png": {
+      "width": 520,
+      "height": 282,
+      "bytes": 154769,
+      "sha256": "f4648551153606c33878e041d93ee7cb055c60238c766768f8d58218d6674a80"
+    },
+    "style-a-board.png": {
+      "width": 1265,
+      "height": 970,
+      "bytes": 676092,
+      "sha256": "f01fb39be39adb4adc3abd8f09abf1cf750150b42e85d5829a9d9db2f3c6c254"
+    },
+    "style-b-frame.png": {
+      "width": 720,
+      "height": 900,
+      "bytes": 584760,
+      "sha256": "2beafa4061e36e8fa584200158f5bcb7d676f0f18b23aacba4a79a6a38536179"
+    },
+    "style-b-grayscale.png": {
+      "width": 720,
+      "height": 900,
+      "bytes": 350044,
+      "sha256": "2c48dd3bea706f1c6f8401ec148cbff822320df3954bae49b1329c57560ab6a1"
+    },
+    "style-b-thumbnail.png": {
+      "width": 128,
+      "height": 160,
+      "bytes": 20704,
+      "sha256": "0c46e4f08f3223f87f21a1cb0d2324d955a3757a9d14710e431953b6cc2208eb"
+    },
+    "style-b-silhouette.png": {
+      "width": 720,
+      "height": 900,
+      "bytes": 18754,
+      "sha256": "691b4649f55c246a304088ff37c74568677078a9947ab2d410a014672a9cd116"
+    },
+    "style-b-detail.png": {
+      "width": 520,
+      "height": 282,
+      "bytes": 155635,
+      "sha256": "0e63692b0c78ee98a02b56eaa31b95f369fd4fa4bbb9f8cb5b251c20b5bfb21a"
+    },
+    "style-b-board.png": {
+      "width": 1265,
+      "height": 970,
+      "bytes": 696604,
+      "sha256": "fcae065f57fe03a4aed38ea432054837e5ab1a00c8edf3cae610591f45a46e98"
+    },
+    "comparison.png": {
+      "width": 1110,
+      "height": 900,
+      "bytes": 545378,
+      "sha256": "6d94b2ed1d719fb93085ad129b6fdcea11c13b5904e32ce2a6ac353a4ac3c470"
+    },
+    "no-brand-comparison.png": {
+      "width": 1110,
+      "height": 900,
+      "bytes": 547261,
+      "sha256": "74b608464dad400beed05c13b1659157ec2eb9598a18fca7ab2bf3bfb4fe52b1"
+    }
+  }
+}

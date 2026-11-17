@@ -55,6 +55,17 @@ previews/stage4_5/*
 !previews/stage4_5/b4-[abc]-no-headline.png
 !previews/stage4_5/b4-[abc]-no-brand.png
 !previews/stage4_5/b4-[abc]-no-delivery.png
+# Gate 4.6 author-created previsualizations and review boards.
+!previews/stage4_6/
+previews/stage4_6/*
+!previews/stage4_6/comparison.png
+!previews/stage4_6/no-brand-comparison.png
+!previews/stage4_6/style-[ab]-board.png
+!previews/stage4_6/style-[ab]-detail.png
+!previews/stage4_6/style-[ab]-frame.png
+!previews/stage4_6/style-[ab]-grayscale.png
+!previews/stage4_6/style-[ab]-silhouette.png
+!previews/stage4_6/style-[ab]-thumbnail.png
 # Native binaries require explicit size/LFS review before adding.
 *.af
 *.afdesign
