@@ -100,15 +100,15 @@
 
 ## 2. 补充参考（跨媒介机制，不计入“8 个已查看作品”的最低数量）
 
-### R09｜DHL — “Trojan Mailing” （2014，德国/欧洲，环境营销）
-- 品牌/代理商：DHL / Jung von Matt Stuttgart
+### R09｜“Trojan Mailing” （2014，德国，DHL 相关的代理商内部创意实验；**非 DHL 正式委托广告**）
+- 关联机构：Jung von Matt Stuttgart；DHL 发言人向《华盛顿邮报》确认，该视频并非 DHL 委托的商业广告，而是代理商内部活动/竞赛的创意实验；DHL 事先知晓其计划对外发布，但并未委托制作。
 - 形式：热敏材料包裹被 UPS、TNT、DPD 等竞争对手的配送员携带；温度变化后显现 “DHL IS FASTER”。
-- 观察：把品牌传播藏进真实配送过程，借竞争对手的运输动作完成传播。
-- 可转译：材料的物理属性可以承担信息揭示；品牌信息可以在某个动作发生后才出现。
-- 风险/不可复制：该案例有强烈的竞品对比和具体速度主张，属于环境营销/行为实验，不是普通静态海报；不能照搬其竞争比较、热敏机制或“更快”声明。
-- 来源：[The One Club / One Show](https://www.oneclub.org/awards/theoneshow/-award/21575/trojan-mailing/)；[Lions Work](https://www.lovethework.com/en/work/campaigns/trojan-mailing-228432)
+- 观察：创意借真实配送动作和温度变化揭示信息，但不能把它误写成 DHL 正式 campaign 或已获品牌批准的比较广告。
+- 可转译：材料的物理属性可以承担信息揭示；品牌信息可以在某个动作发生后才出现。仅作跨媒介机制研究，不计入 DHL 正式广告案例。
+- 风险/不可复制：未经品牌委托的代理商内部实验、竞品借势和“更快”主张均不可照搬；它也不是普通静态海报。
+- 来源：[The One Club 档案](https://www.oneclub.org/awards/theoneshow/-award/21575/trojan-mailing/)；[The Washington Post 对 DHL 发言人的核实报道](https://www.washingtonpost.com/news/arts-and-entertainment/wp/2014/02/21/that-viral-dhl-commercial-is-brilliant-and-fake/)
 
-### R10｜DHL — “Delivered Yesterday / YesterDelivery” （2024–2025，阿联酋，体验/公关活动）
+### R10｜DHL — “Delivered Yesterday / Yesterdelivery” （2024，阿联酋，品牌影片/体验活动）
 - 品牌/代理商：DHL / Horizon FCB Dubai
 - 形式：跨越国际日期变更线的真实包裹配送体验；公开案例说明一份礼物在收件人当地生日日期的前一天从东京发出、却在洛杉矶前一天抵达，形成“昨天送达”的叙事。
 - 观察：将抽象时区差转化为违反直觉的时间故事；观众先被悖论吸引，再理解物流网络与时区。
@@ -219,3 +219,10 @@
 - [ ] 用户明确批准后，才进入 Gate 2 核心创意发散。
 
 **当前停点：Gate 1 研究报告完成，等待艺术审查。Gate 2 尚未启动。**
+
+
+## 10. 研究事实更正与来源审计
+
+在最终审查时，对 R09 作重要更正：虽然 The One Club 将其收录为 DHL / Jung von Matt 的获奖项目，但《华盛顿邮报》2014 年 2 月 21 日的报道引用 DHL 发言人明确表示，该视频并非 DHL 委托制作，而是代理商内部创意竞赛产物。因此本报告不再把 R09 作为 DHL 正式广告或品牌授权案例，仅保留为“代理商内部实验”的跨媒介参考。该更正优先于任何将它称为 DHL campaign 的二手描述。来源：[The Washington Post](https://www.washingtonpost.com/news/arts-and-entertainment/wp/2014/02/21/that-viral-dhl-commercial-is-brilliant-and-fake/)；[The One Club](https://www.oneclub.org/awards/theoneshow/-award/21575/trojan-mailing/)。
+
+顺丰同城官方品牌介绍及官网用于核对业务范围：[官方品牌介绍](https://www.sf-intra-city.com/about/)；[官方首页](https://www.sf-intra-city.com/)。FedEx Neighbours 的广告目标、媒介和年份以 D&AD 与 Communication Arts 档案为准：[D&AD](https://www.dandad.org/work/d-ad-awards-archive/neighbours)；[Communication Arts](https://www.commarts.com/exhibit/fedex-express-neighbors-print-campaign)。DHL Tunnel box 的年份、国家、媒介和署名以 Ads of the World 档案为准：[作品页](https://www.adsoftheworld.com/campaigns/tunnel-box)。
