@@ -1,0 +1,528 @@
+{
+  "technical_status": "PASS",
+  "environment": {
+    "inkscape": "Inkscape 1.4.4 (dcaf3e7, 2026-05-05)",
+    "python": "3.9.6",
+    "os": "Darwin",
+    "arch": "arm64"
+  },
+  "geometry_and_source_checks": [
+    "unique IDs, grayscale colors, local clip references and editable vector elements",
+    "constant 700 × 990 viewBox and pelvis (364,585); no text in the single boards",
+    "shared character form, wardrobe, legs and room in P1/P2/P3",
+    "both L0/L1 angular bands, segment lengths and progressive effective crown angle",
+    "no graphics cues, furniture, prop or face details in standalone silhouettes",
+    "identical figure and room between single B and C variants",
+    "all generated files byte-identical on clean rebuild",
+    "P2 update changes only its SVGs; shared scene edit updates all without touching figures",
+    "repeat native Inkscape export byte-identical for each delivered PNG",
+    "historical Stage 1 directories equal frozen commit"
+  ],
+  "figure_bounds_svg_units": {
+    "P1": [
+      197.942,
+      443.484,
+      418.106,
+      184.392
+    ],
+    "P2": [
+      248.441,
+      395.694,
+      367.607,
+      232.182
+    ],
+    "P3": [
+      309.667,
+      374.509,
+      306.381,
+      253.367
+    ]
+  },
+  "p2_isolation": {
+    "p2_torso_delta_deg": 4,
+    "changed": [
+      "P2.svg",
+      "P2_silhouette.svg",
+      "P2_rig.svg",
+      "P2_C.svg"
+    ],
+    "non_target_mtime_preserved": true,
+    "before_sha256": {
+      "P1.svg": "b3b36ad1b63980d0cc199de9d7c74c468cd31357c6d90f7cc90344e4be93ce8e",
+      "P1_C.svg": "5e438896beedf6994f3d977ff64d161c46357db0ef4f168847a44ad3f5f8193c",
+      "P1_rig.svg": "079055991fc57099b2eb46040dfccdea036d60d521ec1f2c9a62e2e0ff443813",
+      "P1_silhouette.svg": "4e3eaaf67002a6163e053edafc3138f3b028fedb31ef37462ba246f7fe68d140",
+      "P2.svg": "f51c901a17854cc2cd815b919e4e465d6cd7fb05ef038c707f5c86311ced05d0",
+      "P2_C.svg": "d975bedf9f2a8d21eb0c3e74e3c0e810dcd79822f134c1e903153eb7128f7430",
+      "P2_rig.svg": "30a8e63a5afa22b54f0044166643112456a7a94173e82017575f95555dab51fa",
+      "P2_silhouette.svg": "da1d1965d04a5ee4f1958f0483245b5a16768caaf82f884f70b0590e2714568c",
+      "P3.svg": "582575f17a794b3ea632cc2248f8b05f5729938bc39cad8ea3de1404ecdb40e2",
+      "P3_C.svg": "ea8c07f672a48e088d6eb032db65d037ce8797cb81170af84071748a5f6d1aba",
+      "P3_rig.svg": "0a128ceacd22c09a7d628f7cf941ca4b9771df49890bd0ee869d78bc8f3ee58c",
+      "P3_silhouette.svg": "853739ec7534725ece1dbec8c2f5aa3689d30f7ba22164e36f8accae6333c57a",
+      "body_study.svg": "d102a2a43715cdefc14ed39ea6d929300a7f8871fb84a0d25f528cb063d296c9",
+      "clock_comparison.svg": "d5fcb72aa80106c76a63409087bdccb3c1ec896f658229335931df79fb57579c",
+      "clock_detail.svg": "2d88f1fb0220b117093828131e5599aef9cea52a293078c661fe948bfc4e927f",
+      "expression_study.svg": "63906f9a579f3b43f15c7e2db7846ac192ef1f6e397fca85372910afc4d877f7",
+      "female_identity.svg": "bb2273d9b05fc55d8b079b6f08fbf999fbb798178caac9bd97149a5404e01904",
+      "leg_comparison.svg": "bbb417d3b123b775d3c43d29bd0521c7baa9ec18b8c42030831b9a20618e787d",
+      "pelvis_alignment.svg": "7d387f2d240e0423c05fd14dbaf1966b110279bb8f654dd545e2678d1c13eb58",
+      "pose_coordinates.json": "bcff461446b6f6bc964d65a79637840544f8ef92b261e020c43fa2414403a53e",
+      "reach_comparison.svg": "8de7fd3057692327956a0a718c96a37868da3b35630c5147500a68adb5992689",
+      "scene_layers.svg": "6d0233ca38f3c9eb1358b3330cf602195fd891f4ada20afd8af44fd0eacbc102",
+      "sofa_scene_comparison.svg": "657fdaec6a0c0b0d9069792e0c17e97a88a612ab7de0237c99ae0138475e2267",
+      "triptych.svg": "26b828c012230b2a200f183912b12c0c2ac3eeb11a8cc9bc48e8ec2172a42a87"
+    },
+    "after_sha256": {
+      "P1.svg": "b3b36ad1b63980d0cc199de9d7c74c468cd31357c6d90f7cc90344e4be93ce8e",
+      "P1_C.svg": "5e438896beedf6994f3d977ff64d161c46357db0ef4f168847a44ad3f5f8193c",
+      "P1_rig.svg": "079055991fc57099b2eb46040dfccdea036d60d521ec1f2c9a62e2e0ff443813",
+      "P1_silhouette.svg": "4e3eaaf67002a6163e053edafc3138f3b028fedb31ef37462ba246f7fe68d140",
+      "P2.svg": "e00199a1fd9244aa05d1608715817f0674bef9253b1c330b23d56cfad56c5b13",
+      "P2_C.svg": "f2e3020c1696605812610c8a1639c853f12015a00df0e62740d411a400e30a3f",
+      "P2_rig.svg": "d150b08cc0395a5681d210c47d679bd5b1f8b1dae572cc1413be64bea911e7f0",
+      "P2_silhouette.svg": "0346734077dcfad84077682aa2c9ddaff78b310802cef09d956bd1a80c02ce84",
+      "P3.svg": "582575f17a794b3ea632cc2248f8b05f5729938bc39cad8ea3de1404ecdb40e2",
+      "P3_C.svg": "ea8c07f672a48e088d6eb032db65d037ce8797cb81170af84071748a5f6d1aba",
+      "P3_rig.svg": "0a128ceacd22c09a7d628f7cf941ca4b9771df49890bd0ee869d78bc8f3ee58c",
+      "P3_silhouette.svg": "853739ec7534725ece1dbec8c2f5aa3689d30f7ba22164e36f8accae6333c57a",
+      "body_study.svg": "d102a2a43715cdefc14ed39ea6d929300a7f8871fb84a0d25f528cb063d296c9",
+      "clock_comparison.svg": "d5fcb72aa80106c76a63409087bdccb3c1ec896f658229335931df79fb57579c",
+      "clock_detail.svg": "2d88f1fb0220b117093828131e5599aef9cea52a293078c661fe948bfc4e927f",
+      "expression_study.svg": "63906f9a579f3b43f15c7e2db7846ac192ef1f6e397fca85372910afc4d877f7",
+      "female_identity.svg": "bb2273d9b05fc55d8b079b6f08fbf999fbb798178caac9bd97149a5404e01904",
+      "leg_comparison.svg": "bbb417d3b123b775d3c43d29bd0521c7baa9ec18b8c42030831b9a20618e787d",
+      "pelvis_alignment.svg": "7d387f2d240e0423c05fd14dbaf1966b110279bb8f654dd545e2678d1c13eb58",
+      "pose_coordinates.json": "bcff461446b6f6bc964d65a79637840544f8ef92b261e020c43fa2414403a53e",
+      "reach_comparison.svg": "8de7fd3057692327956a0a718c96a37868da3b35630c5147500a68adb5992689",
+      "scene_layers.svg": "6d0233ca38f3c9eb1358b3330cf602195fd891f4ada20afd8af44fd0eacbc102",
+      "sofa_scene_comparison.svg": "657fdaec6a0c0b0d9069792e0c17e97a88a612ab7de0237c99ae0138475e2267",
+      "triptych.svg": "26b828c012230b2a200f183912b12c0c2ac3eeb11a8cc9bc48e8ec2172a42a87"
+    },
+    "shared_test": "wall and sofa each updated in all 3; figure groups byte-identical"
+  },
+  "historical_baseline_sha": "3defbec20df88b3d1151dbb793e810010756a2dd",
+  "old_new_p2_svg_numstat": "92\t36\tsource/{stage1 => stage11}/generated/P2.svg",
+  "inputs_sha256": {
+    "config/stage11/geometry.v1.json": "efcd520f23d88f3b182ae296da61918071f8f1dc016a7036fd6e29a9281f5b16",
+    "source/stage11/refined/character.svg": "2fbb14f8f7d63b6dd1e33f16b0e27dd574315173e99a14575eef3cd68ff93567",
+    "source/stage11/shared/room.svg": "9b1c11a3f779f16e175e6791b6c335cba4e8ce21d7ef4d6d5326b35a624142fa",
+    "config/stage1/geometry.v1.json": "c4effe6b8d27abc76496d59e18fdfcca441a2d82b79145c5fd2e639a7783e941",
+    "source/stage1/refined/contours.json": "7b3f895fe1db1b8e63f747295b6cbc89cafd60cb72010e57f84a688953d68c15"
+  },
+  "generated_sha256": {
+    "P1.svg": "b3b36ad1b63980d0cc199de9d7c74c468cd31357c6d90f7cc90344e4be93ce8e",
+    "P1_C.svg": "5e438896beedf6994f3d977ff64d161c46357db0ef4f168847a44ad3f5f8193c",
+    "P1_rig.svg": "079055991fc57099b2eb46040dfccdea036d60d521ec1f2c9a62e2e0ff443813",
+    "P1_silhouette.svg": "4e3eaaf67002a6163e053edafc3138f3b028fedb31ef37462ba246f7fe68d140",
+    "P2.svg": "f51c901a17854cc2cd815b919e4e465d6cd7fb05ef038c707f5c86311ced05d0",
+    "P2_C.svg": "d975bedf9f2a8d21eb0c3e74e3c0e810dcd79822f134c1e903153eb7128f7430",
+    "P2_rig.svg": "30a8e63a5afa22b54f0044166643112456a7a94173e82017575f95555dab51fa",
+    "P2_silhouette.svg": "da1d1965d04a5ee4f1958f0483245b5a16768caaf82f884f70b0590e2714568c",
+    "P3.svg": "582575f17a794b3ea632cc2248f8b05f5729938bc39cad8ea3de1404ecdb40e2",
+    "P3_C.svg": "ea8c07f672a48e088d6eb032db65d037ce8797cb81170af84071748a5f6d1aba",
+    "P3_rig.svg": "0a128ceacd22c09a7d628f7cf941ca4b9771df49890bd0ee869d78bc8f3ee58c",
+    "P3_silhouette.svg": "853739ec7534725ece1dbec8c2f5aa3689d30f7ba22164e36f8accae6333c57a",
+    "body_study.svg": "d102a2a43715cdefc14ed39ea6d929300a7f8871fb84a0d25f528cb063d296c9",
+    "clock_comparison.svg": "d5fcb72aa80106c76a63409087bdccb3c1ec896f658229335931df79fb57579c",
+    "clock_detail.svg": "2d88f1fb0220b117093828131e5599aef9cea52a293078c661fe948bfc4e927f",
+    "expression_study.svg": "63906f9a579f3b43f15c7e2db7846ac192ef1f6e397fca85372910afc4d877f7",
+    "female_identity.svg": "bb2273d9b05fc55d8b079b6f08fbf999fbb798178caac9bd97149a5404e01904",
+    "leg_comparison.svg": "bbb417d3b123b775d3c43d29bd0521c7baa9ec18b8c42030831b9a20618e787d",
+    "pelvis_alignment.svg": "7d387f2d240e0423c05fd14dbaf1966b110279bb8f654dd545e2678d1c13eb58",
+    "pose_coordinates.json": "bcff461446b6f6bc964d65a79637840544f8ef92b261e020c43fa2414403a53e",
+    "reach_comparison.svg": "8de7fd3057692327956a0a718c96a37868da3b35630c5147500a68adb5992689",
+    "scene_layers.svg": "6d0233ca38f3c9eb1358b3330cf602195fd891f4ada20afd8af44fd0eacbc102",
+    "sofa_scene_comparison.svg": "657fdaec6a0c0b0d9069792e0c17e97a88a612ab7de0237c99ae0138475e2267",
+    "triptych.svg": "26b828c012230b2a200f183912b12c0c2ac3eeb11a8cc9bc48e8ec2172a42a87"
+  },
+  "exports": {
+    "previews/stage11/P1.png": {
+      "input": "source/stage11/generated/P1.svg",
+      "pixels": [
+        700,
+        990
+      ],
+      "sha256": "0c451894dc272c3b80cc08c8d07b130f8cb7e494ca1e4eb2ad85abe867940315"
+    },
+    "previews/stage11/P1_rig.png": {
+      "input": "source/stage11/generated/P1_rig.svg",
+      "pixels": [
+        700,
+        990
+      ],
+      "sha256": "04089b45ba76c34bdda0963feb4c6c61ccdb3172659afe25e9f83d0c18dc6d1f"
+    },
+    "previews/stage11/P1_silhouette.png": {
+      "input": "source/stage11/generated/P1_silhouette.svg",
+      "pixels": [
+        700,
+        990
+      ],
+      "sha256": "c9637d26898b7e9a660526b438d08504c26b451036206cc761c52f74d67044e0"
+    },
+    "previews/stage11/P2.png": {
+      "input": "source/stage11/generated/P2.svg",
+      "pixels": [
+        700,
+        990
+      ],
+      "sha256": "6a733f00d1f8eb688f143be3a34b7942f4711d87d50c9bd3ae711d0eb6d67829"
+    },
+    "previews/stage11/P2_rig.png": {
+      "input": "source/stage11/generated/P2_rig.svg",
+      "pixels": [
+        700,
+        990
+      ],
+      "sha256": "1459c1741487ade586e46d9567a2be05807281694b84ef161ed47593b514d844"
+    },
+    "previews/stage11/P2_silhouette.png": {
+      "input": "source/stage11/generated/P2_silhouette.svg",
+      "pixels": [
+        700,
+        990
+      ],
+      "sha256": "c1b73a06c6e783592b9f439c99d82d46d501d29a3955c4ad509ef971d0121337"
+    },
+    "previews/stage11/P3.png": {
+      "input": "source/stage11/generated/P3.svg",
+      "pixels": [
+        700,
+        990
+      ],
+      "sha256": "14d594b7b7e92e48501ebd58c82df53dd7b9a202f0bee05ca5fd0eb3185783eb"
+    },
+    "previews/stage11/P3_rig.png": {
+      "input": "source/stage11/generated/P3_rig.svg",
+      "pixels": [
+        700,
+        990
+      ],
+      "sha256": "da022898e0a8b947b47325df845e267860d85387d86b375543c3bd6dcf661ab3"
+    },
+    "previews/stage11/P3_silhouette.png": {
+      "input": "source/stage11/generated/P3_silhouette.svg",
+      "pixels": [
+        700,
+        990
+      ],
+      "sha256": "2c111638a2d017cd257123843403302d85b7c18c36c9c4ac29873113aa65c4c1"
+    },
+    "previews/stage11/body_study.png": {
+      "input": "source/stage11/generated/body_study.svg",
+      "pixels": [
+        1291,
+        637
+      ],
+      "sha256": "afcb7c050d6bd79050264aa5a58d4ebdf2d5cfd89cfed6fc6317ea34f092ba10"
+    },
+    "previews/stage11/clock_comparison.png": {
+      "input": "source/stage11/generated/clock_comparison.svg",
+      "pixels": [
+        1227,
+        1127
+      ],
+      "sha256": "0fccbd4f3ceafc9e85aefa9093222d5bec424dc1ff5fdb1ce826d3389d0a2345"
+    },
+    "previews/stage11/clock_detail.png": {
+      "input": "source/stage11/generated/clock_detail.svg",
+      "pixels": [
+        1130,
+        807
+      ],
+      "sha256": "6dd22d007c0f120ef48696ab906376fa89d97e7a1b7791920756f76408b2f3e1"
+    },
+    "previews/stage11/expression_study.png": {
+      "input": "source/stage11/generated/expression_study.svg",
+      "pixels": [
+        1302,
+        424
+      ],
+      "sha256": "f2dce75d568b4aa96f9fa73a0149f8515da624492e278a65e598e3f4b45dc7bc"
+    },
+    "previews/stage11/female_identity.png": {
+      "input": "source/stage11/generated/female_identity.svg",
+      "pixels": [
+        1128,
+        621
+      ],
+      "sha256": "844e7dbfb945c92d1487fec39e8f16e1d4d73e27f00c56cad982e35c706b16f3"
+    },
+    "previews/stage11/leg_comparison.png": {
+      "input": "source/stage11/generated/leg_comparison.svg",
+      "pixels": [
+        1174,
+        455
+      ],
+      "sha256": "b3ed1b4a442108b88389032e324a38e59f118b7f1682aadcdc06765e6d14d0e4"
+    },
+    "previews/stage11/pelvis_alignment.png": {
+      "input": "source/stage11/generated/pelvis_alignment.svg",
+      "pixels": [
+        700,
+        990
+      ],
+      "sha256": "96eb3ac803b12d88e831e5240e5fa10050e0ba8fbd02c30bb9e3493951b9fa88"
+    },
+    "previews/stage11/reach_comparison.png": {
+      "input": "source/stage11/generated/reach_comparison.svg",
+      "pixels": [
+        911,
+        385
+      ],
+      "sha256": "747efa9ab040d45db14b6dd177f209210122c87d450a9ccb58263df278eeb57a"
+    },
+    "previews/stage11/scene_layers.png": {
+      "input": "source/stage11/generated/scene_layers.svg",
+      "pixels": [
+        1227,
+        1127
+      ],
+      "sha256": "d8eccfa3146ae6d7d38ce45905cf2bb516f97ef8a4a1a415835b2c5b74ed4def"
+    },
+    "previews/stage11/sofa_scene_comparison.png": {
+      "input": "source/stage11/generated/sofa_scene_comparison.svg",
+      "pixels": [
+        1227,
+        774
+      ],
+      "sha256": "e6bacbb3a23c1e8417c177ad3f96d981bb8db157a0c225e94447309a77c13fae"
+    },
+    "previews/stage11/triptych.png": {
+      "input": "source/stage11/generated/triptych.svg",
+      "pixels": [
+        1289,
+        672
+      ],
+      "sha256": "8581591810cfb33a69c9487835ad36f5b0273b4f22c65275594c5aff6846c05a"
+    }
+  },
+  "repeat_png_sha256": {
+    "P1.png": "0c451894dc272c3b80cc08c8d07b130f8cb7e494ca1e4eb2ad85abe867940315",
+    "P1_rig.png": "04089b45ba76c34bdda0963feb4c6c61ccdb3172659afe25e9f83d0c18dc6d1f",
+    "P1_silhouette.png": "c9637d26898b7e9a660526b438d08504c26b451036206cc761c52f74d67044e0",
+    "P2.png": "6a733f00d1f8eb688f143be3a34b7942f4711d87d50c9bd3ae711d0eb6d67829",
+    "P2_rig.png": "1459c1741487ade586e46d9567a2be05807281694b84ef161ed47593b514d844",
+    "P2_silhouette.png": "c1b73a06c6e783592b9f439c99d82d46d501d29a3955c4ad509ef971d0121337",
+    "P3.png": "14d594b7b7e92e48501ebd58c82df53dd7b9a202f0bee05ca5fd0eb3185783eb",
+    "P3_rig.png": "da022898e0a8b947b47325df845e267860d85387d86b375543c3bd6dcf661ab3",
+    "P3_silhouette.png": "2c111638a2d017cd257123843403302d85b7c18c36c9c4ac29873113aa65c4c1",
+    "body_study.png": "afcb7c050d6bd79050264aa5a58d4ebdf2d5cfd89cfed6fc6317ea34f092ba10",
+    "clock_comparison.png": "0fccbd4f3ceafc9e85aefa9093222d5bec424dc1ff5fdb1ce826d3389d0a2345",
+    "clock_detail.png": "6dd22d007c0f120ef48696ab906376fa89d97e7a1b7791920756f76408b2f3e1",
+    "expression_study.png": "f2dce75d568b4aa96f9fa73a0149f8515da624492e278a65e598e3f4b45dc7bc",
+    "female_identity.png": "844e7dbfb945c92d1487fec39e8f16e1d4d73e27f00c56cad982e35c706b16f3",
+    "leg_comparison.png": "b3ed1b4a442108b88389032e324a38e59f118b7f1682aadcdc06765e6d14d0e4",
+    "pelvis_alignment.png": "96eb3ac803b12d88e831e5240e5fa10050e0ba8fbd02c30bb9e3493951b9fa88",
+    "reach_comparison.png": "747efa9ab040d45db14b6dd177f209210122c87d450a9ccb58263df278eeb57a",
+    "scene_layers.png": "d8eccfa3146ae6d7d38ce45905cf2bb516f97ef8a4a1a415835b2c5b74ed4def",
+    "sofa_scene_comparison.png": "e6bacbb3a23c1e8417c177ad3f96d981bb8db157a0c225e94447309a77c13fae",
+    "triptych.png": "8581591810cfb33a69c9487835ad36f5b0273b4f22c65275594c5aff6846c05a"
+  },
+  "commands": [
+    {
+      "command": "inkscape --version",
+      "exit": 0
+    },
+    {
+      "command": "python3 scripts/stage11/build.py",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/generated/P1.svg --query-all",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/generated/P2.svg --query-all",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/generated/P3.svg --query-all",
+      "exit": 0
+    },
+    {
+      "command": "python3 scripts/stage11/build.py --out <scratch>/generated",
+      "exit": 0
+    },
+    {
+      "command": "python3 scripts/stage11/build.py --pose P2 --config <scratch>/p2-config.json --out <scratch>/generated",
+      "exit": 0
+    },
+    {
+      "command": "python3 scripts/stage11/build.py --room <scratch>/room.svg --out <scratch>/generated",
+      "exit": 0
+    },
+    {
+      "command": "git diff --name-only 3defbec20df88b3d1151dbb793e810010756a2dd -- config/stage1 source/stage1 scripts/stage1 reports/stage1 previews/stage1",
+      "exit": 0
+    },
+    {
+      "command": "git diff --no-index --numstat -- source/stage1/generated/P2.svg source/stage11/generated/P2.svg",
+      "exit": 1,
+      "meaning": "files differ as expected"
+    },
+    {
+      "command": "inkscape source/stage11/generated/P1.svg --export-filename=previews/stage11/P1.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/generated/P1.svg --export-filename=<scratch>/P1.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/generated/P1_rig.svg --export-filename=previews/stage11/P1_rig.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/generated/P1_rig.svg --export-filename=<scratch>/P1_rig.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/generated/P1_silhouette.svg --export-filename=previews/stage11/P1_silhouette.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/generated/P1_silhouette.svg --export-filename=<scratch>/P1_silhouette.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/generated/P2.svg --export-filename=previews/stage11/P2.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/generated/P2.svg --export-filename=<scratch>/P2.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/generated/P2_rig.svg --export-filename=previews/stage11/P2_rig.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/generated/P2_rig.svg --export-filename=<scratch>/P2_rig.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/generated/P2_silhouette.svg --export-filename=previews/stage11/P2_silhouette.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/generated/P2_silhouette.svg --export-filename=<scratch>/P2_silhouette.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/generated/P3.svg --export-filename=previews/stage11/P3.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/generated/P3.svg --export-filename=<scratch>/P3.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/generated/P3_rig.svg --export-filename=previews/stage11/P3_rig.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/generated/P3_rig.svg --export-filename=<scratch>/P3_rig.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/generated/P3_silhouette.svg --export-filename=previews/stage11/P3_silhouette.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/generated/P3_silhouette.svg --export-filename=<scratch>/P3_silhouette.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/generated/body_study.svg --export-filename=previews/stage11/body_study.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/generated/body_study.svg --export-filename=<scratch>/body_study.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/generated/clock_comparison.svg --export-filename=previews/stage11/clock_comparison.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/generated/clock_comparison.svg --export-filename=<scratch>/clock_comparison.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/generated/clock_detail.svg --export-filename=previews/stage11/clock_detail.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/generated/clock_detail.svg --export-filename=<scratch>/clock_detail.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/generated/expression_study.svg --export-filename=previews/stage11/expression_study.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/generated/expression_study.svg --export-filename=<scratch>/expression_study.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/generated/female_identity.svg --export-filename=previews/stage11/female_identity.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/generated/female_identity.svg --export-filename=<scratch>/female_identity.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/generated/leg_comparison.svg --export-filename=previews/stage11/leg_comparison.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/generated/leg_comparison.svg --export-filename=<scratch>/leg_comparison.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/generated/pelvis_alignment.svg --export-filename=previews/stage11/pelvis_alignment.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/generated/pelvis_alignment.svg --export-filename=<scratch>/pelvis_alignment.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/generated/reach_comparison.svg --export-filename=previews/stage11/reach_comparison.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/generated/reach_comparison.svg --export-filename=<scratch>/reach_comparison.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/generated/scene_layers.svg --export-filename=previews/stage11/scene_layers.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/generated/scene_layers.svg --export-filename=<scratch>/scene_layers.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/generated/sofa_scene_comparison.svg --export-filename=previews/stage11/sofa_scene_comparison.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/generated/sofa_scene_comparison.svg --export-filename=<scratch>/sofa_scene_comparison.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/generated/triptych.svg --export-filename=previews/stage11/triptych.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/generated/triptych.svg --export-filename=<scratch>/triptych.png",
+      "exit": 0
+    }
+  ],
+  "external_blind_test": "NOT TESTED",
+  "independent_art_review": "PENDING"
+}

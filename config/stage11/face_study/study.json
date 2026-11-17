@@ -1,0 +1,13 @@
+{
+  "baseline": "2e0cf0fc37a89d8b41506a92aa1209aa860a93ee",
+  "profile_window": [43, 26, 163, 214],
+  "acting_window": [32, 12, 229, 248],
+  "principal_candidate": "A",
+  "head_pivot": [113, 128],
+  "pose_rotation_degrees": {"P1": -8, "P2": 8, "P3": 2},
+  "actual_half_scale": 0.26,
+  "p2_eye_center": [160.5, 113.2],
+  "p2_target_screen": [230, 188],
+  "p3_lip_opening": [177, 153],
+  "p3_target_bite": [191, 156.5]
+}

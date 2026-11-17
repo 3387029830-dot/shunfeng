@@ -1,0 +1,91 @@
+{
+  "baseline": "eb60964fae70d5649d5326875548203ddfa1178c",
+  "inkscape": "Inkscape 1.4.4 (dcaf3e7, 2026-05-05)",
+  "commands": [
+    {
+      "command": "git diff --name-only eb60964fae70d5649d5326875548203ddfa1178c -- . :(exclude,glob)**/s2_refinement/**",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/s2_refinement/P1-cushion-fit.svg --export-filename=previews/stage11/s2_refinement/P1-cushion-fit.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/s2_refinement/P1-cushion-fit.svg --export-filename=<scratch>/P1-cushion-fit.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/s2_refinement/S2-comparison.svg --export-filename=previews/stage11/s2_refinement/S2-comparison.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/s2_refinement/S2-comparison.svg --export-filename=<scratch>/S2-comparison.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/s2_refinement/S2-v2.svg --export-width=660 --export-filename=previews/stage11/s2_refinement/S2-v2.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/s2_refinement/S2-v2.svg --export-width=660 --export-filename=<scratch>/S2-v2.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/s2_refinement/small-comparison.svg --export-filename=previews/stage11/s2_refinement/small-comparison.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/s2_refinement/small-comparison.svg --export-filename=<scratch>/small-comparison.png",
+      "exit": 0
+    }
+  ],
+  "files": {
+    "source/stage11/s2_refinement/P1-cushion-fit.svg": {
+      "svg_sha256": "fe49ba757602c0584c2e87a66e0ca71cb7fcbefe9bee2a266a55a89921925859",
+      "png": "previews/stage11/s2_refinement/P1-cushion-fit.png",
+      "pixels": [
+        720,
+        623
+      ],
+      "png_sha256": "e90c927661ef0f485dbc24a7d2620dbb193180592ebc7d48ac6c6a06f4d3aa75",
+      "repeat_png_equal": true
+    },
+    "source/stage11/s2_refinement/S2-comparison.svg": {
+      "svg_sha256": "c84167f1a6954f8dcaf8efa02216e17a7137b06bc222539a4763c8b0e3a40361",
+      "png": "previews/stage11/s2_refinement/S2-comparison.png",
+      "pixels": [
+        930,
+        632
+      ],
+      "png_sha256": "1a50b95b75066f9b3560c938a11af8e07898f5e8b366fab68e978b2003bd3e09",
+      "repeat_png_equal": true
+    },
+    "source/stage11/s2_refinement/S2-v2.svg": {
+      "svg_sha256": "fd6ec9aa88f02570e729e6a0075a2b16bf8fb20934668224bf9fdbbf1c78a9f0",
+      "png": "previews/stage11/s2_refinement/S2-v2.png",
+      "pixels": [
+        660,
+        706
+      ],
+      "png_sha256": "849304d2f32445f6de908b086be8ca42ddcbb96dd26ffe5cd7c16ec04caaa1d8",
+      "repeat_png_equal": true
+    },
+    "source/stage11/s2_refinement/small-comparison.svg": {
+      "svg_sha256": "3759e4ef19375cc41a50accdbb40089fb6c0c22d65fc3539b4b3ee23effb4f02",
+      "png": "previews/stage11/s2_refinement/small-comparison.png",
+      "pixels": [
+        386,
+        168
+      ],
+      "png_sha256": "12032eda123301bfe7fe21b467029392743f5805cf45e9aecc33193684ecb45b",
+      "repeat_png_equal": true
+    }
+  },
+  "checks": [
+    "unique IDs, local gradients and grayscale vector only",
+    "matched profiles copied unchanged on both comparative boards",
+    "P1 uses original sofa, torso and sleeve; the local head reuses the refined facial geometry",
+    "no existing evidence modified"
+  ],
+  "art_status": "PENDING"
+}

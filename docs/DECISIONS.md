@@ -21,3 +21,7 @@
 ## Stage 1 黑白构图授权
 
 2026-11-16。用户在本会话明确要求执行 [Issue #1](https://github.com/3387029830-dot/shunfeng/issues/1)，该 Issue 记录规划层已通过 Stage 0.5。技术基线 `fd530bfbe923db5e21f073551d5fc600be49db09`，仅推送 `stage1/human-clock-geometry`。允许更改 Stage 1 的配置、可编辑源、生成脚本、预览、报告和本授权记录。交审范围为中性黑白人体体块、三姿态与时钟识别。Stage 2 需单独批准。
+
+## Stage 1.1 艺术修订（2026-11-16）
+
+用户授权执行 [Issue #2](https://github.com/3387029830-dot/shunfeng/issues/2)。沿用抽象人体时钟方向，在固定 700×990 和腰胯 (364,585) 的原框架内完成成年女性、双腿连轴、灰阶软包场景与三种时钟辅助对照。制作侧选择 L1 轻屈膝、H0 低扎发、S0 软包沙发和 B 开放弧作为复审候选。零辅助的单张识别未通过制作侧初筛，外部盲测未执行。只提交 `stage1/human-clock-stage11` 的艺术复审，不申请 Stage 2。见 [复审报告](../reports/stage11/REVIEW.md)。

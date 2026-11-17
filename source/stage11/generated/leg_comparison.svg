@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1174" height="455" viewBox="0 0 1174 455" version="1.1">
+  <rect id="sheet-paper" width="100%" height="100%" fill="#d6d6d6" />
+  <text x="26" y="34" fill="#303030" font-family="sans-serif" font-size="23" font-weight="bold">Lower-body axis / same scale and pelvis</text>
+  <defs>
+    <clipPath id="row-1-cell-1-clip">
+      <rect x="26.0" y="81.0" width="360.40000000000003" height="153.70000000000002" />
+    </clipPath>
+    <clipPath id="row-1-cell-2-clip">
+      <rect x="406.40000000000003" y="81.0" width="360.40000000000003" height="153.70000000000002" />
+    </clipPath>
+    <clipPath id="row-1-cell-3-clip">
+      <rect x="786.8000000000001" y="81.0" width="360.40000000000003" height="153.70000000000002" />
+    </clipPath>
+    <clipPath id="row-2-cell-1-clip">
+      <rect x="26.0" y="274.70000000000005" width="360.40000000000003" height="153.70000000000002" />
+    </clipPath>
+    <clipPath id="row-2-cell-2-clip">
+      <rect x="406.40000000000003" y="274.70000000000005" width="360.40000000000003" height="153.70000000000002" />
+    </clipPath>
+    <clipPath id="row-2-cell-3-clip">
+      <rect x="786.8000000000001" y="274.70000000000005" width="360.40000000000003" height="153.70000000000002" />
+    </clipPath>
+  </defs>
+  <text x="26.0" y="71.0" fill="#303030" font-family="sans-serif" font-size="15" font-weight="normal">Stage 1 / 41° + 43°</text>
+  <g clip-path="url(#row-1-cell-1-clip)">
+    <g id="row-1-cell-1" transform="translate(-302.6 -486.1) scale(1.06)">
+      <rect id="row-1-cell-1-paper" width="700" height="990" fill="#f5f5f5" />
+      <g id="row-1-cell-1-figure">
+        <g id="row-1-cell-1-far-leg">
+          <g id="row-1-cell-1-far-foot" transform="translate(569.525 616.399) rotate(10)">
+            <path id="row-1-cell-1-far-sock" d="M -14 -2 Q -10 -11 4 -10 Q 12 -2 24 -1 Q 38 -2 40 7 Q 40 14 27 17 L -3 19 Q -15 18 -16 10 Z" fill="#363636" stroke="none" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round" />
+          </g>
+          <path id="row-1-cell-1-far-leg-outline" d="M 381.006 609.606 Q 339.337 583.807 370.994 546.394 L 466.232 540.422 Q 491.599 538.025 513.119 553.384 L 576.235 606.450 Q 572.012 618.076 562.815 626.347 L 489.968 587.706 Q 481.643 582.934 473.428 585.856 Z" fill="#363636" stroke="none" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" />
+        </g>
+        <ellipse id="row-1-cell-1-pelvis" cx="364.000" cy="585.000" rx="38" ry="34" fill="#363636" stroke="none" stroke-width="1.7" />
+        <g id="row-1-cell-1-near-leg">
+          <g id="row-1-cell-1-near-foot" transform="translate(558.069 627.270) rotate(10)">
+            <path id="row-1-cell-1-near-sock" d="M -14 -2 Q -10 -11 4 -10 Q 12 -2 24 -1 Q 38 -2 40 7 Q 40 14 27 17 L -3 19 Q -15 18 -16 10 Z" fill="#363636" stroke="none" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round" />
+          </g>
+          <path id="row-1-cell-1-near-leg-outline" d="M 367.900 616.761 Q 327.157 589.524 360.100 553.239 L 455.489 550.594 Q 480.534 548.986 501.663 564.255 L 564.779 617.321 Q 560.556 628.948 551.359 637.218 L 478.513 598.577 Q 469.796 593.715 461.095 596.251 Z" fill="#363636" stroke="none" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" />
+          <path id="row-1-cell-1-near-knee-fold" d="M 476.262 580.284 Q 477.150 571.107 459.316 585.128" fill="none" stroke="none" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <text x="406.40000000000003" y="71.0" fill="#303030" font-family="sans-serif" font-size="15" font-weight="normal">L0 / 4° + 4°</text>
+  <g clip-path="url(#row-1-cell-2-clip)">
+    <g id="row-1-cell-2" transform="translate(77.80000000000001 -486.1) scale(1.06)">
+      <rect id="row-1-cell-2-paper" width="700" height="990" fill="#f5f5f5" />
+      <g id="row-1-cell-2-figure" data-character="adult-woman-01">
+        <g id="row-1-cell-2-far-leg">
+          <g id="row-1-cell-2-far-foot" transform="translate(581.867 604.072) rotate(9)">
+            <path id="row-1-cell-2-far-sock" d="M -15 -8 Q -7 -13 1 -10 C 10 -10 15 -5 25 -6 C 34 -7 38 -1 34 5 Q 31 11 14 12 L -7 14 Q -17 12 -17 4 Z" fill="#363636" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+          </g>
+          <path id="row-1-cell-2-far-pants" d="M 374.718 549.142 C 407.851 549.608 465.691 563.732 486.170 566.902 C 514.434 571.873 561.648 586.291 583.951 592.254 Q 585.806 604.767 579.783 615.890 C 556.786 613.865 507.488 611.265 480.603 606.513 C 461.301 605.502 401.788 607.291 369.282 600.858 Q 344.153 572.073 374.718 549.142 Z" fill="#363636" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+        </g>
+        <ellipse id="row-1-cell-2-pelvis" cx="364.000" cy="585.000" rx="31" ry="28" fill="#363636" stroke="none" stroke-width="1.7" />
+        <g id="row-1-cell-2-near-leg">
+          <g id="row-1-cell-2-near-foot" transform="translate(573.328 617.730) rotate(9)">
+            <path id="row-1-cell-2-near-sock" d="M -15 -8 Q -7 -13 1 -10 C 10 -10 15 -5 25 -6 C 34 -7 38 -1 34 5 Q 31 11 14 12 L -7 14 Q -17 12 -17 4 Z" fill="#363636" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+          </g>
+          <path id="row-1-cell-2-near-pants" d="M 367.169 559.194 C 400.288 560.238 457.874 575.369 478.294 578.896 C 506.467 584.359 553.422 599.599 575.618 605.951 Q 577.254 618.494 571.038 629.510 C 548.079 627.084 498.835 623.625 472.036 618.403 C 452.755 617.055 393.220 617.806 360.831 610.806 Q 336.209 581.588 367.169 559.194 Z" fill="#363636" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <text x="786.8000000000001" y="71.0" fill="#303030" font-family="sans-serif" font-size="15" font-weight="normal">L1 / 12° + 13°</text>
+  <g clip-path="url(#row-1-cell-3-clip)">
+    <g id="row-1-cell-3" transform="translate(458.20000000000005 -486.1) scale(1.06)">
+      <rect id="row-1-cell-3-paper" width="700" height="990" fill="#f5f5f5" />
+      <g id="row-1-cell-3-figure" data-character="adult-woman-01">
+        <g id="row-1-cell-3-far-leg">
+          <g id="row-1-cell-3-far-foot" transform="translate(581.013 601.147) rotate(10)">
+            <path id="row-1-cell-3-far-sock" d="M -15 -8 Q -7 -13 1 -10 C 10 -10 15 -5 25 -6 C 34 -7 38 -1 34 5 Q 31 11 14 12 L -7 14 Q -17 12 -17 4 Z" fill="#363636" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+          </g>
+          <path id="row-1-cell-3-far-pants" d="M 372.454 549.004 C 405.501 546.580 464.352 555.609 486.593 557.126 C 515.990 564.323 562.083 581.999 583.916 589.503 Q 584.894 602.115 578.109 612.790 C 555.309 609.167 506.313 603.134 481.372 596.784 C 463.619 597.602 404.489 604.572 371.546 600.996 Q 344.004 574.511 372.454 549.004 Z" fill="#363636" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+        </g>
+        <ellipse id="row-1-cell-3-pelvis" cx="364.000" cy="585.000" rx="31" ry="28" fill="#363636" stroke="none" stroke-width="1.7" />
+        <g id="row-1-cell-3-near-leg">
+          <g id="row-1-cell-3-near-foot" transform="translate(572.961 613.101) rotate(10)">
+            <path id="row-1-cell-3-near-sock" d="M -15 -8 Q -7 -13 1 -10 C 10 -10 15 -5 25 -6 C 34 -7 38 -1 34 5 Q 31 11 14 12 L -7 14 Q -17 12 -17 4 Z" fill="#363636" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+          </g>
+          <path id="row-1-cell-3-near-pants" d="M 364.907 559.016 C 397.992 557.169 456.677 567.224 478.715 569.103 C 507.938 576.277 554.031 593.953 575.864 601.457 Q 576.843 614.069 570.058 624.744 C 547.258 621.121 498.262 615.088 473.148 608.714 C 455.211 609.198 395.968 615.134 363.093 610.984 Q 336.017 584.023 364.907 559.016 Z" fill="#363636" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <text x="26.0" y="264.70000000000005" fill="#303030" font-family="sans-serif" font-size="15" font-weight="normal">Old joints</text>
+  <g clip-path="url(#row-2-cell-1-clip)">
+    <g id="row-2-cell-1" transform="translate(-302.6 -292.4) scale(1.06)">
+      <rect id="row-2-cell-1-paper" width="700" height="990" fill="#f5f5f5" />
+      <g id="row-2-cell-1-figure" opacity=".27">
+        <g id="row-2-cell-1-far-leg">
+          <g id="row-2-cell-1-far-foot" transform="translate(569.525 616.399) rotate(10)">
+            <path id="row-2-cell-1-far-sock" d="M -14 -2 Q -10 -11 4 -10 Q 12 -2 24 -1 Q 38 -2 40 7 Q 40 14 27 17 L -3 19 Q -15 18 -16 10 Z" fill="#363636" stroke="none" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round" />
+          </g>
+          <path id="row-2-cell-1-far-leg-outline" d="M 381.006 609.606 Q 339.337 583.807 370.994 546.394 L 466.232 540.422 Q 491.599 538.025 513.119 553.384 L 576.235 606.450 Q 572.012 618.076 562.815 626.347 L 489.968 587.706 Q 481.643 582.934 473.428 585.856 Z" fill="#363636" stroke="none" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" />
+        </g>
+        <ellipse id="row-2-cell-1-pelvis" cx="364.000" cy="585.000" rx="38" ry="34" fill="#363636" stroke="none" stroke-width="1.7" />
+        <g id="row-2-cell-1-near-leg">
+          <g id="row-2-cell-1-near-foot" transform="translate(558.069 627.270) rotate(10)">
+            <path id="row-2-cell-1-near-sock" d="M -14 -2 Q -10 -11 4 -10 Q 12 -2 24 -1 Q 38 -2 40 7 Q 40 14 27 17 L -3 19 Q -15 18 -16 10 Z" fill="#363636" stroke="none" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round" />
+          </g>
+          <path id="row-2-cell-1-near-leg-outline" d="M 367.900 616.761 Q 327.157 589.524 360.100 553.239 L 455.489 550.594 Q 480.534 548.986 501.663 564.255 L 564.779 617.321 Q 560.556 628.948 551.359 637.218 L 478.513 598.577 Q 469.796 593.715 461.095 596.251 Z" fill="#363636" stroke="none" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" />
+          <path id="row-2-cell-1-near-knee-fold" d="M 476.262 580.284 Q 477.150 571.107 459.316 585.128" fill="none" stroke="none" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+        </g>
+      </g>
+      <g id="row-2-cell-1-rig">
+        <path id="row-2-cell-1-bone-chain-2" d="M 364.000 585.000 L 475.165 571.351 L 558.069 627.270" fill="none" stroke="#414141" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" />
+        <path id="row-2-cell-1-bone-chain-4" d="M 376.000 578.000 L 486.621 560.479 L 569.525 616.399" fill="none" stroke="#898989" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" />
+        <ellipse id="row-2-cell-1-joint-pelvis" cx="364.000" cy="585.000" rx="8" ry="8" fill="#ffffff" stroke="#2b2b2b" stroke-width="1.7" />
+        <ellipse id="row-2-cell-1-joint-near_knee" cx="475.165" cy="571.351" rx="4.4" ry="4.4" fill="#ffffff" stroke="#2b2b2b" stroke-width="1.7" />
+        <ellipse id="row-2-cell-1-joint-near_ankle" cx="558.069" cy="627.270" rx="4.4" ry="4.4" fill="#ffffff" stroke="#2b2b2b" stroke-width="1.7" />
+        <ellipse id="row-2-cell-1-joint-far_knee" cx="486.621" cy="560.479" rx="4.4" ry="4.4" fill="#ffffff" stroke="#2b2b2b" stroke-width="1.7" />
+        <ellipse id="row-2-cell-1-joint-far_ankle" cx="569.525" cy="616.399" rx="4.4" ry="4.4" fill="#ffffff" stroke="#2b2b2b" stroke-width="1.7" />
+        <path id="row-2-cell-1-axis-legs" d="M 364.000 585.000 L 618.044 640.333" fill="none" stroke="#525252" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6 7" />
+      </g>
+    </g>
+  </g>
+  <text x="406.40000000000003" y="264.70000000000005" fill="#303030" font-family="sans-serif" font-size="15" font-weight="normal">L0 joints</text>
+  <g clip-path="url(#row-2-cell-2-clip)">
+    <g id="row-2-cell-2" transform="translate(77.80000000000001 -292.4) scale(1.06)">
+      <rect id="row-2-cell-2-paper" width="700" height="990" fill="#f5f5f5" />
+      <g id="row-2-cell-2-figure" data-character="adult-woman-01" opacity=".27">
+        <g id="row-2-cell-2-far-leg">
+          <g id="row-2-cell-2-far-foot" transform="translate(581.867 604.072) rotate(9)">
+            <path id="row-2-cell-2-far-sock" d="M -15 -8 Q -7 -13 1 -10 C 10 -10 15 -5 25 -6 C 34 -7 38 -1 34 5 Q 31 11 14 12 L -7 14 Q -17 12 -17 4 Z" fill="#363636" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+          </g>
+          <path id="row-2-cell-2-far-pants" d="M 374.718 549.142 C 407.851 549.608 465.691 563.732 486.170 566.902 C 514.434 571.873 561.648 586.291 583.951 592.254 Q 585.806 604.767 579.783 615.890 C 556.786 613.865 507.488 611.265 480.603 606.513 C 461.301 605.502 401.788 607.291 369.282 600.858 Q 344.153 572.073 374.718 549.142 Z" fill="#363636" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+        </g>
+        <ellipse id="row-2-cell-2-pelvis" cx="364.000" cy="585.000" rx="31" ry="28" fill="#363636" stroke="none" stroke-width="1.7" />
+        <g id="row-2-cell-2-near-leg">
+          <g id="row-2-cell-2-near-foot" transform="translate(573.328 617.730) rotate(9)">
+            <path id="row-2-cell-2-near-sock" d="M -15 -8 Q -7 -13 1 -10 C 10 -10 15 -5 25 -6 C 34 -7 38 -1 34 5 Q 31 11 14 12 L -7 14 Q -17 12 -17 4 Z" fill="#363636" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+          </g>
+          <path id="row-2-cell-2-near-pants" d="M 367.169 559.194 C 400.288 560.238 457.874 575.369 478.294 578.896 C 506.467 584.359 553.422 599.599 575.618 605.951 Q 577.254 618.494 571.038 629.510 C 548.079 627.084 498.835 623.625 472.036 618.403 C 452.755 617.055 393.220 617.806 360.831 610.806 Q 336.209 581.588 367.169 559.194 Z" fill="#363636" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+        </g>
+      </g>
+      <g id="row-2-cell-2-leg-axes">
+        <path id="row-2-cell-2-near-chain" d="M 364.000 585.000 L 475.165 598.649 L 573.328 617.730 L 606.909 623.049" fill="none" stroke="#393939" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" />
+        <ellipse id="row-2-cell-2-near-joint-0" cx="364.000" cy="585.000" rx="3.2" ry="3.2" fill="#f5f5f5" stroke="#484848" stroke-width="1.7" />
+        <ellipse id="row-2-cell-2-near-joint-1" cx="475.165" cy="598.649" rx="3.2" ry="3.2" fill="#f5f5f5" stroke="#484848" stroke-width="1.7" />
+        <ellipse id="row-2-cell-2-near-joint-2" cx="573.328" cy="617.730" rx="3.2" ry="3.2" fill="#f5f5f5" stroke="#484848" stroke-width="1.7" />
+        <ellipse id="row-2-cell-2-near-joint-3" cx="606.909" cy="623.049" rx="3.2" ry="3.2" fill="#f5f5f5" stroke="#484848" stroke-width="1.7" />
+        <path id="row-2-cell-2-far-chain" d="M 372.000 575.000 L 483.386 586.707 L 581.867 604.072 L 615.449 609.391" fill="none" stroke="#757575" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" />
+        <ellipse id="row-2-cell-2-far-joint-0" cx="372.000" cy="575.000" rx="3.2" ry="3.2" fill="#f5f5f5" stroke="#484848" stroke-width="1.7" />
+        <ellipse id="row-2-cell-2-far-joint-1" cx="483.386" cy="586.707" rx="3.2" ry="3.2" fill="#f5f5f5" stroke="#484848" stroke-width="1.7" />
+        <ellipse id="row-2-cell-2-far-joint-2" cx="581.867" cy="604.072" rx="3.2" ry="3.2" fill="#f5f5f5" stroke="#484848" stroke-width="1.7" />
+        <ellipse id="row-2-cell-2-far-joint-3" cx="615.449" cy="609.391" rx="3.2" ry="3.2" fill="#f5f5f5" stroke="#484848" stroke-width="1.7" />
+      </g>
+    </g>
+  </g>
+  <text x="786.8000000000001" y="264.70000000000005" fill="#303030" font-family="sans-serif" font-size="15" font-weight="normal">L1 joints</text>
+  <g clip-path="url(#row-2-cell-3-clip)">
+    <g id="row-2-cell-3" transform="translate(458.20000000000005 -292.4) scale(1.06)">
+      <rect id="row-2-cell-3-paper" width="700" height="990" fill="#f5f5f5" />
+      <g id="row-2-cell-3-figure" data-character="adult-woman-01" opacity=".27">
+        <g id="row-2-cell-3-far-leg">
+          <g id="row-2-cell-3-far-foot" transform="translate(581.013 601.147) rotate(10)">
+            <path id="row-2-cell-3-far-sock" d="M -15 -8 Q -7 -13 1 -10 C 10 -10 15 -5 25 -6 C 34 -7 38 -1 34 5 Q 31 11 14 12 L -7 14 Q -17 12 -17 4 Z" fill="#363636" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+          </g>
+          <path id="row-2-cell-3-far-pants" d="M 372.454 549.004 C 405.501 546.580 464.352 555.609 486.593 557.126 C 515.990 564.323 562.083 581.999 583.916 589.503 Q 584.894 602.115 578.109 612.790 C 555.309 609.167 506.313 603.134 481.372 596.784 C 463.619 597.602 404.489 604.572 371.546 600.996 Q 344.004 574.511 372.454 549.004 Z" fill="#363636" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+        </g>
+        <ellipse id="row-2-cell-3-pelvis" cx="364.000" cy="585.000" rx="31" ry="28" fill="#363636" stroke="none" stroke-width="1.7" />
+        <g id="row-2-cell-3-near-leg">
+          <g id="row-2-cell-3-near-foot" transform="translate(572.961 613.101) rotate(10)">
+            <path id="row-2-cell-3-near-sock" d="M -15 -8 Q -7 -13 1 -10 C 10 -10 15 -5 25 -6 C 34 -7 38 -1 34 5 Q 31 11 14 12 L -7 14 Q -17 12 -17 4 Z" fill="#363636" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+          </g>
+          <path id="row-2-cell-3-near-pants" d="M 364.907 559.016 C 397.992 557.169 456.677 567.224 478.715 569.103 C 507.938 576.277 554.031 593.953 575.864 601.457 Q 576.843 614.069 570.058 624.744 C 547.258 621.121 498.262 615.088 473.148 608.714 C 455.211 609.198 395.968 615.134 363.093 610.984 Q 336.017 584.023 364.907 559.016 Z" fill="#363636" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+        </g>
+      </g>
+      <g id="row-2-cell-3-leg-axes">
+        <path id="row-2-cell-3-near-chain" d="M 364.000 585.000 L 475.932 588.909 L 572.961 613.101 L 606.445 619.005" fill="none" stroke="#393939" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" />
+        <ellipse id="row-2-cell-3-near-joint-0" cx="364.000" cy="585.000" rx="3.2" ry="3.2" fill="#f5f5f5" stroke="#484848" stroke-width="1.7" />
+        <ellipse id="row-2-cell-3-near-joint-1" cx="475.932" cy="588.909" rx="3.2" ry="3.2" fill="#f5f5f5" stroke="#484848" stroke-width="1.7" />
+        <ellipse id="row-2-cell-3-near-joint-2" cx="572.961" cy="613.101" rx="3.2" ry="3.2" fill="#f5f5f5" stroke="#484848" stroke-width="1.7" />
+        <ellipse id="row-2-cell-3-near-joint-3" cx="606.445" cy="619.005" rx="3.2" ry="3.2" fill="#f5f5f5" stroke="#484848" stroke-width="1.7" />
+        <path id="row-2-cell-3-far-chain" d="M 372.000 575.000 L 483.983 576.955 L 581.013 601.147 L 614.496 607.051" fill="none" stroke="#757575" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" />
+        <ellipse id="row-2-cell-3-far-joint-0" cx="372.000" cy="575.000" rx="3.2" ry="3.2" fill="#f5f5f5" stroke="#484848" stroke-width="1.7" />
+        <ellipse id="row-2-cell-3-far-joint-1" cx="483.983" cy="576.955" rx="3.2" ry="3.2" fill="#f5f5f5" stroke="#484848" stroke-width="1.7" />
+        <ellipse id="row-2-cell-3-far-joint-2" cx="581.013" cy="601.147" rx="3.2" ry="3.2" fill="#f5f5f5" stroke="#484848" stroke-width="1.7" />
+        <ellipse id="row-2-cell-3-far-joint-3" cx="614.496" cy="607.051" rx="3.2" ry="3.2" fill="#f5f5f5" stroke="#484848" stroke-width="1.7" />
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,104 @@
+{
+  "reviewed_commit": "070679473ad245ef53f1cb305604d1683190bbf0",
+  "inkscape": "Inkscape 1.4.4 (dcaf3e7, 2026-05-05)",
+  "status": "LOCAL TECHNICAL PASS",
+  "candidates": [
+    "P1-A",
+    "P1-B",
+    "P2-A",
+    "P2-B",
+    "P3-A",
+    "P3-B"
+  ],
+  "source_sha256": "8ccf1067630bb36005944502a198952e94ed0d46a3405201437b808a5c9892c4",
+  "inputs_sha256": {
+    "config/stage11/head_neck_shoulder_study/study.json": "e470dc3eddd4e80d68997318315fb74db62e8dcc49efe13538941839eb11cd93",
+    "source/stage11/generated/pose_coordinates.json": "bcff461446b6f6bc964d65a79637840544f8ef92b261e020c43fa2414403a53e"
+  },
+  "boards_sha256": {
+    "source/stage11/head_neck_shoulder_study/generated/head_neck_shoulder_study.svg": "790430faa00a691a4c8467a3f50b91ca6fcb36eaed378f0192f6ac310c8345b9",
+    "source/stage11/head_neck_shoulder_study/generated/landmarks.svg": "cfee1a478fb8ec3ba91a7fa4f027bd2e3290141f82bd4919f2f359e81f0139d3",
+    "source/stage11/head_neck_shoulder_study/generated/upper_body_small.svg": "67154f5c02362c1f1e586966c62ed5c0c0d6417ec201ebf4b5b7b1a3aa3da0d6"
+  },
+  "exports": {
+    "previews/stage11/head_neck_shoulder_study/head_neck_shoulder_study.png": {
+      "svg": "source/stage11/head_neck_shoulder_study/generated/head_neck_shoulder_study.svg",
+      "pixels": [
+        1108,
+        1006
+      ],
+      "sha256": "73f998cfc974823262e844606e1a98c21914a681c6fdb8b1c252bafa8c15812b",
+      "repeat_sha256_equal": true
+    },
+    "previews/stage11/head_neck_shoulder_study/landmarks.png": {
+      "svg": "source/stage11/head_neck_shoulder_study/generated/landmarks.svg",
+      "pixels": [
+        836,
+        653
+      ],
+      "sha256": "6ebedf1b703d382216a6c5bd37111227a6e1d563b681c26d70d2812b8fdd3831",
+      "repeat_sha256_equal": true
+    },
+    "previews/stage11/head_neck_shoulder_study/upper_body_small.png": {
+      "svg": "source/stage11/head_neck_shoulder_study/generated/upper_body_small.svg",
+      "pixels": [
+        759,
+        408
+      ],
+      "sha256": "4f49fe0cf551f030c6294deec1da78e32ad57ff56e2402c81f68bfc776c0283c",
+      "repeat_sha256_equal": true
+    }
+  },
+  "commands": [
+    {
+      "command": "inkscape --version",
+      "exit": 0
+    },
+    {
+      "command": "python3 scripts/stage11/head_neck_shoulder_study/build.py",
+      "exit": 0
+    },
+    {
+      "command": "python3 scripts/stage11/head_neck_shoulder_study/build.py",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/head_neck_shoulder_study/generated/head_neck_shoulder_study.svg --export-filename=previews/stage11/head_neck_shoulder_study/head_neck_shoulder_study.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/head_neck_shoulder_study/generated/head_neck_shoulder_study.svg --export-filename=<scratch>/head_neck_shoulder_study.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/head_neck_shoulder_study/generated/landmarks.svg --export-filename=previews/stage11/head_neck_shoulder_study/landmarks.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/head_neck_shoulder_study/generated/landmarks.svg --export-filename=<scratch>/landmarks.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/head_neck_shoulder_study/generated/upper_body_small.svg --export-filename=previews/stage11/head_neck_shoulder_study/upper_body_small.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/head_neck_shoulder_study/generated/upper_body_small.svg --export-filename=<scratch>/upper_body_small.png",
+      "exit": 0
+    },
+    {
+      "command": "git diff --name-only 070679473ad245ef53f1cb305604d1683190bbf0 -- source/stage11/generated source/stage11/refined source/stage11/shared config/stage11/geometry.v1.json scripts/stage11/build.py scripts/stage11/verify.py reports/stage11/REVIEW.md reports/stage11/VALIDATION.json reports/stage11/MANIFEST.md",
+      "exit": 0
+    },
+    {
+      "command": "git ls-tree -r --name-only 070679473ad245ef53f1cb305604d1683190bbf0 previews/stage11",
+      "exit": 0
+    },
+    {
+      "command": "git diff --name-only 070679473ad245ef53f1cb305604d1683190bbf0 -- previews/stage11/P1.png previews/stage11/P1_rig.png previews/stage11/P1_silhouette.png previews/stage11/P2.png previews/stage11/P2_rig.png previews/stage11/P2_silhouette.png previews/stage11/P3.png previews/stage11/P3_rig.png previews/stage11/P3_silhouette.png previews/stage11/body_study.png previews/stage11/clock_comparison.png previews/stage11/clock_detail.png previews/stage11/expression_study.png previews/stage11/female_identity.png previews/stage11/leg_comparison.png previews/stage11/pelvis_alignment.png previews/stage11/reach_comparison.png previews/stage11/scene_layers.png previews/stage11/sofa_scene_comparison.png previews/stage11/triptych.png",
+      "exit": 0
+    }
+  ],
+  "art_selection": "PENDING",
+  "external_blind_test": "NOT TESTED"
+}

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="700" height="990" viewBox="0 0 700 990" version="1.1">
+  <rect id="paper" width="700" height="990" fill="#f5f5f5" />
+  <g id="figure" inkscape:groupmode="layer" inkscape:label="Adult woman / figure" data-character="adult-woman-01">
+    <g id="far-leg">
+      <g id="far-foot" transform="translate(581.013 601.147) rotate(10)">
+        <path id="far-sock" d="M -15 -8 Q -7 -13 1 -10 C 10 -10 15 -5 25 -6 C 34 -7 38 -1 34 5 Q 31 11 14 12 L -7 14 Q -17 12 -17 4 Z" fill="#363636" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+      </g>
+      <path id="far-pants" d="M 372.454 549.004 C 405.501 546.580 464.352 555.609 486.593 557.126 C 515.990 564.323 562.083 581.999 583.916 589.503 Q 584.894 602.115 578.109 612.790 C 555.309 609.167 506.313 603.134 481.372 596.784 C 463.619 597.602 404.489 604.572 371.546 600.996 Q 344.004 574.511 372.454 549.004 Z" fill="#363636" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+    </g>
+    <ellipse id="pelvis" cx="364.000" cy="585.000" rx="31" ry="28" fill="#363636" stroke="none" stroke-width="1.7" />
+    <g id="near-leg">
+      <g id="near-foot" transform="translate(572.961 613.101) rotate(10)">
+        <path id="near-sock" d="M -15 -8 Q -7 -13 1 -10 C 10 -10 15 -5 25 -6 C 34 -7 38 -1 34 5 Q 31 11 14 12 L -7 14 Q -17 12 -17 4 Z" fill="#363636" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+      </g>
+      <path id="near-pants" d="M 364.907 559.016 C 397.992 557.169 456.677 567.224 478.715 569.103 C 507.938 576.277 554.031 593.953 575.864 601.457 Q 576.843 614.069 570.058 624.744 C 547.258 621.121 498.262 615.088 473.148 608.714 C 455.211 609.198 395.968 615.134 363.093 610.984 Q 336.017 584.023 364.907 559.016 Z" fill="#363636" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+    </g>
+    <g id="far-arm">
+      <path id="far-sleeve" d="M 351.173 474.680 Q 353.208 450.260 377.062 455.871 L 403.879 494.482 Q 400.689 502.089 398.266 494.821 L 413.094 474.391 Q 423.331 476.437 430.753 483.780 L 422.106 507.497 Q 402.782 532.016 379.608 512.116 Z" fill="#363636" stroke="none" stroke-width="1.15" stroke-linecap="round" stroke-linejoin="round" />
+      <path id="far-wrist" d="M 427.899 483.396 Q 418.712 485.125 415.008 476.541 L 425.485 458.328 Q 431.994 460.145 437.140 464.525 Z" fill="#363636" stroke="none" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round" />
+      <g id="far-hand" transform="translate(428.965 465.841) rotate(-62.000)">
+        <path id="far-fingers" d="M -4 -7 Q 3 -9 8 -8 L 12 -5 Q 14 0 10 3 Q 8 8 2 7 L -5 6 Z" fill="#363636" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+      </g>
+      <path id="far-cuff" d="M 429.870 483.311 L 413.977 474.860" fill="none" stroke="none" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round" />
+    </g>
+    <path id="neck" d="M 370.534 478.500 Q 356.345 489.459 342.538 478.022 L 344.113 444.353 Q 357.160 441.716 370.110 444.797 Z" fill="#363636" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+    <g id="upper-body" transform="translate(364.000 585.000) rotate(-4)">
+      <g id="shirt">
+        <path id="torso" fill="#363636" d="M -36 7 C -44 -7 -35 -32 -34 -52 C -34 -73 -33 -92 -26 -105 C -23 -112 -15 -117 -8 -119 C -1 -111 10 -108 18 -112 C 26 -108 28 -99 31 -90 C 38 -79 43 -69 42 -57 C 40 -48 32 -43 30 -34 C 29 -20 30 -11 37 1 C 30 10 16 18 0 18 C -15 20 -34 17 -36 7 Z" />
+      </g>
+    </g>
+    <g id="head" transform="translate(354.862 454.319) rotate(13)">
+      <g id="H0-back">
+        <path id="hair-tie-outline" fill="#363636" d="M -26 -42 C -31 -41 -39 -39 -43 -33 C -47 -27 -43 -20 -44 -15 C -45 -11 -47 -8 -48 -7 C -35 -6 -27 -15 -27 -24 C -27 -28 -24 -33 -21 -35 Z" />
+      </g>
+      <g id="face-outline">
+        <path id="head-profile" fill="#363636" stroke="none" stroke-width="1" stroke-linejoin="round" d="M -16 5 C -15 -8 -12 -21 -19 -29 C -31 -39 -33 -56 -24 -66 C -18 -74 -8 -77 3 -76 C 14 -75 22 -70 23 -59 C 24 -54 22 -50 24 -46 C 26 -42 31 -38 31 -35 C 31 -32 26 -32 23 -31 C 24 -29 26 -27 24 -24 C 27 -22 24 -18 24 -15 C 22 -8 13 -6 4 -10 C 0 -9 -1 0 0 5 Q -8 9 -16 5 Z" />
+      </g>
+      <g id="fringe">
+        <path id="hair-cap" fill="#363636" d="M -23 -31 C -30 -33 -35 -44 -34 -55 C -33 -70 -21 -79 -6 -80 C 9 -82 21 -76 25 -64 C 26 -60 25 -53 23 -51 C 19 -59 13 -58 9 -63 C 5 -57 -1 -52 -7 -49 Q -6 -54 -8 -55 C -12 -47 -16 -44 -19 -43 C -24 -44 -25 -38 -23 -31 Z" />
+      </g>
+    </g>
+    <g id="near-arm">
+      <path id="near-sleeve" d="M 338.652 476.630 Q 351.066 452.015 373.583 467.921 L 382.042 514.250 Q 379.214 521.450 385.493 516.675 L 410.547 513.586 Q 416.033 522.469 415.724 532.904 L 392.481 542.755 Q 363.987 547.299 352.933 521.508 Z" fill="#363636" stroke="none" stroke-width="1.15" stroke-linecap="round" stroke-linejoin="round" />
+      <path id="near-wrist" d="M 414.059 530.555 Q 406.528 525.015 410.280 516.453 L 430.746 511.693 Q 433.856 517.693 434.162 524.444 Z" fill="#363636" stroke="none" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round" />
+      <g id="near-hand" transform="translate(427.624 519.363) rotate(-15.000)">
+        <path id="near-fingers" d="M -4 -7 Q 4 -10 10 -8 L 22 -8 Q 26 -6 22 -3 L 15 -2 L 20 1 Q 22 6 16 6 L 8 5 Q 1 8 -4 6 Z" fill="#363636" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+      </g>
+      <path id="near-cuff" d="M 415.465 531.938 L 410.806 514.552" fill="none" stroke="none" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round" />
+    </g>
+  </g>
+</svg>

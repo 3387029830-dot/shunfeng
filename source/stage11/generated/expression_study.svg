@@ -1,0 +1,247 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1302" height="424" viewBox="0 0 1302 424" version="1.1">
+  <rect id="sheet-paper" width="100%" height="100%" fill="#d6d6d6" />
+  <text x="26" y="34" fill="#303030" font-family="sans-serif" font-size="23" font-weight="bold">Gaze to gesture / same camera</text>
+  <defs>
+    <clipPath id="row-1-cell-1-clip">
+      <rect x="26.0" y="81.0" width="403.2" height="316.16" />
+    </clipPath>
+    <clipPath id="row-1-cell-2-clip">
+      <rect x="449.2" y="81.0" width="403.2" height="316.16" />
+    </clipPath>
+    <clipPath id="row-1-cell-3-clip">
+      <rect x="872.4" y="81.0" width="403.2" height="316.16" />
+    </clipPath>
+  </defs>
+  <text x="26.0" y="71.0" fill="#303030" font-family="sans-serif" font-size="15" font-weight="normal">P1 / anticipation</text>
+  <g clip-path="url(#row-1-cell-1-clip)">
+    <g id="row-1-cell-1" transform="translate(-196.72 -386.2) scale(1.28)">
+      <rect id="row-1-cell-1-paper" width="700" height="990" fill="#f5f5f5" />
+      <g id="row-1-cell-1-clock" />
+      <g id="row-1-cell-1-figure" data-character="adult-woman-01">
+        <g id="row-1-cell-1-far-leg">
+          <g id="row-1-cell-1-far-foot" transform="translate(581.013 601.147) rotate(10)">
+            <path id="row-1-cell-1-far-sock" d="M -15 -8 Q -7 -13 1 -10 C 10 -10 15 -5 25 -6 C 34 -7 38 -1 34 5 Q 31 11 14 12 L -7 14 Q -17 12 -17 4 Z" fill="#838383" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+          </g>
+          <path id="row-1-cell-1-far-pants" d="M 372.454 549.004 C 405.501 546.580 464.352 555.609 486.593 557.126 C 515.990 564.323 562.083 581.999 583.916 589.503 Q 584.894 602.115 578.109 612.790 C 555.309 609.167 506.313 603.134 481.372 596.784 C 463.619 597.602 404.489 604.572 371.546 600.996 Q 344.004 574.511 372.454 549.004 Z" fill="#606060" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+        </g>
+        <ellipse id="row-1-cell-1-pelvis" cx="364.000" cy="585.000" rx="31" ry="28" fill="#434343" stroke="none" stroke-width="1.7" />
+        <g id="row-1-cell-1-near-leg">
+          <g id="row-1-cell-1-near-foot" transform="translate(572.961 613.101) rotate(10)">
+            <path id="row-1-cell-1-near-sock" d="M -15 -8 Q -7 -13 1 -10 C 10 -10 15 -5 25 -6 C 34 -7 38 -1 34 5 Q 31 11 14 12 L -7 14 Q -17 12 -17 4 Z" fill="#9a9a9a" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+          </g>
+          <path id="row-1-cell-1-near-pants" d="M 364.907 559.016 C 397.992 557.169 456.677 567.224 478.715 569.103 C 507.938 576.277 554.031 593.953 575.864 601.457 Q 576.843 614.069 570.058 624.744 C 547.258 621.121 498.262 615.088 473.148 608.714 C 455.211 609.198 395.968 615.134 363.093 610.984 Q 336.017 584.023 364.907 559.016 Z" fill="#434343" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+          <g id="row-1-cell-1-wardrobe">
+            <path id="row-1-cell-1-knee-drape" d="M 464.785 578.872 Q 475.932 588.909 494.539 602.428" fill="none" stroke="#676767" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" />
+            <path id="row-1-cell-1-sock-crease" d="M 579.961 616.101 q 2 2 5 1" fill="none" stroke="#676767" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round" />
+          </g>
+        </g>
+        <g id="row-1-cell-1-far-arm">
+          <path id="row-1-cell-1-far-sleeve" d="M 265.411 537.210 Q 256.935 514.218 280.925 509.223 L 321.547 532.883 Q 334.884 540.386 350.167 546.229 L 373.234 556.484 Q 373.362 566.924 367.722 575.709 L 342.725 572.183 Q 323.403 568.103 307.003 559.122 Z" fill="#5d5d5d" stroke="#515151" stroke-width="1.15" stroke-linecap="round" stroke-linejoin="round" />
+          <path id="row-1-cell-1-far-wrist" d="M 367.504 572.838 Q 363.903 564.211 371.529 558.804 L 391.522 565.265 Q 391.099 572.010 387.884 577.954 Z" fill="#b9b9b9" stroke="#646464" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round" />
+          <g id="row-1-cell-1-far-hand" transform="translate(384.897 570.231) rotate(16.000)">
+            <path id="row-1-cell-1-far-fingers" d="M -4 -7 C 4 -8 8 -7 12 -4 L 24 0 Q 26 3 21 4 L 13 3 L 22 7 Q 22 10 17 9 L 7 6 Q -1 7 -5 3 Z" fill="#b9b9b9" stroke="#646464" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+          </g>
+          <path id="row-1-cell-1-far-cuff" d="M 367.997 574.748 L 372.959 557.445" fill="none" stroke="#969696" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round" />
+        </g>
+        <path id="row-1-cell-1-neck" d="M 279.653 522.606 Q 278.832 540.515 261.178 543.645 L 237.757 521.748 Q 244.186 510.092 254.912 502.211 Z" fill="#dedede" stroke="#646464" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+        <g id="row-1-cell-1-upper-body" transform="translate(364.000 585.000) rotate(-61)">
+          <g id="row-1-cell-1-shirt">
+            <path id="row-1-cell-1-torso" fill="#707070" d="M -36 7 C -44 -7 -35 -32 -34 -52 C -34 -73 -33 -92 -26 -105 C -23 -112 -15 -117 -8 -119 C -1 -111 10 -108 18 -112 C 26 -108 28 -99 31 -90 C 38 -79 43 -69 42 -57 C 40 -48 32 -43 30 -34 C 29 -20 30 -11 37 1 C 30 10 16 18 0 18 C -15 20 -34 17 -36 7 Z" />
+            <path id="row-1-cell-1-collar" fill="none" stroke="#acacac" stroke-width="2" stroke-linecap="round" d="M -9 -115 C -5 -104 8 -101 18 -107" />
+            <path id="row-1-cell-1-shirt-folds" fill="none" stroke="#969696" stroke-width="1.9" stroke-linecap="round" d="M -27 -61 Q -23 -42 -20 -30 M 15 -39 Q 25 -27 24 -13 M -28 5 Q -18 11 -2 10" />
+          </g>
+        </g>
+        <g id="row-1-cell-1-head" transform="translate(249.425 521.490) rotate(-18)">
+          <g id="row-1-cell-1-H0-back">
+            <path id="row-1-cell-1-hair-tie-outline" fill="#333333" d="M -26 -42 C -31 -41 -39 -39 -43 -33 C -47 -27 -43 -20 -44 -15 C -45 -11 -47 -8 -48 -7 C -35 -6 -27 -15 -27 -24 C -27 -28 -24 -33 -21 -35 Z" />
+            <path id="row-1-cell-1-hair-tie" fill="none" stroke="#969696" stroke-width="2.1" d="M -34 -40 Q -29 -38 -26 -33" />
+            <path id="row-1-cell-1-tail-fold" fill="none" stroke="#5b5b5b" stroke-width="1.2" stroke-linecap="round" d="M -35 -32 Q -41 -24 -40 -19" />
+          </g>
+          <g id="row-1-cell-1-face-outline">
+            <path id="row-1-cell-1-head-profile" fill="#dedede" stroke="#646464" stroke-width="1" stroke-linejoin="round" d="M -16 5 C -15 -8 -12 -21 -19 -29 C -31 -39 -33 -56 -24 -66 C -18 -74 -8 -77 3 -76 C 14 -75 22 -70 23 -59 C 24 -54 22 -50 24 -46 C 26 -42 31 -38 31 -35 C 31 -32 26 -32 23 -31 C 24 -29 26 -27 24 -24 C 27 -22 24 -18 24 -15 C 22 -8 13 -6 4 -10 C 0 -9 -1 0 0 5 Q -8 9 -16 5 Z" />
+          </g>
+          <g id="row-1-cell-1-fringe">
+            <path id="row-1-cell-1-hair-cap" fill="#333333" d="M -23 -31 C -30 -33 -35 -44 -34 -55 C -33 -70 -21 -79 -6 -80 C 9 -82 21 -76 25 -64 C 26 -60 25 -53 23 -51 C 19 -59 13 -58 9 -63 C 5 -57 -1 -52 -7 -49 Q -6 -54 -8 -55 C -12 -47 -16 -44 -19 -43 C -24 -44 -25 -38 -23 -31 Z" />
+            <path id="row-1-cell-1-hair-sweep" fill="none" stroke="#5b5b5b" stroke-width="1.5" stroke-linecap="round" d="M -27 -56 Q -20 -72 -2 -74 M -23 -51 Q -19 -61 -11 -66" />
+            <path id="row-1-cell-1-ear" fill="#dedede" stroke="#797979" stroke-width="1" d="M -18 -39 C -24 -46 -27 -37 -22 -30 Q -18 -25 -16 -32" />
+            <path id="row-1-cell-1-ear-fold" fill="none" stroke="#9a9a9a" stroke-width="1" d="M -22 -38 Q -19 -40 -18 -35" />
+          </g>
+          <g id="row-1-cell-1-expression">
+            <path id="row-1-cell-1-brow" d="M 5 -47 Q 12 -51 19 -46" fill="none" stroke="#393939" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" />
+            <path id="row-1-cell-1-eye" d="M 5 -40 Q 13 -44 19 -39" fill="none" stroke="#393939" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+            <ellipse id="row-1-cell-1-iris" cx="16.000" cy="-40.000" rx="2.45" ry="2.55" fill="#393939" stroke="none" stroke-width="1.7" />
+            <path id="row-1-cell-1-mouth" d="M 15 -21 Q 21 -18 25 -23" fill="none" stroke="#393939" stroke-width="1.35" stroke-linecap="round" stroke-linejoin="round" />
+          </g>
+        </g>
+        <g id="row-1-cell-1-props" />
+        <g id="row-1-cell-1-near-arm">
+          <path id="row-1-cell-1-near-sleeve" d="M 253.598 544.005 Q 249.173 516.795 276.738 516.428 L 310.814 548.937 Q 318.830 557.089 331.209 556.632 L 356.393 558.380 Q 360.083 568.146 357.788 578.331 L 333.093 583.566 Q 309.560 585.621 291.530 571.918 Z" fill="#707070" stroke="#515151" stroke-width="1.15" stroke-linecap="round" stroke-linejoin="round" />
+          <path id="row-1-cell-1-near-wrist" d="M 356.602 575.707 Q 350.267 568.833 355.583 561.143 L 376.581 560.376 Q 378.490 566.859 377.502 573.544 Z" fill="#dedede" stroke="#646464" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round" />
+          <g id="row-1-cell-1-near-hand" transform="translate(372.054 567.309) rotate(-4.000)">
+            <path id="row-1-cell-1-near-fingers" d="M -4 -7 C 4 -8 8 -7 12 -4 L 24 0 Q 26 3 21 4 L 13 3 L 22 7 Q 22 10 17 9 L 7 6 Q -1 7 -5 3 Z" fill="#dedede" stroke="#646464" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+          </g>
+          <path id="row-1-cell-1-near-cuff" d="M 357.718 577.333 L 356.462 559.377" fill="none" stroke="#969696" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <text x="449.2" y="71.0" fill="#303030" font-family="sans-serif" font-size="15" font-weight="normal">P2 / attention</text>
+  <g clip-path="url(#row-1-cell-2-clip)">
+    <g id="row-1-cell-2" transform="translate(226.48 -386.2) scale(1.28)">
+      <rect id="row-1-cell-2-paper" width="700" height="990" fill="#f5f5f5" />
+      <g id="row-1-cell-2-clock" />
+      <g id="row-1-cell-2-figure" data-character="adult-woman-01">
+        <g id="row-1-cell-2-far-leg">
+          <g id="row-1-cell-2-far-foot" transform="translate(581.013 601.147) rotate(10)">
+            <path id="row-1-cell-2-far-sock" d="M -15 -8 Q -7 -13 1 -10 C 10 -10 15 -5 25 -6 C 34 -7 38 -1 34 5 Q 31 11 14 12 L -7 14 Q -17 12 -17 4 Z" fill="#838383" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+          </g>
+          <path id="row-1-cell-2-far-pants" d="M 372.454 549.004 C 405.501 546.580 464.352 555.609 486.593 557.126 C 515.990 564.323 562.083 581.999 583.916 589.503 Q 584.894 602.115 578.109 612.790 C 555.309 609.167 506.313 603.134 481.372 596.784 C 463.619 597.602 404.489 604.572 371.546 600.996 Q 344.004 574.511 372.454 549.004 Z" fill="#606060" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+        </g>
+        <ellipse id="row-1-cell-2-pelvis" cx="364.000" cy="585.000" rx="31" ry="28" fill="#434343" stroke="none" stroke-width="1.7" />
+        <g id="row-1-cell-2-near-leg">
+          <g id="row-1-cell-2-near-foot" transform="translate(572.961 613.101) rotate(10)">
+            <path id="row-1-cell-2-near-sock" d="M -15 -8 Q -7 -13 1 -10 C 10 -10 15 -5 25 -6 C 34 -7 38 -1 34 5 Q 31 11 14 12 L -7 14 Q -17 12 -17 4 Z" fill="#9a9a9a" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+          </g>
+          <path id="row-1-cell-2-near-pants" d="M 364.907 559.016 C 397.992 557.169 456.677 567.224 478.715 569.103 C 507.938 576.277 554.031 593.953 575.864 601.457 Q 576.843 614.069 570.058 624.744 C 547.258 621.121 498.262 615.088 473.148 608.714 C 455.211 609.198 395.968 615.134 363.093 610.984 Q 336.017 584.023 364.907 559.016 Z" fill="#434343" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+          <g id="row-1-cell-2-wardrobe">
+            <path id="row-1-cell-2-knee-drape" d="M 464.785 578.872 Q 475.932 588.909 494.539 602.428" fill="none" stroke="#676767" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" />
+            <path id="row-1-cell-2-sock-crease" d="M 579.961 616.101 q 2 2 5 1" fill="none" stroke="#676767" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round" />
+          </g>
+        </g>
+        <g id="row-1-cell-2-far-arm">
+          <path id="row-1-cell-2-far-sleeve" d="M 297.678 492.859 Q 299.286 468.408 323.234 473.601 L 350.721 511.739 Q 353.483 520.037 361.919 515.941 L 386.777 511.545 Q 392.721 520.128 392.958 530.566 L 370.263 541.620 Q 344.461 548.649 326.762 529.793 Z" fill="#5d5d5d" stroke="#515151" stroke-width="1.15" stroke-linecap="round" stroke-linejoin="round" />
+          <path id="row-1-cell-2-far-wrist" d="M 391.172 528.307 Q 383.362 523.169 386.661 514.421 L 406.849 508.598 Q 410.269 514.426 410.928 521.152 Z" fill="#b9b9b9" stroke="#646464" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round" />
+          <g id="row-1-cell-2-far-hand" transform="translate(404.133 516.420) rotate(-18.000)">
+            <path id="row-1-cell-2-far-fingers" d="M -5 -7 Q 4 -9 8 -8 L 18 -13 Q 22 -13 21 -10 L 14 -4 L 23 -6 Q 28 -5 24 -1 L 14 4 Q 6 9 -4 6 Z" fill="#b9b9b9" stroke="#646464" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+          </g>
+          <path id="row-1-cell-2-far-cuff" d="M 392.649 529.615 L 387.086 512.496" fill="none" stroke="#969696" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round" />
+        </g>
+        <path id="row-1-cell-2-neck" d="M 318.951 490.675 Q 309.394 505.844 292.497 499.850 L 283.126 469.781 Q 294.471 462.819 307.691 461.262 Z" fill="#dedede" stroke="#646464" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+        <g id="row-1-cell-2-upper-body" transform="translate(364.000 585.000) rotate(-33)">
+          <g id="row-1-cell-2-shirt">
+            <path id="row-1-cell-2-torso" fill="#707070" d="M -36 7 C -44 -7 -35 -32 -34 -52 C -34 -73 -33 -92 -26 -105 C -23 -112 -15 -117 -8 -119 C -1 -111 10 -108 18 -112 C 26 -108 28 -99 31 -90 C 38 -79 43 -69 42 -57 C 40 -48 32 -43 30 -34 C 29 -20 30 -11 37 1 C 30 10 16 18 0 18 C -15 20 -34 17 -36 7 Z" />
+            <path id="row-1-cell-2-collar" fill="none" stroke="#acacac" stroke-width="2" stroke-linecap="round" d="M -9 -115 C -5 -104 8 -101 18 -107" />
+            <path id="row-1-cell-2-shirt-folds" fill="none" stroke="#969696" stroke-width="1.9" stroke-linecap="round" d="M -27 -61 Q -23 -42 -20 -30 M 15 -39 Q 25 -27 24 -13 M -28 5 Q -18 11 -2 10" />
+          </g>
+        </g>
+        <g id="row-1-cell-2-head" transform="translate(292.652 475.134) rotate(16)">
+          <g id="row-1-cell-2-H0-back">
+            <path id="row-1-cell-2-hair-tie-outline" fill="#333333" d="M -26 -42 C -31 -41 -39 -39 -43 -33 C -47 -27 -43 -20 -44 -15 C -45 -11 -47 -8 -48 -7 C -35 -6 -27 -15 -27 -24 C -27 -28 -24 -33 -21 -35 Z" />
+            <path id="row-1-cell-2-hair-tie" fill="none" stroke="#969696" stroke-width="2.1" d="M -34 -40 Q -29 -38 -26 -33" />
+            <path id="row-1-cell-2-tail-fold" fill="none" stroke="#5b5b5b" stroke-width="1.2" stroke-linecap="round" d="M -35 -32 Q -41 -24 -40 -19" />
+          </g>
+          <g id="row-1-cell-2-face-outline">
+            <path id="row-1-cell-2-head-profile" fill="#dedede" stroke="#646464" stroke-width="1" stroke-linejoin="round" d="M -16 5 C -15 -8 -12 -21 -19 -29 C -31 -39 -33 -56 -24 -66 C -18 -74 -8 -77 3 -76 C 14 -75 22 -70 23 -59 C 24 -54 22 -50 24 -46 C 26 -42 31 -38 31 -35 C 31 -32 26 -32 23 -31 C 24 -29 26 -27 24 -24 C 27 -22 24 -18 24 -15 C 22 -8 13 -6 4 -10 C 0 -9 -1 0 0 5 Q -8 9 -16 5 Z" />
+          </g>
+          <g id="row-1-cell-2-fringe">
+            <path id="row-1-cell-2-hair-cap" fill="#333333" d="M -23 -31 C -30 -33 -35 -44 -34 -55 C -33 -70 -21 -79 -6 -80 C 9 -82 21 -76 25 -64 C 26 -60 25 -53 23 -51 C 19 -59 13 -58 9 -63 C 5 -57 -1 -52 -7 -49 Q -6 -54 -8 -55 C -12 -47 -16 -44 -19 -43 C -24 -44 -25 -38 -23 -31 Z" />
+            <path id="row-1-cell-2-hair-sweep" fill="none" stroke="#5b5b5b" stroke-width="1.5" stroke-linecap="round" d="M -27 -56 Q -20 -72 -2 -74 M -23 -51 Q -19 -61 -11 -66" />
+            <path id="row-1-cell-2-ear" fill="#dedede" stroke="#797979" stroke-width="1" d="M -18 -39 C -24 -46 -27 -37 -22 -30 Q -18 -25 -16 -32" />
+            <path id="row-1-cell-2-ear-fold" fill="none" stroke="#9a9a9a" stroke-width="1" d="M -22 -38 Q -19 -40 -18 -35" />
+          </g>
+          <g id="row-1-cell-2-expression">
+            <path id="row-1-cell-2-brow" d="M 5 -46 Q 11 -48 18 -45" fill="none" stroke="#393939" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" />
+            <path id="row-1-cell-2-eye" d="M 5 -39 Q 12 -42 19 -38" fill="none" stroke="#393939" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+            <ellipse id="row-1-cell-2-iris" cx="16.000" cy="-37.500" rx="2.45" ry="2.55" fill="#393939" stroke="none" stroke-width="1.7" />
+            <path id="row-1-cell-2-mouth" d="M 17 -22 Q 21 -21 25 -22" fill="none" stroke="#393939" stroke-width="1.35" stroke-linecap="round" stroke-linejoin="round" />
+          </g>
+        </g>
+        <g id="row-1-cell-2-props">
+          <g id="row-1-cell-2-phone" transform="translate(397.133 512.420) rotate(-28)">
+            <rect id="row-1-cell-2-phone-block" x="-6" y="-28" width="16" height="34" rx="3" fill="#393939" />
+          </g>
+        </g>
+        <g id="row-1-cell-2-near-arm">
+          <path id="row-1-cell-2-near-sleeve" d="M 285.337 495.793 Q 296.004 470.372 319.575 484.668 L 331.245 530.295 Q 329.159 537.793 335.499 532.925 L 360.430 528.963 Q 366.223 537.649 366.278 548.089 L 343.393 558.745 Q 315.307 564.403 302.714 539.565 Z" fill="#707070" stroke="#515151" stroke-width="1.15" stroke-linecap="round" stroke-linejoin="round" />
+          <path id="row-1-cell-2-near-wrist" d="M 364.532 545.799 Q 356.813 540.526 360.263 531.837 L 380.550 526.367 Q 383.869 532.254 384.410 538.990 Z" fill="#dedede" stroke="#646464" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round" />
+          <g id="row-1-cell-2-near-hand" transform="translate(377.699 534.140) rotate(-17.000)">
+            <path id="row-1-cell-2-near-fingers" d="M -5 -7 Q 4 -9 8 -8 L 18 -13 Q 22 -13 21 -10 L 14 -4 L 23 -6 Q 28 -5 24 -1 L 14 4 Q 6 9 -4 6 Z" fill="#dedede" stroke="#646464" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+          </g>
+          <path id="row-1-cell-2-near-cuff" d="M 365.985 547.133 L 360.723 529.919" fill="none" stroke="#969696" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <text x="872.4" y="71.0" fill="#303030" font-family="sans-serif" font-size="15" font-weight="normal">P3 / about to taste</text>
+  <g clip-path="url(#row-1-cell-3-clip)">
+    <g id="row-1-cell-3" transform="translate(649.68 -386.2) scale(1.28)">
+      <rect id="row-1-cell-3-paper" width="700" height="990" fill="#f5f5f5" />
+      <g id="row-1-cell-3-clock" />
+      <g id="row-1-cell-3-figure" data-character="adult-woman-01">
+        <g id="row-1-cell-3-far-leg">
+          <g id="row-1-cell-3-far-foot" transform="translate(581.013 601.147) rotate(10)">
+            <path id="row-1-cell-3-far-sock" d="M -15 -8 Q -7 -13 1 -10 C 10 -10 15 -5 25 -6 C 34 -7 38 -1 34 5 Q 31 11 14 12 L -7 14 Q -17 12 -17 4 Z" fill="#838383" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+          </g>
+          <path id="row-1-cell-3-far-pants" d="M 372.454 549.004 C 405.501 546.580 464.352 555.609 486.593 557.126 C 515.990 564.323 562.083 581.999 583.916 589.503 Q 584.894 602.115 578.109 612.790 C 555.309 609.167 506.313 603.134 481.372 596.784 C 463.619 597.602 404.489 604.572 371.546 600.996 Q 344.004 574.511 372.454 549.004 Z" fill="#606060" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+        </g>
+        <ellipse id="row-1-cell-3-pelvis" cx="364.000" cy="585.000" rx="31" ry="28" fill="#434343" stroke="none" stroke-width="1.7" />
+        <g id="row-1-cell-3-near-leg">
+          <g id="row-1-cell-3-near-foot" transform="translate(572.961 613.101) rotate(10)">
+            <path id="row-1-cell-3-near-sock" d="M -15 -8 Q -7 -13 1 -10 C 10 -10 15 -5 25 -6 C 34 -7 38 -1 34 5 Q 31 11 14 12 L -7 14 Q -17 12 -17 4 Z" fill="#9a9a9a" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+          </g>
+          <path id="row-1-cell-3-near-pants" d="M 364.907 559.016 C 397.992 557.169 456.677 567.224 478.715 569.103 C 507.938 576.277 554.031 593.953 575.864 601.457 Q 576.843 614.069 570.058 624.744 C 547.258 621.121 498.262 615.088 473.148 608.714 C 455.211 609.198 395.968 615.134 363.093 610.984 Q 336.017 584.023 364.907 559.016 Z" fill="#434343" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+          <g id="row-1-cell-3-wardrobe">
+            <path id="row-1-cell-3-knee-drape" d="M 464.785 578.872 Q 475.932 588.909 494.539 602.428" fill="none" stroke="#676767" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" />
+            <path id="row-1-cell-3-sock-crease" d="M 579.961 616.101 q 2 2 5 1" fill="none" stroke="#676767" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round" />
+          </g>
+        </g>
+        <g id="row-1-cell-3-far-arm">
+          <path id="row-1-cell-3-far-sleeve" d="M 351.173 474.680 Q 353.208 450.260 377.062 455.871 L 403.879 494.482 Q 400.689 502.089 398.266 494.821 L 413.094 474.391 Q 423.331 476.437 430.753 483.780 L 422.106 507.497 Q 402.782 532.016 379.608 512.116 Z" fill="#5d5d5d" stroke="#515151" stroke-width="1.15" stroke-linecap="round" stroke-linejoin="round" />
+          <path id="row-1-cell-3-far-wrist" d="M 427.899 483.396 Q 418.712 485.125 415.008 476.541 L 425.485 458.328 Q 431.994 460.145 437.140 464.525 Z" fill="#b9b9b9" stroke="#646464" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round" />
+          <g id="row-1-cell-3-far-hand" transform="translate(428.965 465.841) rotate(-62.000)">
+            <path id="row-1-cell-3-far-fingers" d="M -4 -7 Q 3 -9 8 -8 L 12 -5 Q 14 0 10 3 Q 8 8 2 7 L -5 6 Z" fill="#b9b9b9" stroke="#646464" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+          </g>
+          <path id="row-1-cell-3-far-cuff" d="M 429.870 483.311 L 413.977 474.860" fill="none" stroke="#969696" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round" />
+        </g>
+        <path id="row-1-cell-3-neck" d="M 370.534 478.500 Q 356.345 489.459 342.538 478.022 L 344.113 444.353 Q 357.160 441.716 370.110 444.797 Z" fill="#dedede" stroke="#646464" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+        <g id="row-1-cell-3-upper-body" transform="translate(364.000 585.000) rotate(-4)">
+          <g id="row-1-cell-3-shirt">
+            <path id="row-1-cell-3-torso" fill="#707070" d="M -36 7 C -44 -7 -35 -32 -34 -52 C -34 -73 -33 -92 -26 -105 C -23 -112 -15 -117 -8 -119 C -1 -111 10 -108 18 -112 C 26 -108 28 -99 31 -90 C 38 -79 43 -69 42 -57 C 40 -48 32 -43 30 -34 C 29 -20 30 -11 37 1 C 30 10 16 18 0 18 C -15 20 -34 17 -36 7 Z" />
+            <path id="row-1-cell-3-collar" fill="none" stroke="#acacac" stroke-width="2" stroke-linecap="round" d="M -9 -115 C -5 -104 8 -101 18 -107" />
+            <path id="row-1-cell-3-shirt-folds" fill="none" stroke="#969696" stroke-width="1.9" stroke-linecap="round" d="M -27 -61 Q -23 -42 -20 -30 M 15 -39 Q 25 -27 24 -13 M -28 5 Q -18 11 -2 10" />
+          </g>
+        </g>
+        <g id="row-1-cell-3-head" transform="translate(354.862 454.319) rotate(13)">
+          <g id="row-1-cell-3-H0-back">
+            <path id="row-1-cell-3-hair-tie-outline" fill="#333333" d="M -26 -42 C -31 -41 -39 -39 -43 -33 C -47 -27 -43 -20 -44 -15 C -45 -11 -47 -8 -48 -7 C -35 -6 -27 -15 -27 -24 C -27 -28 -24 -33 -21 -35 Z" />
+            <path id="row-1-cell-3-hair-tie" fill="none" stroke="#969696" stroke-width="2.1" d="M -34 -40 Q -29 -38 -26 -33" />
+            <path id="row-1-cell-3-tail-fold" fill="none" stroke="#5b5b5b" stroke-width="1.2" stroke-linecap="round" d="M -35 -32 Q -41 -24 -40 -19" />
+          </g>
+          <g id="row-1-cell-3-face-outline">
+            <path id="row-1-cell-3-head-profile" fill="#dedede" stroke="#646464" stroke-width="1" stroke-linejoin="round" d="M -16 5 C -15 -8 -12 -21 -19 -29 C -31 -39 -33 -56 -24 -66 C -18 -74 -8 -77 3 -76 C 14 -75 22 -70 23 -59 C 24 -54 22 -50 24 -46 C 26 -42 31 -38 31 -35 C 31 -32 26 -32 23 -31 C 24 -29 26 -27 24 -24 C 27 -22 24 -18 24 -15 C 22 -8 13 -6 4 -10 C 0 -9 -1 0 0 5 Q -8 9 -16 5 Z" />
+          </g>
+          <g id="row-1-cell-3-fringe">
+            <path id="row-1-cell-3-hair-cap" fill="#333333" d="M -23 -31 C -30 -33 -35 -44 -34 -55 C -33 -70 -21 -79 -6 -80 C 9 -82 21 -76 25 -64 C 26 -60 25 -53 23 -51 C 19 -59 13 -58 9 -63 C 5 -57 -1 -52 -7 -49 Q -6 -54 -8 -55 C -12 -47 -16 -44 -19 -43 C -24 -44 -25 -38 -23 -31 Z" />
+            <path id="row-1-cell-3-hair-sweep" fill="none" stroke="#5b5b5b" stroke-width="1.5" stroke-linecap="round" d="M -27 -56 Q -20 -72 -2 -74 M -23 -51 Q -19 -61 -11 -66" />
+            <path id="row-1-cell-3-ear" fill="#dedede" stroke="#797979" stroke-width="1" d="M -18 -39 C -24 -46 -27 -37 -22 -30 Q -18 -25 -16 -32" />
+            <path id="row-1-cell-3-ear-fold" fill="none" stroke="#9a9a9a" stroke-width="1" d="M -22 -38 Q -19 -40 -18 -35" />
+          </g>
+          <g id="row-1-cell-3-expression">
+            <path id="row-1-cell-3-brow" d="M 5 -47 Q 12 -50 19 -46" fill="none" stroke="#393939" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" />
+            <path id="row-1-cell-3-eye" d="M 5 -39 Q 12 -44 19 -38" fill="none" stroke="#393939" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+            <ellipse id="row-1-cell-3-iris" cx="16.000" cy="-38.500" rx="2.45" ry="2.55" fill="#393939" stroke="none" stroke-width="1.7" />
+            <path id="row-1-cell-3-mouth" d="M 13 -22 Q 20 -19 25 -24 Q 23 -16 18 -17 Z" fill="#393939" stroke="#393939" stroke-width="1.35" stroke-linecap="round" stroke-linejoin="round" />
+            <path id="row-1-cell-3-cheek-lift" d="M 8 -26 Q 10 -25 11 -27" fill="none" stroke="#8c8c8c" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" />
+          </g>
+        </g>
+        <g id="row-1-cell-3-props">
+          <g id="row-1-cell-3-plate" transform="translate(438.624 511.363)">
+            <path id="row-1-cell-3-plate-outline" d="M -19 -3 Q 0 -7 31 -4 L 27 0 Q 5 4 -16 1 Z" fill="#888888" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+            <path id="row-1-cell-3-cake-block" d="M -10 -6 L -8 -26 Q 2 -30 17 -20 L 21 -7 Q 6 -4 -10 -6 Z" fill="#c1c1c1" stroke="#666666" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+            <path id="row-1-cell-3-cake-edge" d="M -8 -16 Q 5 -18 18 -13" fill="none" stroke="#8d8d8d" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round" />
+          </g>
+          <path id="row-1-cell-3-fork" d="M 435.965 461.841 L 415.965 448.841 l -6 -1 l 1 3 l 5 2" fill="none" stroke="#5c5c5c" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" />
+        </g>
+        <g id="row-1-cell-3-near-arm">
+          <path id="row-1-cell-3-near-sleeve" d="M 338.652 476.630 Q 351.066 452.015 373.583 467.921 L 382.042 514.250 Q 379.214 521.450 385.493 516.675 L 410.547 513.586 Q 416.033 522.469 415.724 532.904 L 392.481 542.755 Q 363.987 547.299 352.933 521.508 Z" fill="#707070" stroke="#515151" stroke-width="1.15" stroke-linecap="round" stroke-linejoin="round" />
+          <path id="row-1-cell-3-near-wrist" d="M 414.059 530.555 Q 406.528 525.015 410.280 516.453 L 430.746 511.693 Q 433.856 517.693 434.162 524.444 Z" fill="#dedede" stroke="#646464" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round" />
+          <g id="row-1-cell-3-near-hand" transform="translate(427.624 519.363) rotate(-15.000)">
+            <path id="row-1-cell-3-near-fingers" d="M -4 -7 Q 4 -10 10 -8 L 22 -8 Q 26 -6 22 -3 L 15 -2 L 20 1 Q 22 6 16 6 L 8 5 Q 1 8 -4 6 Z" fill="#dedede" stroke="#646464" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+          </g>
+          <path id="row-1-cell-3-near-cuff" d="M 415.465 531.938 L 410.806 514.552" fill="none" stroke="#969696" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
