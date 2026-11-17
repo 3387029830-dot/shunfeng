@@ -226,3 +226,8 @@
 在最终审查时，对 R09 作重要更正：虽然 The One Club 将其收录为 DHL / Jung von Matt 的获奖项目，但《华盛顿邮报》2014 年 2 月 21 日的报道引用 DHL 发言人明确表示，该视频并非 DHL 委托制作，而是代理商内部创意竞赛产物。因此本报告不再把 R09 作为 DHL 正式广告或品牌授权案例，仅保留为“代理商内部实验”的跨媒介参考。该更正优先于任何将它称为 DHL campaign 的二手描述。来源：[The Washington Post](https://www.washingtonpost.com/news/arts-and-entertainment/wp/2014/02/21/that-viral-dhl-commercial-is-brilliant-and-fake/)；[The One Club](https://www.oneclub.org/awards/theoneshow/-award/21575/trojan-mailing/)。
 
 顺丰同城官方品牌介绍及官网用于核对业务范围：[官方品牌介绍](https://www.sf-intra-city.com/about/)；[官方首页](https://www.sf-intra-city.com/)。FedEx Neighbours 的广告目标、媒介和年份以 D&AD 与 Communication Arts 档案为准：[D&AD](https://www.dandad.org/work/d-ad-awards-archive/neighbours)；[Communication Arts](https://www.commarts.com/exhibit/fedex-express-neighbors-print-campaign)。DHL Tunnel box 的年份、国家、媒介和署名以 Ads of the World 档案为准：[作品页](https://www.adsoftheworld.com/campaigns/tunnel-box)。
+
+
+## 审批状态更新（2026-11-17）
+
+用户已接受 Gate 1 第一轮研究与 Gate 1B 艺术指导补充研究，并明确批准进入 Gate 2。两份研究仍作为依据，不代表其中任何视觉风格已被选为最终方向。
