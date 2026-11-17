@@ -32,3 +32,16 @@ ChatGPT 负责艺术方向、姿态、品牌、系列审查；Codex 负责管线
 本轮允许创建/复用私有 SF-City-Advertising 仓库、提交并同步 Stage 0 脱敏副本、建立 main/dev。此授权不包含绘图或进入 Stage 1；原“不得自动建仓/推送”规则由本轮明确迁移指令在该范围内覆盖。后续阶段变更在 dev 或 dev 派生分支提交，通过 PR 请求验收；未经明确审查批准不得将正式设计改动合入 main，不启用自动合并或强推。服务器保护是否启用须看 MIGRATION_REPORT，不把文档规则冒充平台保护。
 
 所有交接必须遵循 docs/REVIEW_HANDOFF.md，以仓库相对路径和完整提交 SHA 为依据。未经授权不得公开仓库、添加协作者或付费启用功能。迁移后的当前规范以 docs/RESOURCE_SYNC.md 为准；原 Stage 0 审计和日志属于历史证据，脱敏不改变测试结论。
+
+
+## 当前项目重启指令（2026-11-17，优先于下方旧人体时钟规范）
+
+用户已明确推翻原人体模拟时钟创意、原三张系列海报、原人物/沙发/客厅及旧 S2 角色路线。最终成果改为**一张顺丰同城商业广告海报**。旧 Stage 1/1.1 与 PR #3 的所有内容只作历史档案，不删除、不覆盖、不复用其视觉主体。
+
+当前任务的唯一有效设计流程、阶段门槛、七张用户参考图的研究边界与验收要求，以 [docs/design/SINGLE_POSTER_RESET.md](docs/design/SINGLE_POSTER_RESET.md) 和 [.agents/skills/sf-single-poster-art-direction/SKILL.md](.agents/skills/sf-single-poster-art-direction/SKILL.md) 为准。必须使用 `$sf-single-poster-art-direction`，并按需使用 `$design-principles`、`$creative-direction`、`$art-direction`、`$collateral-design`。
+
+本次仅授权：在 `design/single-poster-reset` 分支建立新 Skill 与重启文档、进行工具/流程审计和后续获批的参考/概念研究。**本次不授权制作任何最终海报、不授权生成式图片、不授权 Stage 5/6（单张成稿及印刷交付）**。三种概念方向板可以在后续 Gate 0/1/2 完成并得到明确授权后制作；三种方向板不是最终三张海报。用户选定唯一方向前不得高保真制作。
+
+本轮允许的 Git 范围为新分支上的 `.agents/skills/`、`docs/design/`、`AGENTS.md`、`README.md`、`ROADMAP.md`、`docs/DECISIONS.md`、`docs/REVIEW_HANDOFF.md` 和本轮审计报告。不得改 `main`、`dev`、PR #3 或 PR #5。不得合并任何 PR，不得强推。
+
+此前文档中关于“人体时钟第一视觉”“固定腰胯”“三姿态”“三联”等旧要求已被本节覆盖，作为历史设计决策保留，不再作为当前生产约束。
