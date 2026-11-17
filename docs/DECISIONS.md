@@ -12,3 +12,12 @@
 ## GitHub迁移授权与偏差
 
 用户明确授权仅迁移与协作机制建设，不批准Stage1。用户自行创建并提供私有仓库3387029830-dot/shunfeng，故使用该仓库而不重复创建SF-City-Advertising。原始工程保留，迁移副本脱敏。系统Git无可用GitHub凭证，GitHub连接器有admin/push权限，使用连接器Git Data/Contents API传输，不能宣称本机git push认证已建立。服务器分支保护经分支元数据确认未启用，文档制度与本地hook不能代替服务器保护。
+
+
+## 2026-11-17｜用户推翻旧创意并重启单张海报
+
+用户明确决定彻底推翻人体模拟时钟、三张系列海报及原人物/客厅方案，最终只保留一张海报。用户提供七张图作为参考，要求提取“时间、快速、主体性、强物件关系”的方法。旧稿保留为历史档案，不删除、不覆盖、不复用旧视觉主体。
+
+新项目规范：[docs/design/SINGLE_POSTER_RESET.md](design/SINGLE_POSTER_RESET.md)。新项目 Skill：`$sf-single-poster-art-direction`。外部设计技能来自固定提交 `zstvns/design-skills@6a8ea60e3fe70884138554a235ab77b6cb2106d5`，采用 MIT 许可证。当前流程：Gate 0 brief → Gate 1 真实参考研究 → Gate 2 概念发散/三个方向板 → 用户选定唯一方向 → 一张海报制作 → 印前交付。
+
+本次只批准新项目流程、Skill 与研究规划。最终海报、图像生成、三方向板制作和高保真制作均须依照新 Gate 逐步授权，不得因旧 Issue #6 曾经授权而继续旧的女性角色方向。新分支 `design/single-poster-reset`。PR #3、PR #5、`main`、`dev` 保持原状。
