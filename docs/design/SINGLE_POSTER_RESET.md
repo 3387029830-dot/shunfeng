@@ -51,9 +51,9 @@
 
 | Gate | 状态 |
 |---|---|
-| Gate 0 重启任务简报 | 用户已确认业务情境 D｜泛同城即时配送，并批准 Gate 0 简报进入 Gate 1。见 [Gate 0 简报](TASK_BRIEF_GATE0.md) |
-| Gate 1 参考研究 | 第一轮研究与 Gate 1B 艺术指导补充均已完成，等待用户审查；见 [第一轮报告](GATE1_REFERENCE_RESEARCH.md) 与 [艺术指导补充](GATE1_ART_DIRECTION_ADDENDUM.md) |
-| Gate 2 核心创意发散 | 待执行，至少 8 个隐喻并筛选 |
+| Gate 0 重启任务简报 | 用户已确认单张、实体印刷、自主文案及 D｜泛同城即时配送。见 [Gate 0 简报](TASK_BRIEF_GATE0.md) |
+| Gate 1 参考研究 | 第一轮与 Gate 1B 补充研究已完成并获用户接受；见 [第一轮报告](GATE1_REFERENCE_RESEARCH.md) 与 [艺术指导补充](GATE1_ART_DIRECTION_ADDENDUM.md) |
+| Gate 2 核心创意发散 | 已完成 10 个隐喻与反向初筛，推荐 A/B/C 进入 Gate 3；等待用户审查。见 [Gate 2 报告](GATE2_CONCEPT_EXPLORATION.md) |
 | Gate 3 三个概念方向板 | 待执行，三个概念板仅供选择，不是三张最终海报 |
 | Gate 4 用户选定唯一方向 | 未批准 |
 | Gate 5 单张海报精细制作 | 未批准 |
