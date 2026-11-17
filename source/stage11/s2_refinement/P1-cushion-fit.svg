@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="623" viewBox="0 0 720 623">
+  <title>P1 head and neck / S0 cushion fit</title>
+  <rect width="720" height="623" fill="#e6e6e6" />
+  <text x="22" y="39" font-family="sans-serif" font-size="24" font-weight="600" fill="#414141">P1 / S0 cushion fit</text>
+  <text x="22" y="67" font-family="sans-serif" font-size="14" font-weight="400" fill="#414141">Original cushion and shoulder · local head and neck trial</text>
+  <defs>
+    <linearGradient id="v2-skin" x1=".06" y1=".54" x2=".97" y2=".44">
+      <stop stop-color="#d9d9d9" />
+      <stop offset=".53" stop-color="#ededed" />
+      <stop offset="1" stop-color="#f6f6f6" />
+    </linearGradient>
+    <linearGradient id="v2-neck" x1=".58" y1="0" x2=".46" y2="1">
+      <stop stop-color="#c6c6c6" />
+      <stop offset=".62" stop-color="#e3e3e3" />
+      <stop offset="1" stop-color="#ededed" />
+    </linearGradient>
+    <linearGradient id="v2-hair" x1=".31" y1="0" x2=".74" y2="1">
+      <stop stop-color="#939393" />
+      <stop offset=".47" stop-color="#737373" />
+      <stop offset="1" stop-color="#585858" />
+    </linearGradient>
+    <linearGradient id="v2-iris" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#565656" />
+      <stop offset="1" stop-color="#919191" />
+    </linearGradient>
+    <clipPath id="p1-crop">
+      <rect x="22" y="90" width="676" height="506" />
+    </clipPath>
+  </defs>
+  <g clip-path="url(#p1-crop)">
+    <g transform="translate(22 90) scale(4.25) translate(-179 -429)">
+      <rect x="179" y="429" width="160" height="121" fill="#f2f2f2" />
+      <g id="sofa">
+        <ellipse id="sofa-shadow" cx="362" cy="708" rx="268" ry="17" fill="#d6d6d6" />
+        <path id="sofa-feet" fill="#b3b3b3" d="M 145 680 H 163 L 159 711 H 145 Z M 600 679 H 619 L 615 711 H 601 Z" />
+        <path id="shell" fill="#cdcdcd" d="M 118 634 C 116 602 119 562 127 533 C 130 510 148 498 178 498 C 234 497 246 532 268 548 C 309 580 374 587 437 585 L 574 582 C 600 581 624 585 634 608 C 644 625 643 652 638 673 C 632 697 612 704 574 706 L 173 706 C 136 705 122 690 119 670 Z" />
+        <path id="soft-back" fill="#dcdcdc" d="M 149 531 C 164 504 208 511 232 530 C 261 553 279 579 307 593 C 338 609 362 606 388 606 L 576 597 C 606 594 620 601 624 613 L 620 640 L 172 640 C 143 628 135 563 149 531 Z" />
+        <path id="lumbar-cushion" fill="#bfbfbf" d="M 156 594 C 157 577 170 533 187 525 C 200 517 219 527 235 538 C 254 549 271 571 275 592 C 279 611 266 620 245 625 L 182 627 C 165 624 153 618 156 594 Z" />
+        <path id="seat" fill="#c5c5c5" d="M 179 613 C 208 603 257 600 286 603 C 322 606 333 615 370 614 C 420 614 519 613 577 619 C 606 622 624 618 628 633 C 632 654 610 666 581 668 L 177 668 C 154 662 148 647 152 631 Q 158 620 179 613 Z" />
+        <path id="seat-seam" fill="none" stroke="#afafaf" stroke-width="1.6" stroke-linecap="round" d="M 174 650 C 241 648 282 657 332 655 C 386 652 471 651 530 651 C 571 652 600 651 614 646" />
+        <path id="left-armrest" fill="#d4d4d4" d="M 108 588 C 116 573 139 569 153 581 C 165 590 165 608 166 626 L 165 673 Q 160 697 140 697 C 115 696 105 681 104 659 Z" />
+        <path id="throw" fill="#dcdcdc" d="M 150 651 C 177 649 194 650 211 653 C 202 669 205 690 201 709 Q 174 713 151 709 C 155 690 153 675 150 651 Z" />
+        <path id="throw-folds" fill="none" stroke="#bdbdbd" stroke-width="1.7" stroke-linecap="round" d="M 164 659 Q 172 681 165 701 M 192 660 Q 182 679 186 702" />
+      </g>
+      <path id="fitted-neck" fill="url(#v2-neck)" stroke="#999999" stroke-width=".30" d="M 218 493 C 222 502 241 509 254 513 C 258 519 265 521 275 523 C 281 524 287 522 293 525 C 286 532 278 537 268 539 C 254 538 248 532 236 525 C 226 520 220 512 218 504 Z" />
+      <g id="fitted-head" transform="translate(222 497) rotate(-7) scale(.262) translate(-221 -290)">
+        <g id="v2-profile" stroke-linecap="round" stroke-linejoin="round">
+          <g id="v2-tied-hair">
+            <path fill="#6c6c6c" stroke="#656565" stroke-width="1.05" d="M 191 306 C 183 298 174 300 165 304 C 150 301 130 307 120 322 C 109 338 111 355 120 370 C 127 382 140 388 142 406 C 149 402 154 395 153 385 C 159 390 168 390 173 385 C 162 380 155 369 157 356 C 159 342 174 334 187 327 Z" />
+            <path fill="#8a8a8a" d="M 160 308 C 141 306 124 323 122 340 C 119 351 126 368 134 374 C 128 356 130 341 141 328 C 147 321 152 315 160 308 Z" />
+            <path fill="none" stroke="#8a8a8a" stroke-width="1.16" d="M 124 329 C 113 343 116 357 121 366" />
+            <path fill="#a3a3a3" stroke="#838383" stroke-width=".8" d="M 169 303 C 176 299 183 299 188 305 C 185 316 177 324 169 329 C 166 321 165 310 169 303 Z" />
+          </g>
+          <g id="v2-face">
+            <path id="v2-contour" fill="url(#v2-skin)" stroke="#818181" stroke-width="1.12" d="M 199 297 C 188 262 190 217 206 181 C 223 143 257 121 296 120 C 330 119 353 134 362 158 C 372 179 365 199 359 221 C 355 236 355 248 360 259 C 364 269 369 276 374 282 C 378 287 377 292 373 295 C 370 297 367 296 364 297 C 361 298 361 301 362 304 C 363 307 367 308 368 312 C 369 315 367 317 365 319 C 363 321 362 322 363 324 C 366 328 363 333 359 337 C 356 341 356 349 350 355 C 342 364 331 367 317 365 C 293 365 266 359 247 348 C 225 336 207 323 199 297 Z" />
+            <path id="v2-plane" fill="#cccccc" opacity=".19" d="M 225 187 C 241 160 270 144 288 151 C 270 166 259 191 261 213 C 263 237 270 252 276 267 C 266 286 266 309 276 326 C 285 342 297 356 313 365 C 279 362 252 354 231 338 C 210 320 200 284 209 248 Z" />
+            <path id="v2-nose" fill="none" stroke="#a2a2a2" stroke-width="1.14" d="M 353 282 C 355 283 356 285 356 288 M 361 290 C 363 288 366 288 369 290" />
+            <path id="v2-nose-light" fill="#fcfcfc" opacity=".67" d="M 365 275 C 368 278 373 284 373 288 Q 369 286 365 281 Q 363 278 365 275 Z" />
+            <path id="v2-cheek-lift" fill="none" stroke="#b8b8b8" stroke-width="1.08" d="M 328 315 Q 332 314 334 315" />
+            <g id="v2-mouth">
+              <path id="v2-upper-lip" fill="#b5b5b5" d="M 335 321 C 344 320 352 313 360 311 C 363 310 366 311 368 313 C 364 315 359 315 354 318 C 348 321 342 323 335 321 Z" />
+              <path id="v2-mouth-opening" fill="#848484" d="M 336 321 C 344 322 351 319 357 316.6 Q 363 315 366 315 C 363 318 359 320 354 322 C 347 325 342 324 336 321 Z" />
+              <path fill="#e3e3e3" d="M 344 321.6 C 350 321 357 317.2 363 316.4 Q 357 320 351 322 Z" />
+              <path fill="#bdbdbd" d="M 339 323 C 350 326 357 321 363 319 C 360 326 350 330 339 323 Z" />
+              <path fill="none" stroke="#a9a9a9" stroke-width=".98" d="M 333 323 Q 333.5 321 336 321 M 348 329 Q 352 330 357 327" />
+            </g>
+            <g id="v2-almond-eye">
+              <path id="v2-brow" fill="#828282" d="M 286 233 C 295 224 309 222 321 225 C 328 227 333 229 337 232 C 334 234 329 232 324 231 C 310 226 297 228 286 233 Z" />
+              <path fill="none" stroke="#bdbdbd" stroke-width="1.13" d="M 296 244 C 308 237 322 238 332 243" />
+              <path id="v2-eye-white" fill="#fcfcfc" d="M 291 253 C 304 240.6 322 242 338 251 C 332 262.5 307 267 291 253 Z" />
+              <path id="v2-iris-shape" fill="url(#v2-iris)" d="M 318 245 C 325 244 332 247 337 251 C 334 257 330 260 322 260 C 317 259 315 251 318 245 Z" />
+              <path id="v2-pupil" fill="#595959" d="M 326 246 C 331 247 334 250 333 253 C 332 257 329 258 326 255 C 323 253 323 249 326 246 Z" />
+              <path fill="#f0f0f0" d="M 321 248 C 322 246 325 246 326 248 Q 326 251 323 251 Z" />
+              <path id="v2-upper-lid" fill="none" stroke="#707070" stroke-width="1.93" d="M 290 253 C 305 240.6 323 242 338 251 M 336 250 Q 338 249 340 246" />
+              <path id="v2-lower-lid" fill="none" stroke="#bdbdbd" stroke-width="1.04" d="M 299 258 C 307 263 317 262 324 261" />
+            </g>
+          </g>
+          <g id="v2-bangs">
+            <path id="v2-hair-outline" fill="url(#v2-hair)" stroke="#717171" stroke-width="1.06" d="M 214 306 C 202 320 190 323 180 314 C 173 307 170 297 173 286 C 161 274 155 255 160 235 C 150 222 150 205 156 189 C 153 169 166 148 182 137 C 191 120 210 110 234 107 C 252 97 271 96 292 101 C 316 100 337 109 351 123 C 368 137 374 154 370 171 C 367 184 362 194 356 205 C 357 186 350 175 340 170 C 331 166 323 156 320 145 C 312 161 300 174 283 180 C 270 185 256 189 247 201 C 247 197 247 192 249 187 C 232 197 227 204 224 220 C 220 235 218 246 221 258 C 216 273 210 285 214 306 Z" />
+            <path id="v2-bang-light" fill="#a1a1a1" opacity=".33" d="M 169 194 C 181 163 205 133 237 122 C 253 116 269 114 285 116 C 252 120 226 135 205 154 C 188 170 180 185 169 194 Z" />
+            <path id="v2-fringe-plane" fill="#4b4b4b" opacity=".13" d="M 322 146 C 312 167 302 174 283 180 C 270 185 256 190 247 201 C 253 190 265 183 278 177 C 294 170 311 156 322 146 Z" />
+            <path id="v2-temple-lock" fill="none" stroke="#929292" stroke-width="1.2" d="M 171 243 C 177 214 193 192 218 178 M 317 149 C 310 171 290 186 271 192" />
+            <path id="v2-wisps" fill="none" stroke="#858585" stroke-width="1.02" d="M 181 140 C 171 142 161 156 159 165 M 221 249 C 217 264 228 276 220 281 M 350 126 C 368 136 374 146 374 155" />
+          </g>
+          <g id="v2-ear">
+            <path fill="#e1e1e1" stroke="#9b9b9b" stroke-width=".96" d="M 227 272 C 217 266 207 271 205 282 C 204 295 212 311 223 313 C 234 314 238 306 234 295 C 231 288 231 279 227 272 Z" />
+            <path fill="#bfbfbf" opacity=".52" d="M 215 278 C 209 281 211 293 215 299 C 218 291 224 294 227 300 C 228 292 221 277 215 278 Z" />
+            <path fill="none" stroke="#a4a4a4" stroke-width="1.05" d="M 213 285 C 215 281 222 282 226 290 M 219 299 Q 225 296 227 304" />
+            <path fill="#f4f4f4" stroke="#979797" stroke-width=".77" d="M 223 307 C 225 305 229 307 229 310 C 229 313 225 314 223 311 Z" />
+          </g>
+        </g>
+      </g>
+      <g id="upper-body" transform="translate(155.168 412.217)">
+        <g id="torso" data-part="torso">
+          <path id="P1-shirt" fill="#757575" d="M 82 111 C 85 111 88 113 91 117 C 96 124 104 128 113 124 C 121 123 128 117 132 113 C 141 112 150 117 157 126 C 174 144 195 149 218 153 C 231 158 239 170 231 181 C 225 190 210 198 197 201 C 176 204 151 194 138 183 C 118 166 101 155 90 139 C 84 131 83 119 82 111 Z" />
+          <path id="P1-shirt-plane" fill="#818181" d="M 126 126 C 142 124 152 134 166 143 C 181 153 199 157 218 160 C 228 162 230 171 223 178 C 212 180 195 174 174 171 C 155 166 132 148 126 126 Z" />
+          <path id="P1-collar" fill="none" stroke="#969696" stroke-width="1.3" stroke-linecap="round" d="M 89 117 C 96 127 103 131 113 128 C 124 125 130 121 136 117" />
+        </g>
+        <g id="near-arm" data-part="near-arm">
+          <path id="P1-sleeve" fill="#686868" d="M 99 129 C 105 123 113 124 119 131 C 128 140 139 153 150 157 C 165 162 182 154 197 151 C 202 151 204 163 201 168 C 185 173 168 179 154 177 C 139 176 124 164 112 152 C 105 145 99 139 99 129 Z" />
+          <path id="P1-sleeve-light" fill="none" stroke="#858585" stroke-width="1.4" stroke-linecap="round" d="M 121 151 C 131 161 144 169 156 170 M 175 162 Q 185 159 195 157" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,167 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="930" height="632" viewBox="0 0 930 632">
+  <title>S2 profile refinement</title>
+  <rect width="930" height="632" fill="#e6e6e6" />
+  <text x="18" y="36" font-family="sans-serif" font-size="25" font-weight="600" fill="#414141">S2 profile refinement</text>
+  <defs>
+    <linearGradient id="s2-hair-wash" x1=".36" y1="0" x2=".64" y2="1">
+      <stop stop-color="#929292" />
+      <stop offset=".48" stop-color="#656565" />
+      <stop offset="1" stop-color="#525252" />
+    </linearGradient>
+    <linearGradient id="s2-face-wash" x1="0" y1=".57" x2=".96" y2=".44">
+      <stop stop-color="#d7d7d7" />
+      <stop offset=".48" stop-color="#eeeeee" />
+      <stop offset="1" stop-color="#f6f6f6" />
+    </linearGradient>
+    <linearGradient id="s2-neck-wash" x1=".65" y1="0" x2=".54" y2="1">
+      <stop stop-color="#c5c5c5" />
+      <stop offset=".52" stop-color="#e7e7e7" />
+      <stop offset="1" stop-color="#efefef" />
+    </linearGradient>
+    <radialGradient id="s2-cheek-wash" cx=".53" cy=".44" r=".54">
+      <stop stop-color="#a3a3a3" stop-opacity=".34" />
+      <stop offset=".60" stop-color="#a8a8a8" stop-opacity=".16" />
+      <stop offset="1" stop-color="#afafaf" stop-opacity="0" />
+    </radialGradient>
+    <linearGradient id="s2-iris-wash" x1=".42" y1="0" x2=".56" y2="1">
+      <stop stop-color="#494949" />
+      <stop offset=".62" stop-color="#636363" />
+      <stop offset="1" stop-color="#9b9b9b" />
+    </linearGradient>
+    <linearGradient id="v2-skin" x1=".06" y1=".54" x2=".97" y2=".44">
+      <stop stop-color="#d9d9d9" />
+      <stop offset=".53" stop-color="#ededed" />
+      <stop offset="1" stop-color="#f6f6f6" />
+    </linearGradient>
+    <linearGradient id="v2-neck" x1=".58" y1="0" x2=".46" y2="1">
+      <stop stop-color="#c6c6c6" />
+      <stop offset=".62" stop-color="#e3e3e3" />
+      <stop offset="1" stop-color="#ededed" />
+    </linearGradient>
+    <linearGradient id="v2-hair" x1=".31" y1="0" x2=".74" y2="1">
+      <stop stop-color="#939393" />
+      <stop offset=".47" stop-color="#737373" />
+      <stop offset="1" stop-color="#585858" />
+    </linearGradient>
+    <linearGradient id="v2-iris" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#565656" />
+      <stop offset="1" stop-color="#919191" />
+    </linearGradient>
+  </defs>
+  <text x="18" y="77" font-family="sans-serif" font-size="16" font-weight="400" fill="#414141">S2 original</text>
+  <rect x="18" y="86" width="427" height="524" fill="#f8f8f8" rx="2" />
+  <g transform="translate(20.9600 92) scale(1.16) translate(-82 -65)">
+    <g id="s2-profile" stroke-linejoin="round" stroke-linecap="round">
+      <g id="s2-tied-hair">
+        <path fill="#686868" stroke="#626262" stroke-width="1.2" d="M 184 313 C 174 303 164 303 157 310 C 145 303 130 308 121 318 C 103 338 99 363 110 385 C 120 403 134 407 134 426 C 142 423 148 416 150 407 C 158 413 168 407 173 398 C 157 395 153 383 155 369 C 158 351 169 342 183 333 Z" />
+        <path fill="#838383" d="M 151 314 C 132 314 117 328 114 347 C 109 366 120 384 129 390 C 124 370 125 350 136 336 C 141 331 146 322 151 314 Z" />
+        <path fill="none" stroke="#a0a0a0" stroke-width="1.13" d="M 131 326 C 114 342 114 362 119 376 M 147 344 C 135 354 133 369 136 381" />
+        <path fill="none" stroke="#696969" stroke-width="1.1" d="M 115 323 C 102 334 98 358 104 376 M 147 395 C 155 409 164 409 169 404" />
+        <path fill="#a9a9a9" stroke="#838383" stroke-width=".95" d="M 158 310 C 167 306 173 308 179 313 C 178 324 171 332 163 337 C 160 329 156 319 158 310 Z" />
+      </g>
+      <path id="s2-neck" fill="url(#s2-neck-wash)" stroke="#909090" stroke-width="1.13" d="M 213 316 C 224 329 258 340 307 350 C 303 370 299 390 305 405 C 315 425 345 433 374 450 C 360 472 319 487 278 488 C 231 489 199 476 182 457 C 206 444 225 437 235 417 C 246 393 230 361 219 338 C 215 329 214 322 213 316 Z" />
+      <path fill="none" stroke="#b4b4b4" stroke-width="1.48" opacity=".72" d="M 273 373 C 277 391 286 406 297 415 M 292 432 C 301 430 310 431 318 434" />
+      <g id="s2-face">
+        <path id="s2-contour" fill="url(#s2-face-wash)" stroke="#858585" stroke-width="1.14" d="M 198 298 C 183 257 187 211 205 176 C 225 139 260 118 300 119 C 333 120 354 136 363 160 C 370 180 366 202 359 224 C 354 239 355 252 361 263 C 366 273 378 279 379 286 C 381 294 373 297 366 297 C 361 298 362 305 367 308 C 372 311 372 316 367 320 C 364 322 361 323 362 326 C 367 329 366 335 362 340 C 357 345 356 352 347 358 C 333 370 317 371 302 366 C 276 361 253 355 235 342 C 222 333 216 330 208 319 C 204 315 201 307 198 298 Z" />
+        <path id="s2-temple" fill="#cfcfcf" opacity=".26" d="M 230 187 C 241 165 255 154 272 150 C 266 167 259 187 260 208 C 262 233 274 249 280 268 C 265 292 264 315 279 339 C 289 349 300 359 313 368 C 282 364 253 354 231 338 C 212 322 203 285 210 249 Z" />
+        <path id="s2-cheek" fill="url(#s2-cheek-wash)" d="M 274 302 C 281 281 303 271 324 279 C 340 284 345 296 340 310 C 332 330 300 335 282 321 C 275 315 273 310 274 302 Z" />
+        <path fill="none" stroke="#b5b5b5" stroke-width="1.3" opacity=".8" d="M 286 293 L 291 291 M 297 289 L 302 288 M 307 288 L 311 288" />
+        <path fill="none" stroke="#a9a9a9" stroke-width="1.15" d="M 350 282 C 353 285 353 287 353 289 M 358 289 Q 363 286 367 289" />
+        <path fill="#f9f9f9" opacity=".62" d="M 366 274 Q 372 279 374 285 C 369 285 365 281 364 277 Z" />
+        <g id="s2-mouth">
+          <path fill="#b3b3b3" d="M 334 318 C 343 320 355 312 362 310 Q 368 309 370 313 C 358 318 345 322 334 318 Z" />
+          <path fill="#828282" d="M 334 318.4 C 345 320 358 313 368 313.5 C 364 318 357 322 351 324 C 345 326 338 321 334 318.4 Z" />
+          <path fill="#e6e6e6" d="M 343 319.5 C 350 319 360 315.8 365 314.8 C 360 318.5 351 321 347 321 Z" />
+          <path fill="#b4b4b4" d="M 343 323 C 349 326 356 323 361 320 C 358 326 349 329 343 323 Z" />
+          <path fill="none" stroke="#9f9f9f" stroke-width="1" d="M 328 321 Q 330 318 333 318 M 347 333 Q 353 334 356 331" />
+        </g>
+        <g id="s2-gaze">
+          <path fill="#777777" d="M 285 234 C 294 222 307 219 321 221 C 328 222 333 224 338 228 Q 337 232 332 229 C 316 223 298 226 285 234 Z" />
+          <path fill="#bdbdbd" opacity=".44" d="M 285 248 C 295 236 321 233 334 244 C 322 241 303 242 292 247 Z" />
+          <path fill="#f9f9f9" d="M 290 253 C 300 242 318 237 333 244 C 340 247 343 251 341 255 C 334 265 305 270 290 253 Z" />
+          <path fill="url(#s2-iris-wash)" d="M 319 242 C 329 242 336 246 340 252 C 340 258 334 263 326 263 C 318 263 313 251 319 242 Z" />
+          <path fill="#505050" d="M 328 245 C 334 245 338 250 337 254 C 336 258 331 259 328 256 C 324 253 325 247 328 245 Z" />
+          <path fill="#f2f2f2" d="M 324 246 C 326 244 329 245 330 247 C 329 250 324 250 324 246 Z" />
+          <path fill="none" stroke="#646464" stroke-width="2.7" d="M 289 253 C 301 241 319 238 333 244 C 337 245 340 248 342 251 M 339 248 Q 342 246 343 243" />
+          <path fill="none" stroke="#a4a4a4" stroke-width="1.15" d="M 293 257 C 302 266 315 266 328 264 M 303 270 C 309 271 314 272 319 271" />
+        </g>
+      </g>
+      <g id="s2-bangs">
+        <path id="s2-hair-outline" fill="url(#s2-hair-wash)" stroke="#646464" stroke-width="1.22" d="M 218 311 C 206 328 188 330 178 320 C 168 312 167 298 170 286 C 155 273 151 251 157 233 C 145 217 146 195 155 179 C 150 154 168 132 189 123 C 201 107 224 98 243 100 C 261 89 284 90 301 95 C 327 94 347 106 358 122 C 375 136 381 156 375 176 C 371 192 361 201 357 210 C 354 197 350 187 343 183 C 332 179 321 166 316 156 C 303 179 280 185 257 190 C 244 193 233 202 230 218 C 225 213 226 206 228 199 C 214 209 213 225 216 241 C 218 250 222 258 220 268 C 218 279 210 292 218 311 Z" />
+        <path fill="#b4b4b4" opacity=".33" d="M 156 200 C 169 156 204 122 231 114 C 248 109 266 108 281 111 C 237 113 204 143 185 172 C 175 187 170 202 164 212 Q 159 207 156 200 Z" />
+        <path fill="#c0c0c0" opacity=".28" d="M 205 176 C 223 143 266 122 309 123 C 320 125 330 128 336 135 C 305 127 270 140 247 156 C 230 168 217 173 205 176 Z" />
+        <path fill="#b5b5b5" opacity=".35" d="M 332 139 C 353 143 366 160 364 185 C 355 168 344 166 339 157 C 335 152 333 146 332 139 Z" />
+        <path fill="none" stroke="#aaaaaa" stroke-width="1.32" opacity=".72" d="M 168 199 C 180 164 199 139 229 126 M 200 177 C 229 149 256 135 289 131 M 237 175 C 257 160 281 153 295 149 M 347 150 Q 363 163 366 179" />
+        <path fill="none" stroke="#5f5f5f" stroke-width="1.14" d="M 316 156 C 306 178 280 188 263 190 M 229 198 C 213 209 211 227 216 241 M 331 166 C 336 181 344 185 351 186" />
+        <path fill="none" stroke="#777777" stroke-width="1.05" d="M 159 179 C 141 175 147 143 166 134 M 317 155 C 314 182 291 202 267 204 M 204 253 C 200 269 211 281 215 289 Q 219 300 215 305 M 350 114 C 370 121 380 141 378 157" />
+      </g>
+      <g id="s2-ear">
+        <path fill="#e3e3e3" stroke="#909090" stroke-width="1.04" d="M 228 273 C 219 266 207 270 205 282 C 204 295 212 314 223 316 C 233 317 238 308 235 297 C 233 289 232 279 228 273 Z" />
+        <path fill="#c2c2c2" opacity=".62" d="M 216 277 C 209 278 211 292 214 301 C 218 290 225 294 228 302 C 230 291 223 277 216 277 Z" />
+        <path fill="none" stroke="#9a9a9a" stroke-width="1.14" d="M 213 286 C 214 281 222 283 226 291 M 218 300 C 224 297 228 302 227 306" />
+        <path fill="#f1f1f1" stroke="#939393" stroke-width=".9" d="M 223 310 C 226 308 229 310 229 313 C 229 316 225 317 223 314 Z" />
+      </g>
+      <g id="s2-collar" transform="translate(0 -20)">
+        <path fill="#c9c9c9" stroke="#969696" stroke-width="1.12" d="M 182 474 C 202 467 216 459 229 453 C 242 470 254 483 277 485 C 307 487 323 471 330 452 C 369 462 404 481 423 509 L 100 509 C 119 493 146 487 182 474 Z" />
+        <path fill="none" stroke="#ececec" stroke-width="3.1" d="M 230 458 C 245 480 258 490 279 491 C 305 493 323 477 333 458" />
+        <path fill="none" stroke="#aaaaaa" stroke-width="1.24" d="M 236 471 Q 244 482 250 483 M 257 486 Q 265 491 272 493 M 285 494 Q 298 494 306 489 M 317 482 Q 325 475 329 468" />
+      </g>
+    </g>
+  </g>
+  <text x="471" y="77" font-family="sans-serif" font-size="16" font-weight="400" fill="#414141">S2-v2</text>
+  <rect x="471" y="86" width="427" height="524" fill="#f8f8f8" rx="2" />
+  <g transform="translate(473.9600 92) scale(1.16) translate(-82 -65)">
+    <g id="v2-profile" stroke-linecap="round" stroke-linejoin="round">
+      <g id="v2-tied-hair">
+        <path fill="#6c6c6c" stroke="#656565" stroke-width="1.05" d="M 191 306 C 183 298 174 300 165 304 C 150 301 130 307 120 322 C 109 338 111 355 120 370 C 127 382 140 388 142 406 C 149 402 154 395 153 385 C 159 390 168 390 173 385 C 162 380 155 369 157 356 C 159 342 174 334 187 327 Z" />
+        <path fill="#8a8a8a" d="M 160 308 C 141 306 124 323 122 340 C 119 351 126 368 134 374 C 128 356 130 341 141 328 C 147 321 152 315 160 308 Z" />
+        <path fill="none" stroke="#8a8a8a" stroke-width="1.16" d="M 124 329 C 113 343 116 357 121 366" />
+        <path fill="#a3a3a3" stroke="#838383" stroke-width=".8" d="M 169 303 C 176 299 183 299 188 305 C 185 316 177 324 169 329 C 166 321 165 310 169 303 Z" />
+      </g>
+      <g id="v2-neckline">
+        <path id="v2-neck-shape" fill="url(#v2-neck)" stroke="#919191" stroke-width="1.02" d="M 214 312 C 225 326 262 345 309 349 C 305 368 306 384 318 396 C 332 409 358 417 376 431 C 359 451 320 468 278 468 C 234 467 200 456 181 434 C 203 423 226 417 237 401 C 250 382 231 353 222 338 C 216 328 214 320 214 312 Z" />
+        <path fill="none" stroke="#b7b7b7" stroke-width="1.23" d="M 281 371 C 283 386 289 396 301 403 M 298 422 Q 308 421 317 423" />
+        <path id="v2-collar" fill="#cccccc" stroke="#979797" stroke-width="1.08" d="M 182 435 C 200 430 216 423 228 415 C 242 433 258 444 280 445 C 303 446 322 432 332 415 C 366 422 403 440 421 470 L 101 470 C 122 452 150 448 182 435 Z" />
+        <path fill="none" stroke="#eeeeee" stroke-width="2.5" d="M 231 420 C 244 438 259 450 280 450 C 304 451 322 436 335 420" />
+      </g>
+      <g id="v2-face">
+        <path id="v2-contour" fill="url(#v2-skin)" stroke="#818181" stroke-width="1.12" d="M 199 297 C 188 262 190 217 206 181 C 223 143 257 121 296 120 C 330 119 353 134 362 158 C 372 179 365 199 359 221 C 355 236 355 248 360 259 C 364 269 369 276 374 282 C 378 287 377 292 373 295 C 370 297 367 296 364 297 C 361 298 361 301 362 304 C 363 307 367 308 368 312 C 369 315 367 317 365 319 C 363 321 362 322 363 324 C 366 328 363 333 359 337 C 356 341 356 349 350 355 C 342 364 331 367 317 365 C 293 365 266 359 247 348 C 225 336 207 323 199 297 Z" />
+        <path id="v2-plane" fill="#cccccc" opacity=".19" d="M 225 187 C 241 160 270 144 288 151 C 270 166 259 191 261 213 C 263 237 270 252 276 267 C 266 286 266 309 276 326 C 285 342 297 356 313 365 C 279 362 252 354 231 338 C 210 320 200 284 209 248 Z" />
+        <path id="v2-nose" fill="none" stroke="#a2a2a2" stroke-width="1.14" d="M 353 282 C 355 283 356 285 356 288 M 361 290 C 363 288 366 288 369 290" />
+        <path id="v2-nose-light" fill="#fcfcfc" opacity=".67" d="M 365 275 C 368 278 373 284 373 288 Q 369 286 365 281 Q 363 278 365 275 Z" />
+        <path id="v2-cheek-lift" fill="none" stroke="#b8b8b8" stroke-width="1.08" d="M 328 315 Q 332 314 334 315" />
+        <g id="v2-mouth">
+          <path id="v2-upper-lip" fill="#b5b5b5" d="M 335 321 C 344 320 352 313 360 311 C 363 310 366 311 368 313 C 364 315 359 315 354 318 C 348 321 342 323 335 321 Z" />
+          <path id="v2-mouth-opening" fill="#848484" d="M 336 321 C 344 322 351 319 357 316.6 Q 363 315 366 315 C 363 318 359 320 354 322 C 347 325 342 324 336 321 Z" />
+          <path fill="#e3e3e3" d="M 344 321.6 C 350 321 357 317.2 363 316.4 Q 357 320 351 322 Z" />
+          <path fill="#bdbdbd" d="M 339 323 C 350 326 357 321 363 319 C 360 326 350 330 339 323 Z" />
+          <path fill="none" stroke="#a9a9a9" stroke-width=".98" d="M 333 323 Q 333.5 321 336 321 M 348 329 Q 352 330 357 327" />
+        </g>
+        <g id="v2-almond-eye">
+          <path id="v2-brow" fill="#828282" d="M 286 233 C 295 224 309 222 321 225 C 328 227 333 229 337 232 C 334 234 329 232 324 231 C 310 226 297 228 286 233 Z" />
+          <path fill="none" stroke="#bdbdbd" stroke-width="1.13" d="M 296 244 C 308 237 322 238 332 243" />
+          <path id="v2-eye-white" fill="#fcfcfc" d="M 291 253 C 304 240.6 322 242 338 251 C 332 262.5 307 267 291 253 Z" />
+          <path id="v2-iris-shape" fill="url(#v2-iris)" d="M 318 245 C 325 244 332 247 337 251 C 334 257 330 260 322 260 C 317 259 315 251 318 245 Z" />
+          <path id="v2-pupil" fill="#595959" d="M 326 246 C 331 247 334 250 333 253 C 332 257 329 258 326 255 C 323 253 323 249 326 246 Z" />
+          <path fill="#f0f0f0" d="M 321 248 C 322 246 325 246 326 248 Q 326 251 323 251 Z" />
+          <path id="v2-upper-lid" fill="none" stroke="#707070" stroke-width="1.93" d="M 290 253 C 305 240.6 323 242 338 251 M 336 250 Q 338 249 340 246" />
+          <path id="v2-lower-lid" fill="none" stroke="#bdbdbd" stroke-width="1.04" d="M 299 258 C 307 263 317 262 324 261" />
+        </g>
+      </g>
+      <g id="v2-bangs">
+        <path id="v2-hair-outline" fill="url(#v2-hair)" stroke="#717171" stroke-width="1.06" d="M 214 306 C 202 320 190 323 180 314 C 173 307 170 297 173 286 C 161 274 155 255 160 235 C 150 222 150 205 156 189 C 153 169 166 148 182 137 C 191 120 210 110 234 107 C 252 97 271 96 292 101 C 316 100 337 109 351 123 C 368 137 374 154 370 171 C 367 184 362 194 356 205 C 357 186 350 175 340 170 C 331 166 323 156 320 145 C 312 161 300 174 283 180 C 270 185 256 189 247 201 C 247 197 247 192 249 187 C 232 197 227 204 224 220 C 220 235 218 246 221 258 C 216 273 210 285 214 306 Z" />
+        <path id="v2-bang-light" fill="#a1a1a1" opacity=".33" d="M 169 194 C 181 163 205 133 237 122 C 253 116 269 114 285 116 C 252 120 226 135 205 154 C 188 170 180 185 169 194 Z" />
+        <path id="v2-fringe-plane" fill="#4b4b4b" opacity=".13" d="M 322 146 C 312 167 302 174 283 180 C 270 185 256 190 247 201 C 253 190 265 183 278 177 C 294 170 311 156 322 146 Z" />
+        <path id="v2-temple-lock" fill="none" stroke="#929292" stroke-width="1.2" d="M 171 243 C 177 214 193 192 218 178 M 317 149 C 310 171 290 186 271 192" />
+        <path id="v2-wisps" fill="none" stroke="#858585" stroke-width="1.02" d="M 181 140 C 171 142 161 156 159 165 M 221 249 C 217 264 228 276 220 281 M 350 126 C 368 136 374 146 374 155" />
+      </g>
+      <g id="v2-ear">
+        <path fill="#e1e1e1" stroke="#9b9b9b" stroke-width=".96" d="M 227 272 C 217 266 207 271 205 282 C 204 295 212 311 223 313 C 234 314 238 306 234 295 C 231 288 231 279 227 272 Z" />
+        <path fill="#bfbfbf" opacity=".52" d="M 215 278 C 209 281 211 293 215 299 C 218 291 224 294 227 300 C 228 292 221 277 215 278 Z" />
+        <path fill="none" stroke="#a4a4a4" stroke-width="1.05" d="M 213 285 C 215 281 222 282 226 290 M 219 299 Q 225 296 227 304" />
+        <path fill="#f4f4f4" stroke="#979797" stroke-width=".77" d="M 223 307 C 225 305 229 307 229 310 C 229 313 225 314 223 311 Z" />
+      </g>
+    </g>
+  </g>
+</svg>
