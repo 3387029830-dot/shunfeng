@@ -16,7 +16,7 @@
 | `sf-illustration-art-direction` | 本项目原创 | 本分支内 | 本广告专用艺术指导、参考研究、人物审查门槛 | 优先级最高，项目偏好和用户批准流程不可被覆盖 |
 | `illustration-flat` | [MengTo/Skills](https://github.com/MengTo/Skills) | `3cc93458c4949c39a04e938ea7892a1d6d3d40bf` | 研究无描边扁平矢量、人物姿态、手部结构和 SVG 构造 | 上游人物是细长 corporate/design worker，不可照搬比例、配色或造型 |
 | `illustration-line-interior` | [MengTo/Skills](https://github.com/MengTo/Skills) | `3cc93458c4949c39a04e938ea7892a1d6d3d40bf` | 研究室内场景的空间组织、人物与家具关系、线面层级 | 上游为 indigo 线稿办公/设计室内，不可直接作为顺丰客厅画风 |
-| `game-character-design` | [jeremylongworth-source/AgentSkills](https://github.com/jeremylongworth-source/AgentSkills) | `45f314d2a3d3201dd5a0304a3f5a2` | 角色剪影、可读性、身份一致、姿态与制作检查 | 原用途是游戏角色，不能照搬战斗角色/武器/服装检查项；仅借用轮廓、身份和可读性原则 |
+| `game-character-design` | [jeremylongworth-source/AgentSkills](https://github.com/jeremylongworth-source/AgentSkills) | `45f314d2a3d3201dd5a0304a3f5a3f23a905a2` | 角色剪影、可读性、身份一致、姿态与制作检查 | 原用途是游戏角色，不能照搬战斗角色/武器/服装检查项；仅借用轮廓、身份和可读性原则 |
 
 上游两个仓库的 LICENSE 已随 vendored 文件保存在各自 Skill 目录中（MIT）。上游仓库地址、commit 固定，不追随浮动 main 更新。项目自有 skill 不依赖外部许可证。
 
