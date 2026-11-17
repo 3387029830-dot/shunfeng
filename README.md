@@ -1,3 +1,11 @@
+# 当前项目状态（2026-11-17 重启）
+
+**当前最终交付：一张顺丰同城平面广告海报。** 原人体时钟与三联方案已由用户明确推翻，仅作为历史档案保留。新流程见 [单张海报重启总控](docs/design/SINGLE_POSTER_RESET.md)。当前 Gate 0–2 尚未完成，最终方向未选定，禁止进入高保真制作。
+
+项目专用 Skill：`$sf-single-poster-art-direction`；配套 `$design-principles`、`$creative-direction`、`$art-direction`、`$collateral-design`。
+
+---
+
 # SF-City-Advertising
 
 顺丰同城三联广告的专业设计工程。**仅完成 Stage 0，尚未批准 Stage 1。**
