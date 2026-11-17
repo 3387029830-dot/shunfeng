@@ -21,3 +21,8 @@
 新项目规范：[docs/design/SINGLE_POSTER_RESET.md](design/SINGLE_POSTER_RESET.md)。新项目 Skill：`$sf-single-poster-art-direction`。外部设计技能来自固定提交 `zstvns/design-skills@6a8ea60e3fe70884138554a235ab77b6cb2106d5`，采用 MIT 许可证。当前流程为 Gate 0 重启简报、Gate 1 真实参考研究、Gate 2 创意发散、Gate 3 三个概念方向板、Gate 4 用户选定唯一方向、Gate 5 单张制作、Gate 6 印前审查与交付。Issue #7 仅授权 Skill 审计和 Gate 0 审核。审核与待确认事项记录在 [Skill 安装审计](design/SKILL_INSTALL_AUDIT.md)。
 
 本次只批准新项目流程、Skill 与研究规划。最终海报、图像生成、三方向板制作和高保真制作均须依照新 Gate 逐步授权，不得因旧 Issue #6 曾经授权而继续旧的女性角色方向。新分支 `design/single-poster-reset`。PR #3、PR #5、`main`、`dev` 保持原状。
+
+
+## 2026-11-17｜Gate 0 业务情境选择
+
+用户选择 **D｜泛同城即时配送**：不限定文件、餐饮、鲜花、商超等具体商品，重点表现顺丰同城整体服务价值及同一城市内的即时交付关系。该决定确认业务范围，不等于确认最终创意、文案、画幅，也不自动授权进入 Gate 1。主要目标受众、传播目标、课程必需信息及官方品牌资产来源仍待确认。
