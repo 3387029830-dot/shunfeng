@@ -1,6 +1,6 @@
 # 当前项目状态（2026-11-17 重启）
 
-**当前最终交付：一张顺丰同城平面广告海报。** 原人体时钟与三联方案已由用户明确推翻，仅作为历史档案保留。已确认 D｜泛同城即时配送。三张 Gate 3 低保真方向板已交审，等待 ChatGPT 与用户复审。参见[方向对照与验证](reports/stage3/REVIEW.md)、[单张海报重启总控](docs/design/SINGLE_POSTER_RESET.md)及[项目 Skill 安装审计](docs/design/SKILL_INSTALL_AUDIT.md)。
+**当前最终交付：一张顺丰同城平面广告海报。** 原人体时钟与三联方案已由用户明确推翻，仅作为历史档案保留。已确认 D｜泛同城即时配送。已选定 G3-B，B4-A / B4-B / B4-C 三个 Gate 4.5 结构版本已交审。等待 ChatGPT 与用户复审。参见[结构对照与验证](reports/stage4_5/REVIEW.md)、[单张海报重启总控](docs/design/SINGLE_POSTER_RESET.md)及[项目 Skill 安装审计](docs/design/SKILL_INSTALL_AUDIT.md)。
 
 项目专用 Skill：`$sf-single-poster-art-direction`；配套 `$design-principles`、`$creative-direction`、`$art-direction`、`$collateral-design`。
 

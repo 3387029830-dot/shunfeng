@@ -7,9 +7,9 @@
 | 0 重启简报 | 梳理配送情境、受众、传播目标、品牌事实、文案、媒介、尺寸、素材与版权 | [Gate 0 简报](docs/design/TASK_BRIEF_GATE0.md) | 用户已确认简报并选择 D｜泛同城即时配送 |
 | 1 参考研究 | 研究创意机制与视觉执行；至少 8 个真实可见参考、至少 4 个具体广告作品；补充拼贴、摄影合成、字体图像化、印刷质感 | [第一轮报告](docs/design/GATE1_REFERENCE_RESEARCH.md)；[艺术指导补充](docs/design/GATE1_ART_DIRECTION_ADDENDUM.md) | 用户已接受 Gate 1 研究并批准 Gate 2 |
 | 2 核心创意发散 | 至少 8 个视觉隐喻，按品牌关联、可读性、主体性、独特性、舒适度和执行风险筛选 | [Gate 2 创意发散报告](docs/design/GATE2_CONCEPT_EXPLORATION.md) | 已完成 10 个方向的发散与初筛。用户后来批准 Gate 3 的 B / C / C05 |
-| 3 概念方向板 | 按用户批准的 B / C / C05 制作三种低保真、同尺寸、可编辑完整构图；品牌元素必须融入结构 | [Gate 3 任务书](docs/design/GATE3_CONCEPT_BOARDS.md) · [三个方向板和比较报告](reports/stage3/REVIEW.md) | 已完成 B / C / C05 并提交近似检索与可读性证据，等待艺术复审 |
+| 3 概念方向板 | 按用户批准的 B / C / C05 制作三种低保真、同尺寸、可编辑完整构图；品牌元素必须融入结构 | [Gate 3 任务书](docs/design/GATE3_CONCEPT_BOARDS.md) · [三个方向板和比较报告](reports/stage3/REVIEW.md) | 三案已完成艺术复审，用户选择 G3-B |
 | 4 唯一方向批准 | 用户选定一个方向 | 冻结方向简报 | 用户已选择 G3-B「一座城市装进一个包裹」；C05 仅冻结备选，C 冻结 |
-| 4.5 B 方向定向深化 | 针对 G3-B 的交付点、出箱路径、品牌嵌入和同城叙事制作 3 个结构版本 | [Gate 4.5 任务书](docs/design/GATE4_5_B_REFINEMENT.md) | 完成后交审；不得自动进入 Gate 5 |
+| 4.5 B 方向定向深化 | 针对 G3-B 的交付点、出箱路径、品牌嵌入和同城叙事制作 3 个结构版本 | [Gate 4.5 任务书](docs/design/GATE4_5_B_REFINEMENT.md) · [三版、诊断与报告](reports/stage4_5/REVIEW.md) | B4-A / B4-B / B4-C 已交审，等待 ChatGPT 与用户评审 |
 | 5 单张海报制作 | 锁定印刷规格、真实文案、品牌事实和素材授权，制作 SVG 母版、Inkscape 校样及 Affinity 排版 | 一张可编辑海报 | 母版、原生排版和素材台账可审查 |
 | 6 输出与交付 | 检查尺寸、出血、色彩、字体、PDF 及源文件重开 | 一张最终海报及源文件 | 完成印前检查并取得用户批准 |
 

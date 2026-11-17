@@ -4,9 +4,9 @@
 
 本规范适用于此目录及子目录。当前最终交付为**一张顺丰同城实体印刷广告海报**。原人体时钟、三联叙事、固定腰胯、三姿态、旧 S2 角色及沙发客厅路线已被用户撤销。旧 Stage 1/1.1 与 PR #3 保留作历史档案，禁止删除、覆盖或从中复用视觉主体。中性测试及已验证的 SVG、Inkscape、Affinity 工具链可继续作为技术证据。
 
-当前以[单张海报重启总控](docs/design/SINGLE_POSTER_RESET.md)、[Gate 0 简报](docs/design/TASK_BRIEF_GATE0.md)和[项目 Skill](.agents/skills/sf-single-poster-art-direction/SKILL.md)为准。先应用 `$sf-single-poster-art-direction`，再按阶段应用 `$design-principles`、`$creative-direction`、`$art-direction`、`$collateral-design`。用户已选择 D｜泛同城即时配送并确认 Gate 0，接受 Gate 1 和 Gate 1B，批准 Gate 2 和 Gate 3。Issue #9 批准 G3-B、G3-C、G3-C05 三个低保真方向。三个方向的 [Gate 3 交付](reports/stage3/REVIEW.md)已完成，等待 ChatGPT 和用户艺术复审。用户未选定唯一方向，本项目停在 Gate 3。Gate 4 选定、Gate 5 制作和 Gate 6 交付均须分别审批。
+当前以[单张海报重启总控](docs/design/SINGLE_POSTER_RESET.md)、[Gate 0 简报](docs/design/TASK_BRIEF_GATE0.md)和[项目 Skill](.agents/skills/sf-single-poster-art-direction/SKILL.md)为准。先应用 `$sf-single-poster-art-direction`，再按阶段应用 `$design-principles`、`$creative-direction`、`$art-direction`、`$collateral-design`。用户已选择 D｜泛同城即时配送并确认 Gate 0，接受 Gate 1 和 Gate 1B，批准 Gate 2 和 Gate 3。Gate 3 已完成复审，用户已选择 G3-B 为唯一主线。G3-C05 仅为冻结备选，G3-C 冻结。Issue #10 批准 [Gate 4.5 定向深化](docs/design/GATE4_5_B_REFINEMENT.md)。[三个结构版本](reports/stage4_5/REVIEW.md)已交审，等待 ChatGPT 与用户评审。Gate 5 制作和 Gate 6 交付须分别审批。
 
-Issue #9 的交付分支为 `design/single-poster-reset`，审查沿用 Draft PR #8。禁止修改 `main`、`dev`、PR #3 或 PR #5，禁止合并和强推。交接使用[审查交接协议](docs/REVIEW_HANDOFF.md)和[资源同步规范](docs/RESOURCE_SYNC.md)，提供仓库相对路径、完整 SHA 和实际验证结果。
+Issue #10 的交付分支为 `design/single-poster-reset`，审查沿用 Draft PR #8。禁止修改 `main`、`dev`、PR #3 或 PR #5，禁止合并和强推。交接使用[审查交接协议](docs/REVIEW_HANDOFF.md)和[资源同步规范](docs/RESOURCE_SYNC.md)，提供仓库相对路径、完整 SHA 和实际验证结果。
 
 未经用户明确许可，不引入软件、插件、服务或系统依赖，不改全局配置，不公开仓库，不发起付费事项。当前流程禁止调用图像生成器。用户作最终创意与阶段决定，审批记录写入[决策记录](docs/DECISIONS.md)。保留原始证据和人工精修文件，测试报告区分通过、失败、受阻和未执行。
 

@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+     width="640" height="800" viewBox="0 0 640 800" role="img" aria-labelledby="board-title board-description">
+  <title id="board-title">B4-A｜短门槛落地</title>
+  <desc id="board-description">保留打开的城市箱体，以近水平的短门槛接到独立落点，一只完整封箱包裹停在台上。Gate 4.5 结构稿。品牌名称为普通文字占位，官方资产与包装形制待核验。</desc>
+  <g id="paper" inkscape:groupmode="layer" inkscape:label="01 纸面">
+    <rect width="640" height="800" fill="#f8f7f3"/>
+  </g>
+  <g id="scene" inkscape:groupmode="layer" inkscape:label="02 主视觉结构" stroke-linejoin="round" stroke-linecap="round">
+    <g id="carton-back" inkscape:label="外壳和展开箱翼" stroke="#2d3737" stroke-width="3">
+      <path d="M90 438 298 354 534 425 326 523Z" fill="#5b6666"/>
+      <path d="M90 438 65 397 278 315 298 354Z" fill="#e1e3dd"/>
+      <path d="M298 354 327 321 563 391 534 425Z" fill="#c7ccc7"/>
+      <path d="M90 438 299 371 520 427 327 509Z" fill="#a8b0ae" stroke="none"/>
+    </g>
+    <g id="inside-city" inkscape:label="从同一箱底立起的三个街块" stroke="#2d3737" stroke-width="2.5">
+      <path d="M143 422V327l36-15 50 13v92l-48 20Z" fill="#a2adac"/>
+      <path d="M143 327l36-15 50 13-46 18Z" fill="#ebede7"/>
+      <path d="M183 343v94l46-20v-92Z" fill="#778683"/>
+      <path d="M219 442V262l49-21 56 15v160l-57 24Z" fill="#b8c0ba"/>
+      <path d="M219 262l49-21 56 15-57 24Z" fill="#ebede7"/>
+      <path d="M267 280v160l57-24V256Z" fill="#737f7e"/>
+      <path d="M325 420v-91l51-20 61 18v83l-54 23Z" fill="#b8c0ba"/>
+      <path d="M325 329l51-20 61 18-54 23Z" fill="#ebede7"/>
+      <path d="M383 350v83l54-23v-83Z" fill="#798786"/>
+    </g>
+    <path id="inside-street" d="M291 424 313 415 452 467 405 488Z" fill="#e6e9e2"/>
+    <g id="carton-front" inkscape:label="前侧箱壁与宽开口" stroke="#2d3737" stroke-width="3">
+      <path d="M90 438 326 522v99L90 536Z" fill="#8a9694"/>
+      <path d="M326 522 394 490v14l91-42v-14l49-23v95L326 621Z" fill="#bfc7c3"/>
+      <path d="M90 438l-28 37 228 89 36-42Z" fill="#e1e3dd"/>
+      <path d="M534 425l46 24-84 39-11-40Z" fill="#e1e3dd"/>
+      <g id="brand-name" inkscape:label="印在主箱侧壁的品牌文字占位" stroke="none">
+        <text transform="translate(134 537) rotate(20)" fill="#202929"
+              font-family="PingFang SC, Heiti SC, sans-serif" font-size="17" font-weight="600">顺丰同城</text>
+      </g>
+    </g>
+    <g id="outside-landing" inkscape:label="箱外独立承托台" stroke="#2d3737" stroke-width="2.5">
+      <path d="M451 535 533 498 587 527 506 566v14l-55-30Z" fill="#c7d0c9"/>
+      <path d="M506 566 587 527v15l-81 38Z" fill="#84928e"/>
+    </g>
+    <g id="delivery-assembly" inkscape:label="短门槛与已落地包裹">
+      <g id="exit-connection" inkscape:label="与箱内街面等高的短门槛">
+        <path d="M402 482 450 462 509 506 461 528Z" fill="#e6e9e2" stroke="#586761" stroke-width="2"/>
+        <path d="M461 528 509 506v7l-48 22Z" fill="#85928e" stroke="#586761" stroke-width="1.5"/>
+        <path d="M434 505l48-21" fill="none" stroke="#9aa6a0" stroke-width="2"/>
+      </g>
+      <g id="delivered-parcel" inkscape:label="独立封箱包裹与接触影" stroke="#2d3737" stroke-width="2.5">
+        <path d="M481 541 538 512 573 533 515 561Z" fill="#a3afa7" stroke="none"/>
+        <path d="M482 504 539 478 574 498 517 525Z" fill="#dce6df"/>
+        <path d="M482 504 517 525v34l-35-20Z" fill="#7d999a"/>
+        <path d="M517 525 574 498v34l-57 27Z" fill="#587d86"/>
+        <path d="M498 497 533 517 546 511 511 491Z" fill="#f0eee0" stroke="none"/>
+        <path d="M533 517 546 511v14l-13 6Z" fill="#e6e6d5" stroke="none"/>
+      </g>
+    </g>
+  </g>
+  <g id="headline" inkscape:groupmode="layer" inkscape:label="03 概念文案占位" fill="#202929"
+     font-family="PingFang SC, Heiti SC, sans-serif">
+    <text x="56" y="78" font-size="15" letter-spacing="2">概念文案</text>
+    <text x="54" y="136" font-size="47" font-weight="600">一座城，装进包裹</text>
+  </g>
+  <g id="auxiliary" inkscape:groupmode="layer" inkscape:label="04 辅助信息占位" fill="#384343"
+     font-family="PingFang SC, Heiti SC, sans-serif">
+    <path d="M56 716H584" fill="none" stroke="#a6acab"/>
+    <text x="56" y="747" font-size="15">辅助信息占位 · 品牌资产待核验</text>
+    <text x="584" y="747" text-anchor="end" font-size="15">B4-A</text>
+  </g>
+</svg>

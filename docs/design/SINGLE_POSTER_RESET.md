@@ -56,7 +56,7 @@
 | Gate 2 核心创意发散 | 已完成 10 个隐喻与反向初筛。用户随后确定 B / C / C05 为 Gate 3 候选。见 [Gate 2 报告](GATE2_CONCEPT_EXPLORATION.md) |
 | Gate 3 三个概念方向板 | B / C / C05 已提交并完成艺术复审。见 [Gate 3 任务书](GATE3_CONCEPT_BOARDS.md)和[方向板交付](../../reports/stage3/REVIEW.md) |
 | Gate 4 用户选定唯一方向 | **用户已选择 G3-B「一座城市装进一个包裹」；C05 冻结为备选，C 冻结** |
-| Gate 4.5 B 方向定向深化 | **已批准，待 Codex 执行**。见 [Gate 4.5 任务书](GATE4_5_B_REFINEMENT.md) |
+| Gate 4.5 B 方向定向深化 | **三个结构版本已交审，等待 ChatGPT 与用户评审。** 见 [Gate 4.5 任务书](GATE4_5_B_REFINEMENT.md)与[本轮交付](../../reports/stage4_5/REVIEW.md) |
 | Gate 5 单张海报精细制作 | 未批准 |
 | Gate 6 单张成稿与印刷交付 | 未批准 |
 

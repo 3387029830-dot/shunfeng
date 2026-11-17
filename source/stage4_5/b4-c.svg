@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+     width="640" height="800" viewBox="0 0 640 800" role="img" aria-labelledby="board-title board-description">
+  <title id="board-title">B4-C｜街面连到接收湾</title>
+  <desc id="board-description">箱底街面穿过宽开口，连续到箱外的接收湾，停止在封箱包裹处。Gate 4.5 结构稿。品牌名称为普通文字占位，官方资产与包装形制待核验。</desc>
+  <g id="paper" inkscape:groupmode="layer" inkscape:label="01 纸面">
+    <rect width="640" height="800" fill="#f8f7f3"/>
+  </g>
+  <g id="scene" inkscape:groupmode="layer" inkscape:label="02 主视觉结构" stroke-linejoin="round" stroke-linecap="round">
+    <g id="carton-back" inkscape:label="外壳和展开箱翼" stroke="#2d3737" stroke-width="3">
+      <path d="M90 438 298 354 534 425 326 523Z" fill="#5b6666"/>
+      <path d="M90 438 65 397 278 315 298 354Z" fill="#e1e3dd"/>
+      <path d="M298 354 327 321 563 391 534 425Z" fill="#c7ccc7"/>
+      <path d="M90 438 299 371 520 427 327 509Z" fill="#a8b0ae" stroke="none"/>
+    </g>
+    <g id="inside-city" inkscape:label="从同一箱底立起的三个街块" stroke="#2d3737" stroke-width="2.5">
+      <path d="M143 422V327l36-15 50 13v92l-48 20Z" fill="#a2adac"/>
+      <path d="M143 327l36-15 50 13-46 18Z" fill="#ebede7"/>
+      <path d="M183 343v94l46-20v-92Z" fill="#778683"/>
+      <path d="M219 442V262l49-21 56 15v160l-57 24Z" fill="#b8c0ba"/>
+      <path d="M219 262l49-21 56 15-57 24Z" fill="#ebede7"/>
+      <path d="M267 280v160l57-24V256Z" fill="#737f7e"/>
+      <path d="M325 420v-91l51-20 61 18v83l-54 23Z" fill="#b8c0ba"/>
+      <path d="M325 329l51-20 61 18-54 23Z" fill="#ebede7"/>
+      <path d="M383 350v83l54-23v-83Z" fill="#798786"/>
+    </g>
+    <path id="inside-street" d="M279 429 310 416 460 460 385 494Z" fill="#e6e9e2"/>
+    <g id="carton-front" inkscape:label="前侧箱壁与宽开口" stroke="#2d3737" stroke-width="3">
+      <path d="M90 438 326 522v99L90 536Z" fill="#8a9694"/>
+      <path d="M326 522 377 498v21l118-54v-21l39-19v95L326 621Z" fill="#bfc7c3"/>
+      <path d="M90 438l-28 37 228 89 36-42Z" fill="#e1e3dd"/>
+      <path d="M534 425l46 24-84 39-11-40Z" fill="#e1e3dd"/>
+    </g>
+    <g id="outside-landing" inkscape:label="箱外接收湾与临街立边" stroke="#2d3737" stroke-width="2.5">
+      <path d="M379 545 485 489 587 537 565 550 565 564 480 610 451 595 451 580Z" fill="#a6b3ab"/>
+      <path d="M379 545 485 489 587 537 565 550 565 553 480 599 451 584 451 580Z" fill="#bdc9c1"/>
+      <path d="M480 599 565 553v11l-85 46Z" fill="#637b77"/>
+      <path d="M451 584 480 599v11l-29-15Z" fill="#8a9a94"/>
+      <path d="M565 550 587 537v14l-22 13Z" fill="#8a9a94"/>
+      <g id="brand-name" inkscape:label="落在接收湾竖向立边的品牌文字占位" stroke="none">
+        <text transform="translate(490 601) rotate(-29)" fill="#ffffff"
+              font-family="PingFang SC, Heiti SC, sans-serif" font-size="13.5" font-weight="600">顺丰同城</text>
+      </g>
+    </g>
+    <g id="delivery-assembly" inkscape:label="贯穿箱壁的同一街面与抵达包裹">
+      <g id="exit-connection" inkscape:label="同材质街面和尽端接收湾">
+        <path d="M385 494 460 460 495 480 486 500 556 533 474 575 402 540 423 524Z"
+              fill="#e6e9e2"/>
+        <path d="M395 503l28 21-21 16 72 35 82-42-70-33 9-20-22-12"
+              fill="none" stroke="#85968e" stroke-width="2.5"/>
+        <path d="M407 545l67 34 87-45" fill="none" stroke="#a3afa6" stroke-width="2"/>
+      </g>
+      <g id="delivered-parcel" inkscape:label="街面尽端的封箱件与落地接触" stroke="#2d3737" stroke-width="2.5">
+        <path d="M451 550 512 518 550 537 491 567Z" fill="#a6b3a9" stroke="none"/>
+        <path d="M446 513 508 480 548 499 486 531Z" fill="#dce6df"/>
+        <path d="M446 513 486 531v34l-40-20Z" fill="#7d999a"/>
+        <path d="M486 531 548 499v34l-62 32Z" fill="#587d86"/>
+        <path d="M467 502 507 521 521 514 481 495Z" fill="#f0eee0" stroke="none"/>
+        <path d="M507 521 521 514v14l-14 7Z" fill="#e6e6d5" stroke="none"/>
+      </g>
+    </g>
+  </g>
+  <g id="headline" inkscape:groupmode="layer" inkscape:label="03 概念文案占位" fill="#202929"
+     font-family="PingFang SC, Heiti SC, sans-serif">
+    <text x="56" y="78" font-size="15" letter-spacing="2">概念文案</text>
+    <text x="54" y="136" font-size="47" font-weight="600">一座城，装进包裹</text>
+  </g>
+  <g id="auxiliary" inkscape:groupmode="layer" inkscape:label="04 辅助信息占位" fill="#384343"
+     font-family="PingFang SC, Heiti SC, sans-serif">
+    <path d="M56 716H584" fill="none" stroke="#a6acab"/>
+    <text x="56" y="747" font-size="15">辅助信息占位 · 品牌资产待核验</text>
+    <text x="584" y="747" text-anchor="end" font-size="15">B4-C</text>
+  </g>
+</svg>

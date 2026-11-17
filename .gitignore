@@ -43,6 +43,18 @@ previews/stage3/*
 !previews/stage3/g3-b-checks.png
 !previews/stage3/g3-c-checks.png
 !previews/stage3/g3-c05-checks.png
+# Gate 4.5 boards, independent diagnostic PNGs and comparison sheets.
+!previews/stage4_5/
+previews/stage4_5/*
+!previews/stage4_5/comparison.png
+!previews/stage4_5/b4-[abc].png
+!previews/stage4_5/b4-[abc]-checks.png
+!previews/stage4_5/b4-[abc]-silhouette.png
+!previews/stage4_5/b4-[abc]-grayscale.png
+!previews/stage4_5/b4-[abc]-thumbnail.png
+!previews/stage4_5/b4-[abc]-no-headline.png
+!previews/stage4_5/b4-[abc]-no-brand.png
+!previews/stage4_5/b4-[abc]-no-delivery.png
 # Native binaries require explicit size/LFS review before adding.
 *.af
 *.afdesign
