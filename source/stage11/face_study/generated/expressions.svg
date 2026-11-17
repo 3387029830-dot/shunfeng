@@ -1,0 +1,248 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1198" height="637" viewBox="0 0 1198 637" version="1.1">
+  <rect id="paper" width="1198" height="637" fill="#dddddd" />
+  <text x="32" y="41" fill="#303030" font-family="sans-serif" font-size="27" font-weight="bold">A / three expressions</text>
+  <text x="32" y="66" fill="#575757" font-family="sans-serif" font-size="15" font-weight="normal">Shared skull, ear and hair geometry / local performance tests</text>
+  <defs>
+    <clipPath id="P1-profile-clip">
+      <rect x="32" y="126" width="350.37" height="379.44" />
+    </clipPath>
+    <clipPath id="P1-small-clip">
+      <rect x="32" y="551" width="59.54" height="64.48" />
+    </clipPath>
+    <clipPath id="P2-profile-clip">
+      <rect x="419" y="126" width="350.37" height="379.44" />
+    </clipPath>
+    <clipPath id="P2-small-clip">
+      <rect x="419" y="551" width="59.54" height="64.48" />
+    </clipPath>
+    <clipPath id="P3-profile-clip">
+      <rect x="806" y="126" width="350.37" height="379.44" />
+    </clipPath>
+    <clipPath id="P3-small-clip">
+      <rect x="806" y="551" width="59.54" height="64.48" />
+    </clipPath>
+  </defs>
+  <text x="32" y="111" fill="#353535" font-family="sans-serif" font-size="17" font-weight="bold">P1  Relax</text>
+  <rect x="32" y="126" width="350.37" height="379.44" fill="#f3f3f3" />
+  <g clip-path="url(#P1-profile-clip)">
+    <g id="P1-profile" transform="translate(-16.96 107.64) scale(1.53)">
+      <g id="P1-profile-A" transform="rotate(-8 113 128)">
+        <path id="P1-profile-A-ponytail" data-outline="true" fill="#424242" d="M 91 132 C 74 130 60 135 55 150 C 50 166 63 176 59 190 C 57 195 53 198 48 198 C 67 202 83 191 85 176 C 87 165 81 156 92 148 L 102 140 Z" />
+        <path id="P1-profile-A-tail-plane" fill="#545454" d="M 63 155 C 62 169 73 180 60 194 C 73 189 81 176 76 161 C 74 155 74 150 80 144 C 72 144 66 149 63 155 Z" />
+        <path id="P1-profile-A-neck" data-outline="true" fill="#d4d4d4" d="M 104 140 C 108 151 118 160 148 165 C 148 185 142 195 156 205 C 166 212 179 216 190 221 C 176 229 152 235 131 236 C 111 232 98 221 89 211 C 107 204 111 190 109 173 C 107 161 102 151 104 140 Z" />
+        <path id="P1-profile-A-neck-shadow" fill="#b6b6b6" d="M 109 144 C 122 157 137 163 148 165 C 148 181 143 192 150 200 C 132 197 125 189 121 177 C 117 166 111 158 109 144 Z" />
+        <path id="P1-profile-A-face" data-outline="true" fill="#dedede" d="M 88 114 C 82 93 88 66 102 53 C 118 36 144 37 160 47 C 176 57 180 74 177 89 C 175 98 174 104 177 110 C 180 116 184 122 188 127 C 192 130 192 133 189 135 C 186 137 183 137 182 140 C 181 143 183 145 184 147 C 186 149 184 151 182 152 C 180 154 181 156 182 158 C 185 167 180 175 172 178 C 162 182 150 179 142 174 C 130 168 125 159 116 153 C 101 145 92 132 88 114 Z" />
+        <path id="P1-profile-A-temple-plane" fill="#c7c7c7" d="M 100 75 C 112 66 124 65 136 72 C 133 84 131 95 134 107 C 137 118 144 125 150 129 C 144 141 142 154 150 167 C 153 172 158 176 164 179 C 152 180 139 174 132 166 C 124 156 112 154 105 146 C 94 136 92 123 91 108 Z" />
+        <path id="P1-profile-A-nose-plane" fill="#d0d0d0" d="M 173 110 C 177 116 182 121 186 125 C 189 129 190 131 187 133 C 183 135 178 133 174 133 C 175 128 175 122 172 118 Z" />
+        <path id="P1-profile-A-bridge-light" fill="#e9e9e9" d="M 177 111 C 181 118 185 123 187 126 C 184 125 181 122 177 119 C 174 116 173 113 177 111 Z" />
+        <path id="P1-profile-A-fringe" data-outline="true" fill="#393939" d="M 89 145 C 82 137 78 126 78 112 C 70 99 74 75 86 59 C 101 40 121 30 144 35 C 162 38 174 47 179 61 C 182 71 180 79 177 86 C 173 70 164 61 150 59 C 143 71 129 83 115 88 C 118 84 121 78 122 74 C 111 80 101 90 99 102 C 97 110 99 122 105 127 C 104 137 96 142 89 145 Z" />
+        <path id="P1-profile-A-crown-plane" fill="#505050" d="M 80 105 C 78 87 86 67 104 53 C 119 41 134 39 150 45 C 129 42 105 56 94 74 C 87 86 84 95 80 105 Z" />
+        <path id="P1-profile-A-part-plane" fill="#5b5b5b" d="M 151 51 C 164 54 175 64 177 78 C 170 67 160 61 150 59 C 141 71 131 78 122 81 C 134 72 144 63 151 51 Z" />
+        <path id="P1-profile-A-wisp" fill="none" stroke="#454545" stroke-width="1.65" stroke-linecap="round" d="M 105 99 C 101 105 101 113 104 119 C 106 123 105 127 103 130" />
+        <path id="P1-profile-A-ear" fill="#d5d5d5" d="M 116 117 C 109 111 101 114 103 126 C 105 137 110 146 117 144 C 123 142 122 130 116 117 Z" />
+        <path id="P1-profile-A-ear-plane" fill="#acacac" d="M 112 119 C 106 118 106 125 109 130 C 112 128 117 133 117 137 C 119 132 117 125 112 119 Z" />
+        <path id="P1-profile-A-fixed-nostril" fill="#a1a1a1" d="M 179.5 134 C 182 132.7 184 133.4 184.5 134.4 C 183 135.1 181 136 179.5 134 Z" />
+        <g id="P1-profile-P1">
+          <path id="P1-profile-P1-socket" fill="#c7c7c7" d="M 147 112 C 151 104 165 103 173 108 C 175 112 172 120 169 121 C 160 124 151 120 147 112 Z" />
+          <path id="P1-profile-P1-brow" fill="#686868" d="M 149 103 C 154 97 164 97 173 101 C 175 102 174 104 171 103 C 162 101 157 100 149 103 Z" />
+          <path id="P1-profile-P1-eye" fill="#ededed" d="M 150 113 C 156 109 166 108 173 113 C 165 117 157 117 150 113 Z" />
+          <path id="P1-profile-P1-iris" fill="#555555" d="M 164 109 C 168 109 171 110 172 113 C 170 115 166 116 163 114 Q 161 112 164 109 Z" />
+          <path id="P1-profile-P1-lid" fill="#4e4e4e" d="M 148 113 C 156 107 168 107 174 113 C 168 111 163 111 158 111 Q 152 112 148 113 Z" />
+          <path id="P1-profile-P1-cheek" fill="#e3e3e3" d="M 145 144 C 148 132 161 127 172 130 C 166 134 159 137 153 144 C 150 148 147 148 145 144 Z" />
+          <path id="P1-profile-P1-upper-lip" fill="#9a9a9a" d="M 166 151 C 172 149 178 146 181 146 Q 184 147 185 149 C 180 151 173 153 166 151 Z" />
+          <path id="P1-profile-P1-lower-lip" fill="#bfbfbf" d="M 166 152 C 171 154 178 151 183 151 Q 178 159 166 152 Z" />
+          <path id="P1-profile-P1-seam" fill="none" stroke="#747474" stroke-width="1.2" stroke-linecap="round" d="M 166 151.5 C 172 153 177 151 183 149.8" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <text x="32" y="540" fill="#303030" font-family="sans-serif" font-size="13" font-weight="normal">Triptych 1:2</text>
+  <rect x="32" y="551" width="59.54" height="64.48" fill="#f3f3f3" />
+  <g clip-path="url(#P1-small-clip)">
+    <g id="P1-small" transform="translate(23.68 547.88) scale(0.26)">
+      <g id="P1-small-A" transform="rotate(-8 113 128)">
+        <path id="P1-small-A-ponytail" data-outline="true" fill="#424242" d="M 91 132 C 74 130 60 135 55 150 C 50 166 63 176 59 190 C 57 195 53 198 48 198 C 67 202 83 191 85 176 C 87 165 81 156 92 148 L 102 140 Z" />
+        <path id="P1-small-A-tail-plane" fill="#545454" d="M 63 155 C 62 169 73 180 60 194 C 73 189 81 176 76 161 C 74 155 74 150 80 144 C 72 144 66 149 63 155 Z" />
+        <path id="P1-small-A-neck" data-outline="true" fill="#d4d4d4" d="M 104 140 C 108 151 118 160 148 165 C 148 185 142 195 156 205 C 166 212 179 216 190 221 C 176 229 152 235 131 236 C 111 232 98 221 89 211 C 107 204 111 190 109 173 C 107 161 102 151 104 140 Z" />
+        <path id="P1-small-A-neck-shadow" fill="#b6b6b6" d="M 109 144 C 122 157 137 163 148 165 C 148 181 143 192 150 200 C 132 197 125 189 121 177 C 117 166 111 158 109 144 Z" />
+        <path id="P1-small-A-face" data-outline="true" fill="#dedede" d="M 88 114 C 82 93 88 66 102 53 C 118 36 144 37 160 47 C 176 57 180 74 177 89 C 175 98 174 104 177 110 C 180 116 184 122 188 127 C 192 130 192 133 189 135 C 186 137 183 137 182 140 C 181 143 183 145 184 147 C 186 149 184 151 182 152 C 180 154 181 156 182 158 C 185 167 180 175 172 178 C 162 182 150 179 142 174 C 130 168 125 159 116 153 C 101 145 92 132 88 114 Z" />
+        <path id="P1-small-A-temple-plane" fill="#c7c7c7" d="M 100 75 C 112 66 124 65 136 72 C 133 84 131 95 134 107 C 137 118 144 125 150 129 C 144 141 142 154 150 167 C 153 172 158 176 164 179 C 152 180 139 174 132 166 C 124 156 112 154 105 146 C 94 136 92 123 91 108 Z" />
+        <path id="P1-small-A-nose-plane" fill="#d0d0d0" d="M 173 110 C 177 116 182 121 186 125 C 189 129 190 131 187 133 C 183 135 178 133 174 133 C 175 128 175 122 172 118 Z" />
+        <path id="P1-small-A-bridge-light" fill="#e9e9e9" d="M 177 111 C 181 118 185 123 187 126 C 184 125 181 122 177 119 C 174 116 173 113 177 111 Z" />
+        <path id="P1-small-A-fringe" data-outline="true" fill="#393939" d="M 89 145 C 82 137 78 126 78 112 C 70 99 74 75 86 59 C 101 40 121 30 144 35 C 162 38 174 47 179 61 C 182 71 180 79 177 86 C 173 70 164 61 150 59 C 143 71 129 83 115 88 C 118 84 121 78 122 74 C 111 80 101 90 99 102 C 97 110 99 122 105 127 C 104 137 96 142 89 145 Z" />
+        <path id="P1-small-A-crown-plane" fill="#505050" d="M 80 105 C 78 87 86 67 104 53 C 119 41 134 39 150 45 C 129 42 105 56 94 74 C 87 86 84 95 80 105 Z" />
+        <path id="P1-small-A-part-plane" fill="#5b5b5b" d="M 151 51 C 164 54 175 64 177 78 C 170 67 160 61 150 59 C 141 71 131 78 122 81 C 134 72 144 63 151 51 Z" />
+        <path id="P1-small-A-wisp" fill="none" stroke="#454545" stroke-width="1.65" stroke-linecap="round" d="M 105 99 C 101 105 101 113 104 119 C 106 123 105 127 103 130" />
+        <path id="P1-small-A-ear" fill="#d5d5d5" d="M 116 117 C 109 111 101 114 103 126 C 105 137 110 146 117 144 C 123 142 122 130 116 117 Z" />
+        <path id="P1-small-A-ear-plane" fill="#acacac" d="M 112 119 C 106 118 106 125 109 130 C 112 128 117 133 117 137 C 119 132 117 125 112 119 Z" />
+        <path id="P1-small-A-fixed-nostril" fill="#a1a1a1" d="M 179.5 134 C 182 132.7 184 133.4 184.5 134.4 C 183 135.1 181 136 179.5 134 Z" />
+        <g id="P1-small-P1">
+          <path id="P1-small-P1-socket" fill="#c7c7c7" d="M 147 112 C 151 104 165 103 173 108 C 175 112 172 120 169 121 C 160 124 151 120 147 112 Z" />
+          <path id="P1-small-P1-brow" fill="#686868" d="M 149 103 C 154 97 164 97 173 101 C 175 102 174 104 171 103 C 162 101 157 100 149 103 Z" />
+          <path id="P1-small-P1-eye" fill="#ededed" d="M 150 113 C 156 109 166 108 173 113 C 165 117 157 117 150 113 Z" />
+          <path id="P1-small-P1-iris" fill="#555555" d="M 164 109 C 168 109 171 110 172 113 C 170 115 166 116 163 114 Q 161 112 164 109 Z" />
+          <path id="P1-small-P1-lid" fill="#4e4e4e" d="M 148 113 C 156 107 168 107 174 113 C 168 111 163 111 158 111 Q 152 112 148 113 Z" />
+          <path id="P1-small-P1-cheek" fill="#e3e3e3" d="M 145 144 C 148 132 161 127 172 130 C 166 134 159 137 153 144 C 150 148 147 148 145 144 Z" />
+          <path id="P1-small-P1-upper-lip" fill="#9a9a9a" d="M 166 151 C 172 149 178 146 181 146 Q 184 147 185 149 C 180 151 173 153 166 151 Z" />
+          <path id="P1-small-P1-lower-lip" fill="#bfbfbf" d="M 166 152 C 171 154 178 151 183 151 Q 178 159 166 152 Z" />
+          <path id="P1-small-P1-seam" fill="none" stroke="#747474" stroke-width="1.2" stroke-linecap="round" d="M 166 151.5 C 172 153 177 151 183 149.8" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <text x="419" y="111" fill="#353535" font-family="sans-serif" font-size="17" font-weight="bold">P2  Focus on screen</text>
+  <rect x="419" y="126" width="350.37" height="379.44" fill="#f3f3f3" />
+  <g clip-path="url(#P2-profile-clip)">
+    <g id="P2-profile" transform="translate(370.04 107.64) scale(1.53)">
+      <g id="P2-profile-A" transform="rotate(8 113 128)">
+        <path id="P2-profile-A-ponytail" data-outline="true" fill="#424242" d="M 91 132 C 74 130 60 135 55 150 C 50 166 63 176 59 190 C 57 195 53 198 48 198 C 67 202 83 191 85 176 C 87 165 81 156 92 148 L 102 140 Z" />
+        <path id="P2-profile-A-tail-plane" fill="#545454" d="M 63 155 C 62 169 73 180 60 194 C 73 189 81 176 76 161 C 74 155 74 150 80 144 C 72 144 66 149 63 155 Z" />
+        <path id="P2-profile-A-neck" data-outline="true" fill="#d4d4d4" d="M 104 140 C 108 151 118 160 148 165 C 148 185 142 195 156 205 C 166 212 179 216 190 221 C 176 229 152 235 131 236 C 111 232 98 221 89 211 C 107 204 111 190 109 173 C 107 161 102 151 104 140 Z" />
+        <path id="P2-profile-A-neck-shadow" fill="#b6b6b6" d="M 109 144 C 122 157 137 163 148 165 C 148 181 143 192 150 200 C 132 197 125 189 121 177 C 117 166 111 158 109 144 Z" />
+        <path id="P2-profile-A-face" data-outline="true" fill="#dedede" d="M 88 114 C 82 93 88 66 102 53 C 118 36 144 37 160 47 C 176 57 180 74 177 89 C 175 98 174 104 177 110 C 180 116 184 122 188 127 C 192 130 192 133 189 135 C 186 137 183 137 182 140 C 181 143 183 145 184 147 C 186 149 184 151 182 152 C 180 154 181 156 182 158 C 185 167 180 175 172 178 C 162 182 150 179 142 174 C 130 168 125 159 116 153 C 101 145 92 132 88 114 Z" />
+        <path id="P2-profile-A-temple-plane" fill="#c7c7c7" d="M 100 75 C 112 66 124 65 136 72 C 133 84 131 95 134 107 C 137 118 144 125 150 129 C 144 141 142 154 150 167 C 153 172 158 176 164 179 C 152 180 139 174 132 166 C 124 156 112 154 105 146 C 94 136 92 123 91 108 Z" />
+        <path id="P2-profile-A-nose-plane" fill="#d0d0d0" d="M 173 110 C 177 116 182 121 186 125 C 189 129 190 131 187 133 C 183 135 178 133 174 133 C 175 128 175 122 172 118 Z" />
+        <path id="P2-profile-A-bridge-light" fill="#e9e9e9" d="M 177 111 C 181 118 185 123 187 126 C 184 125 181 122 177 119 C 174 116 173 113 177 111 Z" />
+        <path id="P2-profile-A-fringe" data-outline="true" fill="#393939" d="M 89 145 C 82 137 78 126 78 112 C 70 99 74 75 86 59 C 101 40 121 30 144 35 C 162 38 174 47 179 61 C 182 71 180 79 177 86 C 173 70 164 61 150 59 C 143 71 129 83 115 88 C 118 84 121 78 122 74 C 111 80 101 90 99 102 C 97 110 99 122 105 127 C 104 137 96 142 89 145 Z" />
+        <path id="P2-profile-A-crown-plane" fill="#505050" d="M 80 105 C 78 87 86 67 104 53 C 119 41 134 39 150 45 C 129 42 105 56 94 74 C 87 86 84 95 80 105 Z" />
+        <path id="P2-profile-A-part-plane" fill="#5b5b5b" d="M 151 51 C 164 54 175 64 177 78 C 170 67 160 61 150 59 C 141 71 131 78 122 81 C 134 72 144 63 151 51 Z" />
+        <path id="P2-profile-A-wisp" fill="none" stroke="#454545" stroke-width="1.65" stroke-linecap="round" d="M 105 99 C 101 105 101 113 104 119 C 106 123 105 127 103 130" />
+        <path id="P2-profile-A-ear" fill="#d5d5d5" d="M 116 117 C 109 111 101 114 103 126 C 105 137 110 146 117 144 C 123 142 122 130 116 117 Z" />
+        <path id="P2-profile-A-ear-plane" fill="#acacac" d="M 112 119 C 106 118 106 125 109 130 C 112 128 117 133 117 137 C 119 132 117 125 112 119 Z" />
+        <path id="P2-profile-A-fixed-nostril" fill="#a1a1a1" d="M 179.5 134 C 182 132.7 184 133.4 184.5 134.4 C 183 135.1 181 136 179.5 134 Z" />
+        <g id="P2-profile-P2">
+          <path id="P2-profile-P2-socket" fill="#c1c1c1" d="M 146 112 C 151 101 166 104 174 111 C 178 116 171 123 163 124 C 154 123 149 119 146 112 Z" />
+          <path id="P2-profile-P2-brow" fill="#626262" d="M 149 104 C 154 99 165 100 173 106 Q 175 108 172 108 C 163 104 155 103 149 104 Z" />
+          <path id="P2-profile-P2-eye" fill="#ededed" d="M 150 113 C 157 109 166 111 173 116 C 170 121 157 122 150 113 Z" />
+          <path id="P2-profile-P2-iris" fill="#555555" d="M 162 113 C 166 113 170 114 172 116 C 171 119 169 122 165 121 C 162 121 161 117 162 113 Z" />
+          <path id="P2-profile-P2-pupil" fill="#343434" data-center="166 117.4" d="M 164 114.7 Q 167 114 168.4 116 Q 169 118.6 166.3 120 Q 164 120.3 163.9 117.8 Z" />
+          <path id="P2-profile-P2-lid" fill="#515151" d="M 148 112 C 155 106 167 110 174 116 L 174 118 C 166 113 158 111.5 153 113 Z" />
+          <path id="P2-profile-P2-cheek" fill="#e3e3e3" d="M 146 146 C 149 135 160 127 171 131 C 164 136 156 140 152 146 Q 149 149 146 146 Z" />
+          <path id="P2-profile-P2-lip" fill="#a0a0a0" d="M 165 152 C 170 151 176 147 181 147 Q 183 147 185 149 Q 180 152 177 154 C 171 156 168 155 165 152 Z" />
+          <path id="P2-profile-P2-lip-seam" fill="none" stroke="#777777" stroke-width="1.15" stroke-linecap="round" d="M 166 152 C 173 153 177 151 183 150" />
+        </g>
+      </g>
+      <g id="P2-profile-phone">
+        <path id="P2-profile-phone-body" fill="#5b5b5b" d="M 213 177 Q 212 175 215 174 L 229 169 Q 232 168 233 171 L 245 198 Q 246 201 243 202 L 228 208 Q 226 209 225 206 Z" />
+        <path id="P2-profile-phone-plane" fill="#aaaaaa" d="M 216 177 L 231 172 L 242 198 L 227 204 Z" />
+      </g>
+    </g>
+  </g>
+  <text x="419" y="540" fill="#303030" font-family="sans-serif" font-size="13" font-weight="normal">Triptych 1:2</text>
+  <rect x="419" y="551" width="59.54" height="64.48" fill="#f3f3f3" />
+  <g clip-path="url(#P2-small-clip)">
+    <g id="P2-small" transform="translate(410.68 547.88) scale(0.26)">
+      <g id="P2-small-A" transform="rotate(8 113 128)">
+        <path id="P2-small-A-ponytail" data-outline="true" fill="#424242" d="M 91 132 C 74 130 60 135 55 150 C 50 166 63 176 59 190 C 57 195 53 198 48 198 C 67 202 83 191 85 176 C 87 165 81 156 92 148 L 102 140 Z" />
+        <path id="P2-small-A-tail-plane" fill="#545454" d="M 63 155 C 62 169 73 180 60 194 C 73 189 81 176 76 161 C 74 155 74 150 80 144 C 72 144 66 149 63 155 Z" />
+        <path id="P2-small-A-neck" data-outline="true" fill="#d4d4d4" d="M 104 140 C 108 151 118 160 148 165 C 148 185 142 195 156 205 C 166 212 179 216 190 221 C 176 229 152 235 131 236 C 111 232 98 221 89 211 C 107 204 111 190 109 173 C 107 161 102 151 104 140 Z" />
+        <path id="P2-small-A-neck-shadow" fill="#b6b6b6" d="M 109 144 C 122 157 137 163 148 165 C 148 181 143 192 150 200 C 132 197 125 189 121 177 C 117 166 111 158 109 144 Z" />
+        <path id="P2-small-A-face" data-outline="true" fill="#dedede" d="M 88 114 C 82 93 88 66 102 53 C 118 36 144 37 160 47 C 176 57 180 74 177 89 C 175 98 174 104 177 110 C 180 116 184 122 188 127 C 192 130 192 133 189 135 C 186 137 183 137 182 140 C 181 143 183 145 184 147 C 186 149 184 151 182 152 C 180 154 181 156 182 158 C 185 167 180 175 172 178 C 162 182 150 179 142 174 C 130 168 125 159 116 153 C 101 145 92 132 88 114 Z" />
+        <path id="P2-small-A-temple-plane" fill="#c7c7c7" d="M 100 75 C 112 66 124 65 136 72 C 133 84 131 95 134 107 C 137 118 144 125 150 129 C 144 141 142 154 150 167 C 153 172 158 176 164 179 C 152 180 139 174 132 166 C 124 156 112 154 105 146 C 94 136 92 123 91 108 Z" />
+        <path id="P2-small-A-nose-plane" fill="#d0d0d0" d="M 173 110 C 177 116 182 121 186 125 C 189 129 190 131 187 133 C 183 135 178 133 174 133 C 175 128 175 122 172 118 Z" />
+        <path id="P2-small-A-bridge-light" fill="#e9e9e9" d="M 177 111 C 181 118 185 123 187 126 C 184 125 181 122 177 119 C 174 116 173 113 177 111 Z" />
+        <path id="P2-small-A-fringe" data-outline="true" fill="#393939" d="M 89 145 C 82 137 78 126 78 112 C 70 99 74 75 86 59 C 101 40 121 30 144 35 C 162 38 174 47 179 61 C 182 71 180 79 177 86 C 173 70 164 61 150 59 C 143 71 129 83 115 88 C 118 84 121 78 122 74 C 111 80 101 90 99 102 C 97 110 99 122 105 127 C 104 137 96 142 89 145 Z" />
+        <path id="P2-small-A-crown-plane" fill="#505050" d="M 80 105 C 78 87 86 67 104 53 C 119 41 134 39 150 45 C 129 42 105 56 94 74 C 87 86 84 95 80 105 Z" />
+        <path id="P2-small-A-part-plane" fill="#5b5b5b" d="M 151 51 C 164 54 175 64 177 78 C 170 67 160 61 150 59 C 141 71 131 78 122 81 C 134 72 144 63 151 51 Z" />
+        <path id="P2-small-A-wisp" fill="none" stroke="#454545" stroke-width="1.65" stroke-linecap="round" d="M 105 99 C 101 105 101 113 104 119 C 106 123 105 127 103 130" />
+        <path id="P2-small-A-ear" fill="#d5d5d5" d="M 116 117 C 109 111 101 114 103 126 C 105 137 110 146 117 144 C 123 142 122 130 116 117 Z" />
+        <path id="P2-small-A-ear-plane" fill="#acacac" d="M 112 119 C 106 118 106 125 109 130 C 112 128 117 133 117 137 C 119 132 117 125 112 119 Z" />
+        <path id="P2-small-A-fixed-nostril" fill="#a1a1a1" d="M 179.5 134 C 182 132.7 184 133.4 184.5 134.4 C 183 135.1 181 136 179.5 134 Z" />
+        <g id="P2-small-P2">
+          <path id="P2-small-P2-socket" fill="#c1c1c1" d="M 146 112 C 151 101 166 104 174 111 C 178 116 171 123 163 124 C 154 123 149 119 146 112 Z" />
+          <path id="P2-small-P2-brow" fill="#626262" d="M 149 104 C 154 99 165 100 173 106 Q 175 108 172 108 C 163 104 155 103 149 104 Z" />
+          <path id="P2-small-P2-eye" fill="#ededed" d="M 150 113 C 157 109 166 111 173 116 C 170 121 157 122 150 113 Z" />
+          <path id="P2-small-P2-iris" fill="#555555" d="M 162 113 C 166 113 170 114 172 116 C 171 119 169 122 165 121 C 162 121 161 117 162 113 Z" />
+          <path id="P2-small-P2-pupil" fill="#343434" data-center="166 117.4" d="M 164 114.7 Q 167 114 168.4 116 Q 169 118.6 166.3 120 Q 164 120.3 163.9 117.8 Z" />
+          <path id="P2-small-P2-lid" fill="#515151" d="M 148 112 C 155 106 167 110 174 116 L 174 118 C 166 113 158 111.5 153 113 Z" />
+          <path id="P2-small-P2-cheek" fill="#e3e3e3" d="M 146 146 C 149 135 160 127 171 131 C 164 136 156 140 152 146 Q 149 149 146 146 Z" />
+          <path id="P2-small-P2-lip" fill="#a0a0a0" d="M 165 152 C 170 151 176 147 181 147 Q 183 147 185 149 Q 180 152 177 154 C 171 156 168 155 165 152 Z" />
+          <path id="P2-small-P2-lip-seam" fill="none" stroke="#777777" stroke-width="1.15" stroke-linecap="round" d="M 166 152 C 173 153 177 151 183 150" />
+        </g>
+      </g>
+      <g id="P2-small-phone">
+        <path id="P2-small-phone-body" fill="#5b5b5b" d="M 213 177 Q 212 175 215 174 L 229 169 Q 232 168 233 171 L 245 198 Q 246 201 243 202 L 228 208 Q 226 209 225 206 Z" />
+        <path id="P2-small-phone-plane" fill="#aaaaaa" d="M 216 177 L 231 172 L 242 198 L 227 204 Z" />
+      </g>
+    </g>
+  </g>
+  <text x="806" y="111" fill="#353535" font-family="sans-serif" font-size="17" font-weight="bold">P3  Anticipate the bite</text>
+  <rect x="806" y="126" width="350.37" height="379.44" fill="#f3f3f3" />
+  <g clip-path="url(#P3-profile-clip)">
+    <g id="P3-profile" transform="translate(757.04 107.64) scale(1.53)">
+      <g id="P3-profile-A" transform="rotate(2 113 128)">
+        <path id="P3-profile-A-ponytail" data-outline="true" fill="#424242" d="M 91 132 C 74 130 60 135 55 150 C 50 166 63 176 59 190 C 57 195 53 198 48 198 C 67 202 83 191 85 176 C 87 165 81 156 92 148 L 102 140 Z" />
+        <path id="P3-profile-A-tail-plane" fill="#545454" d="M 63 155 C 62 169 73 180 60 194 C 73 189 81 176 76 161 C 74 155 74 150 80 144 C 72 144 66 149 63 155 Z" />
+        <path id="P3-profile-A-neck" data-outline="true" fill="#d4d4d4" d="M 104 140 C 108 151 118 160 148 165 C 148 185 142 195 156 205 C 166 212 179 216 190 221 C 176 229 152 235 131 236 C 111 232 98 221 89 211 C 107 204 111 190 109 173 C 107 161 102 151 104 140 Z" />
+        <path id="P3-profile-A-neck-shadow" fill="#b6b6b6" d="M 109 144 C 122 157 137 163 148 165 C 148 181 143 192 150 200 C 132 197 125 189 121 177 C 117 166 111 158 109 144 Z" />
+        <path id="P3-profile-A-face" data-outline="true" fill="#dedede" d="M 88 114 C 82 93 88 66 102 53 C 118 36 144 37 160 47 C 176 57 180 74 177 89 C 175 98 174 104 177 110 C 180 116 184 122 188 127 C 192 130 192 133 189 135 C 186 137 183 137 182 140 C 181 143 183 145 184 146 C 185 147 185 149 183 150 C 180 151 178 153 175 155 C 176 158 181 158 182 160 C 186 167 181 177 172 181 C 162 185 150 181 142 174 C 130 168 125 159 116 153 C 101 145 92 132 88 114 Z" />
+        <path id="P3-profile-A-temple-plane" fill="#c7c7c7" d="M 100 75 C 112 66 124 65 136 72 C 133 84 131 95 134 107 C 137 118 144 125 150 129 C 144 141 142 154 150 167 C 153 172 158 176 164 179 C 152 180 139 174 132 166 C 124 156 112 154 105 146 C 94 136 92 123 91 108 Z" />
+        <path id="P3-profile-A-nose-plane" fill="#d0d0d0" d="M 173 110 C 177 116 182 121 186 125 C 189 129 190 131 187 133 C 183 135 178 133 174 133 C 175 128 175 122 172 118 Z" />
+        <path id="P3-profile-A-bridge-light" fill="#e9e9e9" d="M 177 111 C 181 118 185 123 187 126 C 184 125 181 122 177 119 C 174 116 173 113 177 111 Z" />
+        <path id="P3-profile-A-fringe" data-outline="true" fill="#393939" d="M 89 145 C 82 137 78 126 78 112 C 70 99 74 75 86 59 C 101 40 121 30 144 35 C 162 38 174 47 179 61 C 182 71 180 79 177 86 C 173 70 164 61 150 59 C 143 71 129 83 115 88 C 118 84 121 78 122 74 C 111 80 101 90 99 102 C 97 110 99 122 105 127 C 104 137 96 142 89 145 Z" />
+        <path id="P3-profile-A-crown-plane" fill="#505050" d="M 80 105 C 78 87 86 67 104 53 C 119 41 134 39 150 45 C 129 42 105 56 94 74 C 87 86 84 95 80 105 Z" />
+        <path id="P3-profile-A-part-plane" fill="#5b5b5b" d="M 151 51 C 164 54 175 64 177 78 C 170 67 160 61 150 59 C 141 71 131 78 122 81 C 134 72 144 63 151 51 Z" />
+        <path id="P3-profile-A-wisp" fill="none" stroke="#454545" stroke-width="1.65" stroke-linecap="round" d="M 105 99 C 101 105 101 113 104 119 C 106 123 105 127 103 130" />
+        <path id="P3-profile-A-ear" fill="#d5d5d5" d="M 116 117 C 109 111 101 114 103 126 C 105 137 110 146 117 144 C 123 142 122 130 116 117 Z" />
+        <path id="P3-profile-A-ear-plane" fill="#acacac" d="M 112 119 C 106 118 106 125 109 130 C 112 128 117 133 117 137 C 119 132 117 125 112 119 Z" />
+        <path id="P3-profile-A-fixed-nostril" fill="#a1a1a1" d="M 179.5 134 C 182 132.7 184 133.4 184.5 134.4 C 183 135.1 181 136 179.5 134 Z" />
+        <g id="P3-profile-P3">
+          <path id="P3-profile-P3-socket" fill="#c7c7c7" d="M 147 109 C 154 102 168 101 173 108 C 176 114 169 119 164 119 C 155 120 149 117 147 109 Z" />
+          <path id="P3-profile-P3-brow" fill="#626262" d="M 149 102 C 156 94 165 95 173 100 C 175 102 173 104 171 102 Q 160 98 149 102 Z" />
+          <path id="P3-profile-P3-eye" fill="#ececec" d="M 150 112 C 157 107 169 106 173 111 C 169 117 157 116 150 112 Z" />
+          <path id="P3-profile-P3-iris" fill="#535353" d="M 164 109 C 168 108 171 109 173 111 C 171 115 168 117 164 115 C 162 113 162 111 164 109 Z" />
+          <path id="P3-profile-P3-lid" fill="#4b4b4b" d="M 148 112 C 154 105 169 103 175 111 C 167 107 159 108 154 111 Q 152 113 148 112 Z" />
+          <path id="P3-profile-P3-cheek-lift" fill="#e6e6e6" d="M 143 138 C 148 126 160 121 173 124 C 173 128 168 132 164 134 C 156 136 151 142 146 142 Q 144 142 143 138 Z" />
+          <path id="P3-profile-P3-mouth-opening" fill="#737373" d="M 164 151 C 169 152 175 148 180 147 C 182 147 184 148 184 149 C 182 152 179 152 176 155 C 175 156 177 158 181 159 C 176 161 171 158 168 155 Q 166 153 164 151 Z" />
+          <path id="P3-profile-P3-lower-lip" fill="#b1b1b1" d="M 168 155 C 173 159 177 160 181 159 C 181 161 178 162 176 162 C 173 162 169 159 168 155 Z" />
+          <path id="P3-profile-P3-lip-light" fill="#d3d3d3" d="M 171 153 Q 177 151 181 150.5 Q 179 153 175 154 Z" />
+        </g>
+      </g>
+      <g id="P3-profile-fork" transform="translate(-4 -.5)">
+        <path id="P3-profile-fork-wire" fill="none" stroke="#686868" stroke-width="1.55" stroke-linecap="round" d="M 254 185 C 238 181 222 171 207 164 Q 203 162 195 159 M 204 164 L 195 161 M 203 166 L 194 163" />
+        <path id="P3-profile-fork-bite" fill="#959595" d="M 194 154 Q 198 153 201 156 L 201 160 Q 196 161 192 158 Z" />
+        <path id="P3-profile-fork-bite-top" fill="#bdbdbd" d="M 193 154 Q 196 152 198 154 L 201 156 Q 196 156 193 154 Z" />
+      </g>
+    </g>
+  </g>
+  <text x="806" y="540" fill="#303030" font-family="sans-serif" font-size="13" font-weight="normal">Triptych 1:2</text>
+  <rect x="806" y="551" width="59.54" height="64.48" fill="#f3f3f3" />
+  <g clip-path="url(#P3-small-clip)">
+    <g id="P3-small" transform="translate(797.68 547.88) scale(0.26)">
+      <g id="P3-small-A" transform="rotate(2 113 128)">
+        <path id="P3-small-A-ponytail" data-outline="true" fill="#424242" d="M 91 132 C 74 130 60 135 55 150 C 50 166 63 176 59 190 C 57 195 53 198 48 198 C 67 202 83 191 85 176 C 87 165 81 156 92 148 L 102 140 Z" />
+        <path id="P3-small-A-tail-plane" fill="#545454" d="M 63 155 C 62 169 73 180 60 194 C 73 189 81 176 76 161 C 74 155 74 150 80 144 C 72 144 66 149 63 155 Z" />
+        <path id="P3-small-A-neck" data-outline="true" fill="#d4d4d4" d="M 104 140 C 108 151 118 160 148 165 C 148 185 142 195 156 205 C 166 212 179 216 190 221 C 176 229 152 235 131 236 C 111 232 98 221 89 211 C 107 204 111 190 109 173 C 107 161 102 151 104 140 Z" />
+        <path id="P3-small-A-neck-shadow" fill="#b6b6b6" d="M 109 144 C 122 157 137 163 148 165 C 148 181 143 192 150 200 C 132 197 125 189 121 177 C 117 166 111 158 109 144 Z" />
+        <path id="P3-small-A-face" data-outline="true" fill="#dedede" d="M 88 114 C 82 93 88 66 102 53 C 118 36 144 37 160 47 C 176 57 180 74 177 89 C 175 98 174 104 177 110 C 180 116 184 122 188 127 C 192 130 192 133 189 135 C 186 137 183 137 182 140 C 181 143 183 145 184 146 C 185 147 185 149 183 150 C 180 151 178 153 175 155 C 176 158 181 158 182 160 C 186 167 181 177 172 181 C 162 185 150 181 142 174 C 130 168 125 159 116 153 C 101 145 92 132 88 114 Z" />
+        <path id="P3-small-A-temple-plane" fill="#c7c7c7" d="M 100 75 C 112 66 124 65 136 72 C 133 84 131 95 134 107 C 137 118 144 125 150 129 C 144 141 142 154 150 167 C 153 172 158 176 164 179 C 152 180 139 174 132 166 C 124 156 112 154 105 146 C 94 136 92 123 91 108 Z" />
+        <path id="P3-small-A-nose-plane" fill="#d0d0d0" d="M 173 110 C 177 116 182 121 186 125 C 189 129 190 131 187 133 C 183 135 178 133 174 133 C 175 128 175 122 172 118 Z" />
+        <path id="P3-small-A-bridge-light" fill="#e9e9e9" d="M 177 111 C 181 118 185 123 187 126 C 184 125 181 122 177 119 C 174 116 173 113 177 111 Z" />
+        <path id="P3-small-A-fringe" data-outline="true" fill="#393939" d="M 89 145 C 82 137 78 126 78 112 C 70 99 74 75 86 59 C 101 40 121 30 144 35 C 162 38 174 47 179 61 C 182 71 180 79 177 86 C 173 70 164 61 150 59 C 143 71 129 83 115 88 C 118 84 121 78 122 74 C 111 80 101 90 99 102 C 97 110 99 122 105 127 C 104 137 96 142 89 145 Z" />
+        <path id="P3-small-A-crown-plane" fill="#505050" d="M 80 105 C 78 87 86 67 104 53 C 119 41 134 39 150 45 C 129 42 105 56 94 74 C 87 86 84 95 80 105 Z" />
+        <path id="P3-small-A-part-plane" fill="#5b5b5b" d="M 151 51 C 164 54 175 64 177 78 C 170 67 160 61 150 59 C 141 71 131 78 122 81 C 134 72 144 63 151 51 Z" />
+        <path id="P3-small-A-wisp" fill="none" stroke="#454545" stroke-width="1.65" stroke-linecap="round" d="M 105 99 C 101 105 101 113 104 119 C 106 123 105 127 103 130" />
+        <path id="P3-small-A-ear" fill="#d5d5d5" d="M 116 117 C 109 111 101 114 103 126 C 105 137 110 146 117 144 C 123 142 122 130 116 117 Z" />
+        <path id="P3-small-A-ear-plane" fill="#acacac" d="M 112 119 C 106 118 106 125 109 130 C 112 128 117 133 117 137 C 119 132 117 125 112 119 Z" />
+        <path id="P3-small-A-fixed-nostril" fill="#a1a1a1" d="M 179.5 134 C 182 132.7 184 133.4 184.5 134.4 C 183 135.1 181 136 179.5 134 Z" />
+        <g id="P3-small-P3">
+          <path id="P3-small-P3-socket" fill="#c7c7c7" d="M 147 109 C 154 102 168 101 173 108 C 176 114 169 119 164 119 C 155 120 149 117 147 109 Z" />
+          <path id="P3-small-P3-brow" fill="#626262" d="M 149 102 C 156 94 165 95 173 100 C 175 102 173 104 171 102 Q 160 98 149 102 Z" />
+          <path id="P3-small-P3-eye" fill="#ececec" d="M 150 112 C 157 107 169 106 173 111 C 169 117 157 116 150 112 Z" />
+          <path id="P3-small-P3-iris" fill="#535353" d="M 164 109 C 168 108 171 109 173 111 C 171 115 168 117 164 115 C 162 113 162 111 164 109 Z" />
+          <path id="P3-small-P3-lid" fill="#4b4b4b" d="M 148 112 C 154 105 169 103 175 111 C 167 107 159 108 154 111 Q 152 113 148 112 Z" />
+          <path id="P3-small-P3-cheek-lift" fill="#e6e6e6" d="M 143 138 C 148 126 160 121 173 124 C 173 128 168 132 164 134 C 156 136 151 142 146 142 Q 144 142 143 138 Z" />
+          <path id="P3-small-P3-mouth-opening" fill="#737373" d="M 164 151 C 169 152 175 148 180 147 C 182 147 184 148 184 149 C 182 152 179 152 176 155 C 175 156 177 158 181 159 C 176 161 171 158 168 155 Q 166 153 164 151 Z" />
+          <path id="P3-small-P3-lower-lip" fill="#b1b1b1" d="M 168 155 C 173 159 177 160 181 159 C 181 161 178 162 176 162 C 173 162 169 159 168 155 Z" />
+          <path id="P3-small-P3-lip-light" fill="#d3d3d3" d="M 171 153 Q 177 151 181 150.5 Q 179 153 175 154 Z" />
+        </g>
+      </g>
+      <g id="P3-small-fork" transform="translate(-4 -.5)">
+        <path id="P3-small-fork-wire" fill="none" stroke="#686868" stroke-width="1.55" stroke-linecap="round" d="M 254 185 C 238 181 222 171 207 164 Q 203 162 195 159 M 204 164 L 195 161 M 203 166 L 194 163" />
+        <path id="P3-small-fork-bite" fill="#959595" d="M 194 154 Q 198 153 201 156 L 201 160 Q 196 161 192 158 Z" />
+        <path id="P3-small-fork-bite-top" fill="#bdbdbd" d="M 193 154 Q 196 152 198 154 L 201 156 Q 196 156 193 154 Z" />
+      </g>
+    </g>
+  </g>
+</svg>

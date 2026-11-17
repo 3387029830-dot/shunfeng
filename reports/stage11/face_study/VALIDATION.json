@@ -1,0 +1,123 @@
+{
+  "baseline": "2e0cf0fc37a89d8b41506a92aa1209aa860a93ee",
+  "technical_status": "PASS",
+  "inkscape": "Inkscape 1.4.4 (dcaf3e7, 2026-05-05)",
+  "direction_candidates": [
+    "A",
+    "B",
+    "C"
+  ],
+  "acting_prototype": "A",
+  "local_geometry": {
+    "P2": {
+      "eye": [
+        162.09749515943358,
+        119.95475487822786
+      ],
+      "pupil": [
+        166.95944251347993,
+        124.87933282222284
+      ],
+      "screen": [
+        230,
+        188
+      ],
+      "gaze_at_screen_x": [
+        230,
+        188.7319655984486
+      ],
+      "gaze_distance_from_screen_center": 0.7319655984485962
+    },
+    "P3": {
+      "mouth": [
+        176.0885255116596,
+        155.21833846443747
+      ],
+      "bite": [
+        191,
+        156.5
+      ],
+      "approach_distance": 14.966453411151448
+    }
+  },
+  "inputs_sha256": {
+    "source/stage11/face_study/refined/directions.svg": "7eec6ebc644e303b3bc1b475b6304bb43a3f9da31410cfd95deef66cf2b6b63b",
+    "source/stage11/face_study/refined/acting.svg": "89bf8c52215cc32ee19b0df92eb6d90c4fe44c3d8f6fe82cb609fe9030585047",
+    "config/stage11/face_study/study.json": "13e799371068c9cd61297c794d23e40d636e4060860ecea887eac2b0493f2ac8"
+  },
+  "svg_sha256": {
+    "source/stage11/face_study/generated/expressions.svg": "8f958862a3b1e2f5cfcdee6e38cd6d79777058af807df567ed30bde68d062fb2",
+    "source/stage11/face_study/generated/face_directions.svg": "b0ee0593aec343a29b98514289b407659d8f2fccdf50c4e4103d89a3aab1537a",
+    "source/stage11/face_study/generated/gaze_bite.svg": "0b08c6bebc86deccb9c8c3093034c1b6d454702f43ac7e406c6d585966b8866a"
+  },
+  "exports": {
+    "previews/stage11/face_study/expressions.png": {
+      "pixels": [
+        1198,
+        637
+      ],
+      "sha256": "37dc2b55d8eadd06839331c1d5f02b4ae583e678c8a7fc625e12094f94eefb6e",
+      "repeat_sha256_equal": true
+    },
+    "previews/stage11/face_study/face_directions.png": {
+      "pixels": [
+        965,
+        645
+      ],
+      "sha256": "2a3a741e166c241eebbbce824fcfa8060c94653e5ab91715cce1b1b772147471",
+      "repeat_sha256_equal": true
+    },
+    "previews/stage11/face_study/gaze_bite.png": {
+      "pixels": [
+        829,
+        554
+      ],
+      "sha256": "6065556d8da02c8a188659615d970e783f7da0eefc13bca58f2063907fe2a833",
+      "repeat_sha256_equal": true
+    }
+  },
+  "commands": [
+    {
+      "command": "inkscape --version",
+      "exit": 0
+    },
+    {
+      "command": "python3 scripts/stage11/face_study/build.py",
+      "exit": 0
+    },
+    {
+      "command": "python3 scripts/stage11/face_study/build.py",
+      "exit": 0
+    },
+    {
+      "command": "git diff --name-only 2e0cf0fc37a89d8b41506a92aa1209aa860a93ee -- . ':(exclude,glob)**/face_study/**'",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/face_study/generated/expressions.svg --export-filename=previews/stage11/face_study/expressions.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/face_study/generated/expressions.svg --export-filename=<scratch>/expressions.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/face_study/generated/face_directions.svg --export-filename=previews/stage11/face_study/face_directions.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/face_study/generated/face_directions.svg --export-filename=<scratch>/face_directions.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/face_study/generated/gaze_bite.svg --export-filename=previews/stage11/face_study/gaze_bite.png",
+      "exit": 0
+    },
+    {
+      "command": "inkscape source/stage11/face_study/generated/gaze_bite.svg --export-filename=<scratch>/gaze_bite.png",
+      "exit": 0
+    }
+  ],
+  "art_status": "PENDING",
+  "triptych_integration": "NOT EXECUTED"
+}
