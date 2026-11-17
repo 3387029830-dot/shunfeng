@@ -28,6 +28,19 @@ description: 顺丰同城单张平面广告项目总控。用户要求广告创�
 9. **明确停点**：每阶段提交证据和预览，等待用户明确选择。不能把建议当批准，不能因技术通过就自我批准进入下一阶段。
 10. **历史隔离**：原人体时钟三联及 Stage 1.1 是历史归档。不要删除、覆盖或从旧稿复制视觉主体。只可借鉴已验证的技术工具链。
 
+## 协同 Skill 的项目边界
+
+先读取[项目重启规范](../../../docs/design/SINGLE_POSTER_RESET.md)和[当前 Gate 0 简报](../../../docs/design/TASK_BRIEF_GATE0.md)。用它们核对单张交付、传播任务与委托范围。品牌素材状态和授权以[品牌资产目录说明](../../../assets/brand/README.md)和[授权台账](../../../assets/licenses.md)为依据。上游提及的 `.agents/brand.md`、`.agents/design.md`、`.agents/product-marketing.md` 及 Logo/图像素材库在本项目仅对应这些已核验资料和随后获批的阶段记录。空缺标为未知，取得批准后再登记实际素材。
+
+| 协同 Skill | 在本项目使用的部分 |
+|---|---|
+| [design-principles](../design-principles/SKILL.md) | Gate 0 核对单一传播任务和读者。后续依据实际作品检验视觉层级、区分度和模板化表现。 |
+| [creative-direction](../creative-direction/SKILL.md) | Gate 0 核对已知输入、工作假设与需用户决策的事项。方向比较和视觉系统记录遵循 Gate 2–4。 |
+| [art-direction](../art-direction/SKILL.md) | Gate 0 核对参考来源与素材可用性。在 Gate 1 开始后查阅实际图像、提取可转译原则并登记使用范围。 |
+| [collateral-design](../collateral-design/SKILL.md) | Gate 0 梳理实体展示和印刷规格。Gate 5–6 用可编辑 SVG、Inkscape、Affinity 和实物尺寸校样完成审查。 |
+
+上游的生成器、Claude Design、Figma、Adobe MCP、自动路由到仓库外 Skill、批量应用、HTML viewer 及示例脚本均停用。Magister HTML 演示依赖未锁定的远程脚本、字体和图像，仅保留作上游源码审计，不在浏览器中打开或执行。诸如外部素材搜索命令、ImageMagick 命令、viewer 脚本和无头浏览器示例均无需运行。Gate 0 可阅读方法和审查任务范围，实际参考研究、概念板和制作按各 Gate 的批准执行。
+
 ## 新流程（不得跳步）
 
 ### Gate 0 — 重启任务简报

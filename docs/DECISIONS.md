@@ -18,6 +18,6 @@
 
 用户明确决定彻底推翻人体模拟时钟、三张系列海报及原人物/客厅方案，最终只保留一张海报。用户提供七张图作为参考，要求提取“时间、快速、主体性、强物件关系”的方法。旧稿保留为历史档案，不删除、不覆盖、不复用旧视觉主体。
 
-新项目规范：[docs/design/SINGLE_POSTER_RESET.md](design/SINGLE_POSTER_RESET.md)。新项目 Skill：`$sf-single-poster-art-direction`。外部设计技能来自固定提交 `zstvns/design-skills@6a8ea60e3fe70884138554a235ab77b6cb2106d5`，采用 MIT 许可证。当前流程：Gate 0 brief → Gate 1 真实参考研究 → Gate 2 概念发散/三个方向板 → 用户选定唯一方向 → 一张海报制作 → 印前交付。
+新项目规范：[docs/design/SINGLE_POSTER_RESET.md](design/SINGLE_POSTER_RESET.md)。新项目 Skill：`$sf-single-poster-art-direction`。外部设计技能来自固定提交 `zstvns/design-skills@6a8ea60e3fe70884138554a235ab77b6cb2106d5`，采用 MIT 许可证。当前流程为 Gate 0 重启简报、Gate 1 真实参考研究、Gate 2 创意发散、Gate 3 三个概念方向板、Gate 4 用户选定唯一方向、Gate 5 单张制作、Gate 6 印前审查与交付。Issue #7 仅授权 Skill 审计和 Gate 0 审核。审核与待确认事项记录在 [Skill 安装审计](design/SKILL_INSTALL_AUDIT.md)。
 
 本次只批准新项目流程、Skill 与研究规划。最终海报、图像生成、三方向板制作和高保真制作均须依照新 Gate 逐步授权，不得因旧 Issue #6 曾经授权而继续旧的女性角色方向。新分支 `design/single-poster-reset`。PR #3、PR #5、`main`、`dev` 保持原状。

@@ -1,47 +1,48 @@
 # 项目执行规范
 
-本项目为大学平面广告课程的顺丰同城三联广告，核心创意“人体时钟”。本规范适用于此目录及子目录。用户原始任务见 docs/USER_TASK_V1.md。
+## 当前项目重启指令（2026-11-17）
 
-## 当前状态与优先级
+本规范适用于此目录及子目录。当前最终交付为**一张顺丰同城实体印刷广告海报**。原人体时钟、三联叙事、固定腰胯、三姿态、旧 S2 角色及沙发客厅路线已被用户撤销。旧 Stage 1/1.1 与 PR #3 保留作历史档案，禁止删除、覆盖或从中复用视觉主体。中性测试及已验证的 SVG、Inkscape、Affinity 工具链可继续作为技术证据。
+
+当前以[单张海报重启总控](docs/design/SINGLE_POSTER_RESET.md)、[Gate 0 简报](docs/design/TASK_BRIEF_GATE0.md)和[项目 Skill](.agents/skills/sf-single-poster-art-direction/SKILL.md)为准。先应用 `$sf-single-poster-art-direction`，再按阶段应用 `$design-principles`、`$creative-direction`、`$art-direction`、`$collateral-design`。当前停在 Gate 0 简报确认；收到明确授权后才进入 Gate 1 参考研究。按 Gate 2 发散、Gate 3 比较三个概念方向、Gate 4 选择唯一方向、Gate 5 制作、Gate 6 印刷交付依次审批。本轮范围为 Skill 安装验证、流程审计与 Gate 0 缺口整理。
+
+Issue #7 仅授权在 `design/single-poster-reset` 更新项目 Skill、`docs/design/`、`AGENTS.md`、`README.md`、`ROADMAP.md`、`docs/DECISIONS.md`、`docs/REVIEW_HANDOFF.md` 及本轮审计报告，沿用 Draft PR #8。禁止修改 `main`、`dev`、PR #3 或 PR #5，禁止合并和强推。交接使用[审查交接协议](docs/REVIEW_HANDOFF.md)和[资源同步规范](docs/RESOURCE_SYNC.md)，提供仓库相对路径、完整 SHA 和实际验证结果。
+
+未经用户明确许可，不引入软件、插件、服务或系统依赖，不改全局配置，不公开仓库，不发起付费事项。当前流程禁止调用图像生成器。用户作最终创意与阶段决定，审批记录写入[决策记录](docs/DECISIONS.md)。保留原始证据和人工精修文件，测试报告区分通过、失败、受阻和未执行。
+
+## 历史档案｜原人体时钟三联任务
+
+以下保留旧阶段的原始项目约束及迁移授权记录。当前项目执行以上重启指令。
+
+本项目为大学平面广告课程的顺丰同城三联广告，核心创意“人体时钟”。以下记录当时适用于此目录及子目录。用户原始任务见 docs/USER_TASK_V1.md。
+
+### 当前状态与优先级
 
 当前只完成 Stage 0 技术研究，停在审查。未经用户或规划层明确批准，不得开始 Stage 1，更不得正式绘图。后续每个阶段完成后停止交审，禁止以测试成功、时间不足或自动续跑跳过审批。审批写入 docs/DECISIONS.md，含日期、批准者、范围、允许文件；无记录时先查会话已授权范围，不自行假定批准。
 
 决策顺序：用户已确认创意/阶段授权 → 人体时钟几何与固定腰胯 → 同人物同场景同构图 → 自然居家 → 品牌融入 → 风格表现 → 自动化便利。第一视觉人体时钟，第二视觉温暖居家，第三视觉品牌，不可用巨大 Logo 或大量文字覆盖创意。
 
-## 视觉禁区
+### 视觉禁区
 
 禁止把墙钟当核心、三张无关插画、AI 一次性生图、一次性脚本海报代替专业工作流。不得夸张扭曲人体以拉长指针。禁用具体时间标签，保持腿部主方向和钟心不变。不得把中性测试角度、配色、画幅当作最终设计；风格仍待验证。
 
-## 文件与权限
+### 文件与权限
 
 Stage 0 可写 docs、reports、scripts、config 中性测试契约、tests、previews 的诊断文件；source 和 assets 不得在无后续阶段批准时加入正式人物/场景/品牌资产。之后每轮任务需列允许文件；未经允许不改公共背景、角色比例、钟心和原生精修稿。程序只覆盖自己拥有的生成区，不覆盖人工 SVG 或原生工程。采用稳定ID和资产映射，更新前保存副本与哈希。
 
 不得安装软件/插件、付费、接未知MCP、改系统/全局Python/Homebrew、自动建远程仓库或推送。缺工具则记录阻断，不把未运行测试记成功。不得读取任务无关凭证和私密文件。没有必要不增加新软件。
 
-## 证据和版本
+### 证据和版本
 
 官方支持、本机通过、失败、阻断、待验证分开。每次记录执行命令/版本/输入/输出/exit/日志；记录人工验证者及截图。保留可编辑源、参数、原生文件和导出，不以PNG为唯一源。重大变化追加 DECISIONS；人工修形与生成源分离，变更清单配SHA256，过期文件明确标记。不改上级既有Git配置，不自动用LFS。
 
-## 协作和完成报告
+### 协作和完成报告
 
 ChatGPT 负责艺术方向、姿态、品牌、系列审查；Codex 负责管线、参数、文件交换、测试、版本证据；用户负责最终创意、新工具和阶段批准。每轮交接含目标、允许文件、不允许内容、具体要求、输出、验收、风险。完成报告逐项说明实际修改文件、成功/未执行/失败、偏离计划、可审查结果、风险与建议下一步。阶段结束必须停下，不擅自继续。
 
 
-## GitHub 协作制度（本轮用户明确授权）
+### GitHub 协作制度（本轮用户明确授权）
 
 本轮允许创建/复用私有 SF-City-Advertising 仓库、提交并同步 Stage 0 脱敏副本、建立 main/dev。此授权不包含绘图或进入 Stage 1；原“不得自动建仓/推送”规则由本轮明确迁移指令在该范围内覆盖。后续阶段变更在 dev 或 dev 派生分支提交，通过 PR 请求验收；未经明确审查批准不得将正式设计改动合入 main，不启用自动合并或强推。服务器保护是否启用须看 MIGRATION_REPORT，不把文档规则冒充平台保护。
 
 所有交接必须遵循 docs/REVIEW_HANDOFF.md，以仓库相对路径和完整提交 SHA 为依据。未经授权不得公开仓库、添加协作者或付费启用功能。迁移后的当前规范以 docs/RESOURCE_SYNC.md 为准；原 Stage 0 审计和日志属于历史证据，脱敏不改变测试结论。
-
-
-## 当前项目重启指令（2026-11-17，优先于下方旧人体时钟规范）
-
-用户已明确推翻原人体模拟时钟创意、原三张系列海报、原人物/沙发/客厅及旧 S2 角色路线。最终成果改为**一张顺丰同城商业广告海报**。旧 Stage 1/1.1 与 PR #3 的所有内容只作历史档案，不删除、不覆盖、不复用其视觉主体。
-
-当前任务的唯一有效设计流程、阶段门槛、七张用户参考图的研究边界与验收要求，以 [docs/design/SINGLE_POSTER_RESET.md](docs/design/SINGLE_POSTER_RESET.md) 和 [.agents/skills/sf-single-poster-art-direction/SKILL.md](.agents/skills/sf-single-poster-art-direction/SKILL.md) 为准。必须使用 `$sf-single-poster-art-direction`，并按需使用 `$design-principles`、`$creative-direction`、`$art-direction`、`$collateral-design`。
-
-本次仅授权：在 `design/single-poster-reset` 分支建立新 Skill 与重启文档、进行工具/流程审计和后续获批的参考/概念研究。**本次不授权制作任何最终海报、不授权生成式图片、不授权 Stage 5/6（单张成稿及印刷交付）**。三种概念方向板可以在后续 Gate 0/1/2 完成并得到明确授权后制作；三种方向板不是最终三张海报。用户选定唯一方向前不得高保真制作。
-
-本轮允许的 Git 范围为新分支上的 `.agents/skills/`、`docs/design/`、`AGENTS.md`、`README.md`、`ROADMAP.md`、`docs/DECISIONS.md`、`docs/REVIEW_HANDOFF.md` 和本轮审计报告。不得改 `main`、`dev`、PR #3 或 PR #5。不得合并任何 PR，不得强推。
-
-此前文档中关于“人体时钟第一视觉”“固定腰胯”“三姿态”“三联”等旧要求已被本节覆盖，作为历史设计决策保留，不再作为当前生产约束。
