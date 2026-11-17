@@ -33,6 +33,16 @@ previews/*
 !previews/state_03.png
 !previews/geometry_contact.png
 !previews/pdf_check.png
+# Gate 3 comparison, boards, and one diagnostics sheet per board.
+!previews/stage3/
+previews/stage3/*
+!previews/stage3/comparison.png
+!previews/stage3/g3-b.png
+!previews/stage3/g3-c.png
+!previews/stage3/g3-c05.png
+!previews/stage3/g3-b-checks.png
+!previews/stage3/g3-c-checks.png
+!previews/stage3/g3-c05-checks.png
 # Native binaries require explicit size/LFS review before adding.
 *.af
 *.afdesign
